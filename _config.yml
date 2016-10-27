@@ -4,7 +4,7 @@ title: Anthroplogy
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /globalstudies
+baseurl: /anthro
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -12,13 +12,12 @@ tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
 description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
 # List of related keywords for search engines
-keywords: highered, college, university, philadelphia, Temple, global studies
-
+keywords: highered, college, university, philadelphia, Temple, anthropology
 # Address
 address:
-  building: Anderson Hall
-  room: 8th Floor, Room 832
-  street: 1114 Polett Walk
+  building: Gladfelter Hall
+  room: 2nd Floor
+  street: 1115 West Berks Street 
   city: Phialdelphia, PA 19122
 
 # Social Media
