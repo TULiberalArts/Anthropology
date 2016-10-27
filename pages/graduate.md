@@ -4,6 +4,12 @@ permalink: "/graduate"
 layout: page
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research to make a significant contribution to the discipline of anthropology. We offer four sub-disciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector.
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple graduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+## Career Enhancing Coursework
+
+We offer a series of research methods courses — both  quantitative and qualitative — that equip students with the hard analytical skills that employers desire
+
+## Academic offerings
+
+ - PhD in Anthropology (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
