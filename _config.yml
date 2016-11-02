@@ -13,6 +13,7 @@ tagline: This is our life's work
 description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple, anthropology
+
 # Address
 address:
   building: Gladfelter Hall
@@ -76,8 +77,8 @@ permalink: /:title
 
 # Prose
 prose:
-  rooturl: "pages"
-  media: "media"
+  rooturl: pages
+  media: media
   ignore:
   - .gitignore
   - Gemfile
@@ -87,20 +88,20 @@ prose:
   - _config.yml
   metadata:
     pages:
-      - name: "title"
-        field:""
-          element: "text"
-          label: "Title"
-      - name: "permalink"
+      - name: title
         field:
-          element: "text"
-          label: "Permalink"
-      - name: "layout"
+          element: text
+          label: Title
+      - name: permalink
         field:
-          element: "select"
-          label: "Page layout"
+          element: text
+          label: Permalink
+      - name: layout
+        field:
+          element: select
+          label: Page layout
           options:
-            - name: "page"
-              value: "page"
-            - name: "faculty"
-              value: "faculty"
+            - name: page
+              value: page
+            - name: faculty
+              value: faculty
