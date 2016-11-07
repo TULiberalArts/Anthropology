@@ -4,7 +4,7 @@ title: Anthroplogy
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /anthropology
+baseurl: /
 
 # Program Information
 # Short tagline for tweets (<100 characters)
