@@ -13,6 +13,3 @@ install:
 script:
 - bundle exec jekyll build
 - timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
-deploy:
-  provider: azure_web_apps
-  skip_cleanup: true
