@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: "/next-stops/"
 layout: page
 ---
 Recently, our students have landed coveted internships with the following employers:
