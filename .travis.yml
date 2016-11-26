@@ -13,3 +13,10 @@ install:
 script:
 - bundle exec jekyll build
 - timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: tucla
+  skip_cleanup: true
+  local_dir: _site
