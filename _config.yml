@@ -105,3 +105,8 @@ prose:
               value: page
             - name: faculty
               value: faculty
+
+source_url:
+  repo: https://github.com/TULiberalArts/Anthropology
+  commits: https://github.com/TULiberalArts/Anthropology/commits/master
+  issues: https://github.com/TULiberalArts/Anthropology/issues
