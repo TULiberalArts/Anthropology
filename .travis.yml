@@ -20,3 +20,5 @@ deploy:
   bucket: tucla-anthropology
   skip_cleanup: true
   local_dir: _site
+notifications:
+  slack: $SLACK_ID
