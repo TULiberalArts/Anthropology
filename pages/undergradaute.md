@@ -38,9 +38,16 @@ We offer a multitude of experiential learning opportunities and facilities right
 
 Anthropology is the study, from multiple perspectives, of humanity's origins, development, activities, and experiences, throughout time and throughout the world. Drawing on a wide range of theoretical and methodological approaches, anthropologists seek answers to such questions as: What does it mean to be human? How have humans developed over the course of time? What human universals can be identified, and what is the range of human diversity, both physical and cultural? How do people interact with their physical and social environments? How and to what extent does being a speaker of a particular language or languages affect the ways in which one perceives and experiences the world? How do historical, social, cultural, politico-economic, and ecological factors shape the lives of particular groups of people, and of particular individuals within those groups?
 
-Anthropology comprises four subdisciplines, all of which are well represented at Temple: [archaeology]http://www.cla.temple.edu/anthro/archaeology/index.html, [biological anthropology]http://www.cla.temple.edu/anthro/biological/index.html, [linguistic anthropology]http://www.cla.temple.edu/anthro/linguistic/index.html, and [sociocultural anthropology]http://www.cla.temple.edu/anthro/sociocultural/index.html. We also offer specialized courses and training in [anthropology of visual communication]http://www.cla.temple.edu/anthro/visual/index.html (which draws primarily on linguistic anthropology and sociocultural anthropology).
+Anthropology comprises four subdisciplines, all of which are well represented at Temple:
 
-- ## Archaeology
+- [archaeology](http://www.cla.temple.edu/anthro/archaeology/index.html)
+- [biological anthropology](http://www.cla.temple.edu/anthro/biological/index.html)
+- [linguistic anthropology](http://www.cla.temple.edu/anthro/linguistic/index.html)
+- [sociocultural anthropology](http://www.cla.temple.edu/anthro/sociocultural/index.html).
+
+We also offer specialized courses and training in [anthropology of visual communication](http://www.cla.temple.edu/anthro/visual/index.html) (which draws primarily on linguistic anthropology and sociocultural anthropology).
+
+## Archaeology
 Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes, and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns, human interactions with the environment.
 
 Some areas of focus:
@@ -53,47 +60,53 @@ Some key questions:
 -Why did cities emerge, apparently quite independently in different parts of the world?
 -How are identities formed, both of individuals and of groups?
 
-- ## Biological Anthropology
+## Biological Anthropology
 Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes, and culture interact to shape human biology in the past and present.
 
 Some key areas of focus:
--Faculty and students study the ways in which humans have adapted to extreme environments, such as high altitude.
--Faculty and students study the genetic basis and evolutionary origins of human diseases.
--Faculty and students study the role of nutrition in shaping growth and development, and human health over the life course.
+
+- Faculty and students study the ways in which humans have adapted to extreme environments, such as high altitude.
+- Faculty and students study the genetic basis and evolutionary origins of human diseases.
+- Faculty and students study the role of nutrition in shaping growth and development, and human health over the life course.
 
 Some key questions:
+
 - What were our ancestors like?
 - What are the biological bases of uniquely human traits, as they compare to living and extinct primates?
 - How can we explain physical variation among human populations?
 
-- ## Linguistic Anthropology
+### Linguistic Anthropology
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture, and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
 
 Some areas of focus:
--Language socialization: The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
--Language contact: The study of the historical, political, and sociocultural dynamics of two or more languages in contact.
--Language ideology: The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
+
+- Language socialization: The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
+- Language contact: The study of the historical, political, and sociocultural dynamics of two or more languages in contact.
+- Language ideology: The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
 
 Some key questions:
--What are the dynamic relationships among language, culture, and society?
--How do children and other novices develop the fluency to use languages in socially intelligible and culturally appropriate ways?
--What does it mean when we lose the last speaker of a language, and what factors lead to these situations?
 
-- ## Sociocultural Anthropology
+- What are the dynamic relationships among language, culture, and society?
+- How do children and other novices develop the fluency to use languages in socially intelligible and culturally appropriate ways?
+- What does it mean when we lose the last speaker of a language, and what factors lead to these situations?
+
+### Sociocultural Anthropology
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others.
 To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
 Some areas of focus:
+
 - Political anthropology: The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
 - Media anthropology: The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
 - Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
 
 Some key questions:
-- How do macro-level processes impact everday lived experiences?
+
+- How do macro-level processes impact everyday lived experiences?
 - Are there human "cultural universals" and do they change over time?
 - How is globalization changing the way people understand themselves and others?
 
-- ## Anthropology of Visual Communication
+### Anthropology of Visual Communication
 Temple University's Department of Anthropology has long been known, both nationally and internationally, for its specialization in the anthropology of visual communication. Specialized courses and training were first established by Professor Jay Ruby (now retired) in the late 1960s and developed over a period of more than three decades. We continue to offer this specialization to undergraduate majors and minors in anthropology (through our undergraduate Anthropology of Visual Communication track) as well as to doctoral students.
 
 The anthropology of visual communication is broadly concerned with the production, distribution, reception, circulation, and transformation of visual forms, both within and across communities.  Areas of ethnographic and theoretical focus include events such as rituals, spectacles, and performances; works of art, architecture, clothing, and the body; museums, displays, and expositions; and media-based productions such as films, videos, photography, and websites.
@@ -106,11 +119,11 @@ Professors who offer courses and mentoring directly relevant to the anthropology
 
 Outside of the Department of Anthropology, several other Temple faculty members have relevant research and teaching interests and are supportive of cross-disciplinary work.  They include Warren Bass, Roderick Coover, and Paul Swann (Department of Film and Media Arts), Kimmika Williams-Witherspoon (Theater), Kariamu Welsh (Dance), Miles Orvell (English), and Gerald Silk (Art History).  Potentially relevant courses can be found in various colleges, departments, and programs at Temple, such as Film and Media Arts, Photography, Theater, Dance, Art History, Journalism, and Geography and Urban Studies.
 
-Beyond their course work, our students have carried out independent field research projects in the USA, South America, Europe, the Middle East, South Asia, East Asia, and New Zealand.  Each year, several students, both undergraduate and graduate, participate in Professor Jhala's [Temple University Summer Program in India]http://www.temple.edu/studyabroad/programs/summer/india/index.html, which provides extraordinary opportunities for fieldwork and independent projects.
+Beyond their course work, our students have carried out independent field research projects in the USA, South America, Europe, the Middle East, South Asia, East Asia, and New Zealand.  Each year, several students, both undergraduate and graduate, participate in Professor Jhala's [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), which provides extraordinary opportunities for fieldwork and independent projects.
 
 Training in the anthropology of visual communication is potentially applicable to a variety of careers, including university-based teaching and research as well as jobs in museums and other educational institutions, non-profit organizations, government agencies, the arts, tourism, advertising, journalism, and mass media.
 
-Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology]http://www.cla.temple.edu/anthro/undergraduate/general/index.html, the [Human Biology track]http://www.cla.temple.edu/anthro/undergraduate/bio/index.html, or the [Anthropology of Visual Communication track]http://www.cla.temple.edu/anthro/undergraduate/visual/index.html. Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experiences in all of anthropology’s subdisciplines. A minor is also available in General Anthropology and in Anthropology of Visual Communication.
+Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology](http://www.cla.temple.edu/anthro/undergraduate/general/index.html), the [Human Biology track](http://www.cla.temple.edu/anthro/undergraduate/bio/index.html), or the [Anthropology of Visual Communication track](http://www.cla.temple.edu/anthro/undergraduate/visual/index.html). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experiences in all of anthropology’s subdisciplines. A minor is also available in General Anthropology and in Anthropology of Visual Communication.
 
 ## General Anthropology
 
@@ -128,16 +141,16 @@ The Anthropology of Visual Communication track emphasizes a well-rounded liberal
 
 The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes.  
 
-Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India]http://www.temple.edu/studyabroad/programs/summer/india/index.html, led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
+Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
 
 For further information:
 
-More detailed information about the undergraduate program can be found in the [Temple University Undergraduate Bulletin]http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/.
+More detailed information about the undergraduate program can be found in the [Temple University Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/).
 
-The requirements for the undergraduate major and minor can likewise be found in the [Temple University Undergraduate Bulletin]http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/.
+The requirements for the undergraduate major and minor can likewise be found in the [Temple University Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/).
 
-A listing of all undergraduate-level courses offered by the Department of Anthropology can be found in the [Temple University Course Catalog]https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg.
+A listing of all undergraduate-level courses offered by the Department of Anthropology can be found in the [Temple University Course Catalog](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg).
 
-A listing of undergraduate-level courses being offered by the Department in a given semester can be found in the [Temple University Course Schedule]https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched.
+A listing of undergraduate-level courses being offered by the Department in a given semester can be found in the [Temple University Course Schedule](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched).
 
 Students who are interested in the General Anthropology major or minor, the Human Biology track, or the Anthropology of Visual Communication track should contact the Director of Undergraduate Studies, Prof. Inmaculada García Sánchez, at igarcias@temple.edu.

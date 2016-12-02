@@ -86,12 +86,12 @@ Where should my academic transcripts and letters of recommendation be sent, and 
 
 Academic transcripts and letters of recommendation cannot be submitted through Temple's online application system. They should be mailed directly to the Department at this address:
 
-Prof. Paul Garrett
-Director of Graduate Studies
-Dept. of Anthropology
-Temple University, 025-21
-1115 W. Berks Street, room 208
-Philadelphia, PA 19122
+Prof. Paul Garrett  
+Director of Graduate Studies  
+Dept. of Anthropology  
+Temple University, 025-21  
+1115 W. Berks Street, room 208  
+Philadelphia, PA 19122  
 USA
 
 A link to the Temple University Graduate School's recommendation form ("Reference Report for Graduate Study"), which should accompany letters of recommendation, is available here.
@@ -297,59 +297,59 @@ https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched
 
 Potential sources of funding for pre-doctoral-dissertation research, doctoral-dissertation research, and dissertation-writing:
 
-American Anthropological Association's "Fellowships and Support"
-Temple University Office of Scholar Development and Fellowships Advising
-Temple University Graduate School list of external funding sources
-Institute of International Education
-Wenner-Gren Foundation
-Wenner-Gren Foundation's "Other Funding Sources"
-Fulbright Program
-Fulbright-Hays Program
-Fulbright–National Geographic Digital Storytelling Fellowship
-Woodrow Wilson National Fellowship Foundation
-Spencer Foundation
-Boren Awards for International Study
-Ford Foundation
-National Science Foundation
-National Institutes of Health
-Social Science Research Council
-Jacob K. Javits Fellowship Program
-American Council of Learned Societies
-American Philosophical Society
-American Association of University Women
-Smithsonian Institution
-Leakey Foundation
-National Park Service, National Center for Preservation Technology and Training
-National Park Service, American Battlefield Protection Program
-Archaeological Institute of America
-U.S. Department of Housing and Urban Development
-American Institute of Indian Studies
-SRI Foundation
-National Geographic
-School for Advanced Research
-Council for European Studies
-William T. Grant Foundation
-Council of American Overseas Research Centers
-Association for the Study of the Middle East and Africa
-Marcus Garvey Foundation
-U.S. Environmental Protection Agency
-Ruth Landes Memorial Research Fund
-Explorers Club
-Getty Foundation
-Inter-American Foundation
-United States Institute of Peace
+- American Anthropological Association's "Fellowships and Support"
+- Temple University Office of Scholar Development and Fellowships Advising
+- Temple University Graduate School list of external funding sources
+- Institute of International Education
+- Wenner-Gren Foundation
+- Wenner-Gren Foundation's "Other Funding Sources"
+- Fulbright Program
+- Fulbright-Hays Program
+- Fulbright–National Geographic Digital Storytelling Fellowship
+- Woodrow Wilson National Fellowship Foundation
+- Spencer Foundation
+- Boren Awards for International Study
+- Ford Foundation
+- National Science Foundation
+- National Institutes of Health
+- Social Science Research Council
+- Jacob K. Javits Fellowship Program
+- American Council of Learned Societies
+- American Philosophical Society
+- American Association of University Women
+- Smithsonian Institution
+- Leakey Foundation
+- National Park Service, National Center for Preservation Technology and Training
+- National Park Service, American Battlefield Protection Program
+- Archaeological Institute of America
+- U.S. Department of Housing and Urban Development
+- American Institute of Indian Studies
+- SRI Foundation
+- National Geographic
+- School for Advanced Research
+- Council for European Studies
+- William T. Grant Foundation
+- Council of American Overseas Research Centers
+- Association for the Study of the Middle East and Africa
+- Marcus Garvey Foundation
+- U.S. Environmental Protection Agency
+- Ruth Landes Memorial Research Fund
+- Explorers Club
+- Getty Foundation
+- Inter-American Foundation
+- United States Institute of Peace
 
 Other useful resources concerning grants and funding:
 
-"Grant Preparation Information and Tools" (a Case Western Reserve University site)
-"Sample Grant Proposals" (an Indiana University site)
-"Sample Research Proposals" (a University of Florida site)
-"QualQuant" (devoted to social-science research methods; note the institutes, courses, and field schools)
+- "Grant Preparation Information and Tools" (a Case Western Reserve University site)
+- "Sample Grant Proposals" (an Indiana University site)
+- "Sample Research Proposals" (a University of Florida site)
+"QualQuant" (devoted to social-science research methods; note the institutes, courses, - and field schools)
 
 Guides for preparing grant applications:
 
-"On the Art of Writing Proposals"
-"Writing Grant Proposals for Anthropological Research"
+- "On the Art of Writing Proposals"
+- "Writing Grant Proposals for Anthropological Research"
 
 If you cannot find the information that you need in this page:
 
