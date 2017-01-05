@@ -27,12 +27,12 @@ We offer a multitude of experiential learning opportunities and facilities right
 
 ## Academic offerings
 
- - BA in General Anthropology
- - BA in Human Biology
- - BA in Anthropology and Visual Communication
- - Minor in General Anthropology
- - Minor in Anthropology of Visual Communication
- - PhD in Anthropology (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
+ - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
+ - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
+ - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
+ - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
+ - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
+ - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
 
 # What is anthropology?
 
