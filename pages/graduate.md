@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate/"
+permalink: /graduate/
 layout: page
+published: true
 ---
 
 In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research to make a significant contribution to the discipline of anthropology. We offer four sub-disciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector.
@@ -12,7 +13,7 @@ We offer a series of research methods courses — both  quantitative and qualita
 
 ## Academic offerings
 
- - PhD in Anthropology (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
+ - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
 
  The graduate program in anthropology is a highly selective doctoral program leading to the Ph.D. degree. The first three years are devoted primarily to course work. Beyond that, each doctoral student is expected to develop, in close consultation with his/her faculty advisors, an original, strongly focused doctoral-research project that involves substantial field-based and/or laboratory-based research. The student's doctoral research must build on, and go beyond, existing scholarly work, thereby making a significant contribution to the discipline of anthropology.
 
