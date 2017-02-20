@@ -2,7 +2,7 @@
 # Program/Department Title
 title: Anthroplogy
 # Subdirectory (with / at only at beginning)
-baseurl: "/anthropology"
+baseurl: /anthropology
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -59,9 +59,9 @@ college:
 google_analytics: UA-69082166-1
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: # https://liberalarts.temple.edu/events/program-slug/csv
-news-feed: # https://liberalarts.temple.edu/news/program-slug/csv
-faculty-feed: # https://liberalarts.temple.edu/profiles/program-slug/csv
+events-feed: https://liberalarts.temple.edu/events/anthropology/csv
+news-feed: https://liberalarts.temple.edu/news/anthropology/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/anthropology/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
