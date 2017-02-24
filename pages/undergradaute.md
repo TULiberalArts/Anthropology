@@ -142,15 +142,3 @@ The Anthropology of Visual Communication track emphasizes a well-rounded liberal
 The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes.  
 
 Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
-
-For further information:
-
-More detailed information about the undergraduate program can be found in the [Temple University Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/).
-
-The requirements for the undergraduate major and minor can likewise be found in the [Temple University Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/).
-
-A listing of all undergraduate-level courses offered by the Department of Anthropology can be found in the [Temple University Course Catalog](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg).
-
-A listing of undergraduate-level courses being offered by the Department in a given semester can be found in the [Temple University Course Schedule](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched).
-
-Students who are interested in the General Anthropology major or minor, the Human Biology track, or the Anthropology of Visual Communication track should contact the Director of Undergraduate Studies, Prof. Inmaculada García Sánchez, at igarcias@temple.edu.
