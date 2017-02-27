@@ -24,9 +24,9 @@ Students who are interested in the General Anthropology major or minor, the Huma
 
 - [College of Liberal Arts resources](http://www.cla.temple.edu/students/graduate/)
 - [Graduate School policies and procedures](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School calendar](http://www.temple.edu/grad/calendar/)
-- [All graduate-level courses offered by the Department of Anthropology](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
-- [Graduate-level courses being offered by the Department in a given semester](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
+- Graduate School calendar
+- All graduate-level courses offered by the Department of Anthropology
+- Graduate-level courses being offered by the Department in a given semester
 
 ## Potential sources of funding for pre-doctoral-dissertation research, doctoral-dissertation research, and dissertation-writing:
 
