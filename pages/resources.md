@@ -77,7 +77,7 @@ Students who are interested in the General Anthropology major or minor, the Huma
 - "Grant Preparation Information and Tools" (a Case Western Reserve University site)
 - "Sample Grant Proposals" (an Indiana University site)
 - "Sample Research Proposals" (a University of Florida site)
-"QualQuant" (devoted to social-science research methods; note the institutes, courses, - and field schools)
+- "QualQuant" (devoted to social-science research methods; note the institutes, courses, - and field schools)
 
 ### Guides for preparing grant applications:
 
@@ -88,4 +88,4 @@ Students who are interested in the General Anthropology major or minor, the Huma
 
 Contact the Department of Anthropology's Director of Graduate Studies, Professor Paul Garrett, at [paul.garrett@temple.edu](mailto:paul.garrett@temple.edu).
 
-For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: http://www.temple.edu/grad/policies/gradpolicies.htm
+For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm) 
