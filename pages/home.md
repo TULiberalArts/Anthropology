@@ -5,7 +5,9 @@ layout: home
 published: true
 ---
 
-Anthropology is the study of humanity’s origins, development, activities and experiences — around the world and throughout time. Anthropology comprises four sub-disciplines, all of which are well-represented at Temple: archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology. We also offer specialized courses and training in Anthropology of Visual Communication, which draws primarily on linguistic anthropology and sociocultural anthropology, and Human Biology, which offers students interested in health care a unique perspective on the genomic, environmental and behavioral basis of human variability. 
+## Understand The Diverse World We Live In
+
+Studying anthropology at Temple helps build the creative thinking and critical analysis needed to solve complex  problems in today’s world. We teach cross cultural  understanding, interdisciplinary connection and  computational and analytical skills.  With our training you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds.
 
 ## Box 1: Discover your passion through one of our four subdisciplines, all of which are well represented through our program. 
 
