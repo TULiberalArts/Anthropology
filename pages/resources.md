@@ -12,21 +12,23 @@ published: true
 - [Undergraduate-level courses being offered by the Department](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
 
 Students who are interested in the General Anthropology major or minor, the Human Biology track, or the Anthropology of Visual Communication track should contact the Director of Undergraduate Studies, Prof. Inmaculada García Sánchez, at [igarcias@temple.edu](mailto:igarcias@temple.edu).
+ 
+## Undergraduate Anthropology Association (UAA) 
+
+The Undergraduate Anthropology Association is a forum in which anthropology majors and minors can meet one another as well as interact with professors and graduate students. We include all areas of anthropological study: archaeology, biological anthropology, linguistic anthropology, sociocultural anthropology, and anthropology of visual communication. 
+
+We hold bi-monthly meetings where professors discuss their areas of specialization and we organize trips to museums and events, a graduate student panel, fundraisers, ethnic food nights, and other fun events! It's a great organization to become involved in, especially if you seek guidance in continuing your studies in anthropology at the graduate level.
+
+Meetings of the Undergraduate Anthropology Association (UAA) are generally held every other Wednesday at 5:00 in the Fishbowl (Gladfelter Hall room 212). For further information, contact the association's president, Kelly Steckler, [ksteck44@temple.edu](mailto:ksteck44@temple.edu), or the vice-president, Jordan Galczynski, [jordan.galczynski@temple.edu](mailto:jordan.galczynski@temple.edu); or you can contact us at the association's email address, [templeuaa@gmail.com](mailto:templeuaa@gmail.com). 
 
 ## Graduate Resources
 
 - [General information and resources](http://www.cla.temple.edu/students/prospective-graduate-students/)
 - [Information about the graduate program in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text)
-- [Graduate-level courses offered by the Department of Anthropology](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
 - [How to apply for admission](http://www.temple.edu/grad/admissions/howtoapply.htm)
-
-### Information for incoming and current graduate students
-
 - [College of Liberal Arts resources](http://www.cla.temple.edu/students/graduate/)
-- [Graduate School policies and procedures](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- Graduate School calendar
-- All graduate-level courses offered by the Department of Anthropology
-- Graduate-level courses being offered by the Department in a given semester
+
+For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)
 
 ## Potential sources of funding for pre-doctoral-dissertation research, doctoral-dissertation research, and dissertation-writing:
 
@@ -84,8 +86,3 @@ Students who are interested in the General Anthropology major or minor, the Huma
 - "On the Art of Writing Proposals"
 - "Writing Grant Proposals for Anthropological Research"
 
-### Prospective graduate students/applicants:
-
-Contact the Department of Anthropology's Director of Graduate Studies, Professor Paul Garrett, at [paul.garrett@temple.edu](mailto:paul.garrett@temple.edu).
-
-For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm) 
