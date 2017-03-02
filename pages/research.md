@@ -1,9 +1,9 @@
 ---
 title: Research
-permalink: "/research/"
+permalink: /research/
 layout: page
+published: true
 ---
-
 
 ## Laboratory and Museum
 
@@ -25,17 +25,12 @@ Visitors were invited to view a number of displays, to hear stories of how the a
 
 Before moving to Gladfelter Hall in 1972, the Anthropology Laboratory was located in College Hall, next to the Baptist Temple, where collections began arriving in 1964.
 
-Exhibits may be found at the entrance to the Laboratory (in the Gladfelter Hall lobby, L8) as well as elsewhere on campus, such as the [Center for the Humanities at Temple CHAT](http://www.temple.edu/humanities/activities/exhibits/ExcavatingDesire.htm).
-
-An internship in collections management is sponsored through the [Temple University Career Center](http://www.temple.edu/provost/careercenter/).
-
-A blog about our collections can be found at http://anthropologylabtemple.wordpress.com
-
-An article about the Laboratory and Museum appeared in the Summer 2011 issue of the [Temple Review](http://www.temple.edu/templemag/archives/2011_summer/Earthly_Treasures_sum11.html).
-
-The Laboratory and Museum are featured in a [short video](http://www.youtube.com/watch?v=4LecSEiUCxQ) from [The Temple News](http://www.temple-news.com/).
-
-Undergraduate anthropology major Nicole Welk is  featured in a "[Faces of Temple](http://news.temple.edu/news/faces-nicole_welk)" short video for  her work with the collections in creating the exhibit "Anthropology Speaks."
+- Exhibits may be found at the entrance to the Laboratory (in the Gladfelter Hall lobby, L8) as well as elsewhere on campus, such as the [Center for the Humanities at Temple CHAT](http://www.temple.edu/humanities/activities/exhibits/ExcavatingDesire.htm).
+- An internship in collections management is sponsored through the [Temple University Career Center](http://www.temple.edu/provost/careercenter/).
+- A blog about our collections can be found at http://anthropologylabtemple.wordpress.com
+- An article about the Laboratory and Museum appeared in the Summer 2011 issue of the [Temple Review](http://www.temple.edu/templemag/archives/2011_summer/Earthly_Treasures_sum11.html).
+- The Laboratory and Museum are featured in a [short video](http://www.youtube.com/watch?v=4LecSEiUCxQ) from [The Temple News](http://www.temple-news.com/).
+- Undergraduate anthropology major Nicole Welk is  featured in a "[Faces of Temple](http://news.temple.edu/news/faces-nicole_welk)" short video for  her work with the collections in creating the exhibit "Anthropology Speaks."
 
 For further information, please contact:
 
