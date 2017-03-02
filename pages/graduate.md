@@ -33,6 +33,7 @@ Biological anthropologists study the evolutionary origins of all humans, and the
 - Faculty and students study the role of nutrition in shaping growth and development, and human health over the life course.
 
 ### Linguistic Anthropology
+
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture, and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
 
 **Some areas of focus:**
@@ -42,6 +43,8 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 - **Language Ideology:** The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
 
 ## Sociocultural Anthropology
+
+Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
 **Some areas of focus:**
 
@@ -57,5 +60,4 @@ The Anthropology of Visual Communication track is well suited to those with inte
 
 Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
 
-Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
