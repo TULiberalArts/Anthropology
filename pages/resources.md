@@ -30,3 +30,6 @@ Meetings of the Undergraduate Anthropology Association (UAA) are generally held 
 
 For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)
 
+## Anthropology Graduate Student Association
+
+The Anthropology Graduate Student Association meets monthly to discuss ongoing developments in the Department, to plan events, and to share questions, concerns, and current work. We also get together for social events, to attend talks and exhibits, to discuss our research and other work, and to organize visitors to the department. We are open to suggestions and ideas, so if you are a graduate student in the Department, please stop by our next meeting! Meeting information is disseminated through the Department's graduate-student listserv. The association was established "to assist its members in all endeavors related to their success in the graduate division of Temple University's Anthropology Department; this includes educational, peer, and faculty support." For further information, contact our president, Dana Muñíz Pacheco, [d.munizpacheco@temple.edu](mailto:d.munizpacheco@temple.edu).
