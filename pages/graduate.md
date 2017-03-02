@@ -42,6 +42,13 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 - **Language Ideology:** The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
 
 ## Sociocultural Anthropology
+
+**Some areas of focus:**
+
+- **Political Anthropology:** The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
+- **Media Anthropology:** The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
+- Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
+
 ## Anthropology of Visual Communication Track
 
 The Anthropology of Visual Communication track emphasizes a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts.
@@ -51,10 +58,4 @@ The Anthropology of Visual Communication track is well suited to those with inte
 Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
 
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
-
-**Some areas of focus:**
-
-- **Political Anthropology:** The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
-- **Media Anthropology:** The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
-- Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
 
