@@ -5,6 +5,43 @@ layout: page
 published: true
 ---
 
+Chair: 
+
+Paul Farnsworth
+209 Gladfelter Hall
+[(215) 204-1424](tel:2152041424)
+[paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu) 
+  
+Undergraduate Chair: 
+
+Inmaculada M. García Sánchez
+241 Gladfelter Hall
+[(215) 204-7577](tel:2152047577)
+[inmaculada.garcia-sanchez@temple.edu](mailto:inmaculada.garcia-sanchez@temple.edu)
+
+Graduate Chair: 
+
+Paul B. Garrett
+025-21 Gladfelter Hall
+[(215) 204-7621](tel:2152047621 )
+[paul.garrett@temple.edu](mailto:paul.garrett@temple.edu)
+
+Administrator: 
+
+Jessica Brennan
+708 Gladfelter Hall
+[(215) 204-7577](tel:2152047577) 
+[tua11422@temple.edu](mailto:tua11422@temple.edu)
+
+Coordinator: 
+
+Yvonne Davis
+210 Gladfelter Hall
+[(215) 204-7775](tel:2152047775)
+[yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
+
+## Resources are Here to Help!
+
 ## Undergraduate Resources
 
 - [Temple University Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/)
