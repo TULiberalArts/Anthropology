@@ -16,7 +16,7 @@ Studying anthropology at Temple helps build the creative thinking and critical a
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Discover your passion through one of our four subdisciplines, all of which are well represented through our program." 
-    content="- Archaeology, - Biological Anthropology, - Linguistic Anthropology, - Sociocultural Anthropology" 
+    content="-Archaeology, Biological Anthropology, Linguistic Anthropology, Sociocultural Anthropology" 
     image="" 
     button-link="undergraduate/#academic-offerings" 
     button-text="Learn More" %}
@@ -32,7 +32,7 @@ Studying anthropology at Temple helps build the creative thinking and critical a
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Pursue a Graduate Degree through Career Enhancing Coursework." 
-        content="We offer a series of research methods courses — both  quantitative and qualitative — that equip students with the hard analytical skills that employers desire." 
+        content="We offer a series of research methods courses, both quantitative and qualitative, that equip students with the hard analytical skills that employers desire." 
         image="" 
         button-link="graduate/#graduate" 
         button-text="Learn More" %}
