@@ -13,7 +13,7 @@ Students have the opportunity to collaborate with faculty on field research in l
 
 Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology](http://www.cla.temple.edu/anthro/undergraduate/general/index.html), the [Human Biology track](http://www.cla.temple.edu/anthro/undergraduate/bio/index.html), or the [Anthropology of Visual Communication track](http://www.cla.temple.edu/anthro/undergraduate/visual/index.html). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experiences in all of anthropology’s subdisciplines. A minor is also available in General Anthropology and in Anthropology of Visual Communication.
 
-## Academic offerings
+## Academic Offerings
 
  - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
  - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
