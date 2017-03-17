@@ -5,8 +5,6 @@ layout: page
 published: true
 ---
 
-## Next Stops
-
 Majoring in Anthropology trains students to develop marketable skills, including curating museum exhibitions and collections, conducting field research, creating documentaries and other visual productions, and engaging in laboratory analysis. Recently, our students have landed coveted internships with the following employers:
 
 - The Anthropology Laboratory and Museum
