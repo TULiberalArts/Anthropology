@@ -11,9 +11,8 @@ The Anthropology Laboratory and Museum is a dynamic facility dedicated to resear
 
 The archaeological holdings include collections derived from sites excavated in the Mid-Atlantic region, along with comparative lithic and ceramic collections from the American Southeast and Southwest and from Central America. The Anthropology Laboratory and Museum serves as a repository for cultural resource management reports and collections from the National Park Service and from the states of Pennsylvania and New Jersey.
 
-The ethnographic collections feature material artifacts from various cultures of North America, South America, and Oceania.
-
-The physical anthropology collections feature casts of fossil hominid remains, human skeletal specimens, and comparative collections of primate and other mammalian skeletal and dental specimens.
+- The ethnographic collections feature material artifacts from various cultures of North America, South America, and Oceania.
+- The physical anthropology collections feature casts of fossil hominid remains, human skeletal specimens, and comparative collections of primate and other mammalian skeletal and dental specimens.
 
 The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens and artifacts of all kinds.
 
