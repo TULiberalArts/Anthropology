@@ -5,6 +5,8 @@ layout: page
 published: true
 ---
 
+## Resources are here to help!
+
 **Chair:**
 
 Paul Farnsworth<br/>
@@ -39,8 +41,6 @@ Yvonne Davis<br/>
 210 Gladfelter Hall<br/>
 [(215) 204-7775](tel:2152047775)<br/>
 [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)<br/>
-
-## Resources are here to Help!
 
 ## Undergraduate Resources
 
