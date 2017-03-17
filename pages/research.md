@@ -35,7 +35,7 @@ Before moving to Gladfelter Hall in 1972, the Anthropology Laboratory was locate
 For further information, please contact:
 
 Dr. Heather B. Thakar<br/>  
-Director, Anthropology Laboratory  <br/>
+Director, Anthropology Laboratory<br/>
 telephone: [215-204-1418](tel:215-204-1418)<br/> 
 email: [thakar@temple.edu](mailto:thakar@temple.edu)<br/>
 
