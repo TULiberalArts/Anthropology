@@ -32,7 +32,7 @@ Biological anthropologists study the evolutionary origins of all humans, and the
 - Faculty and students study the genetic basis and evolutionary origins of human diseases.
 - Faculty and students study the role of nutrition in shaping growth and development, and human health over the life course.
 
-### Linguistic Anthropology
+## Linguistic Anthropology
 
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture, and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
 
