@@ -8,7 +8,6 @@ feature-body: Our students receive personal attention from our high-quality facu
 feature-image: 
 published: true
 ---
-
 ## Understand The Diverse World We Live In
 
 Studying anthropology at Temple helps build the creative thinking and critical analysis needed to solve complex  problems in today’s world. We teach cross cultural  understanding, interdisciplinary connection and  computational and analytical skills.  With our training you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds.
