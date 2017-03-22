@@ -37,6 +37,7 @@ Director, Anthropology Laboratory<br/>
 Dr. Heather B. Thakar<br/>  
 [215-204-1418](tel:215-204-1418)<br/> 
 [thakar@temple.edu](mailto:thakar@temple.edu)<br/>
+
 Chair, Laboratory and Technology Committee<br/>  
 Dr. Patricia Hansell<br/>  
 [215-204-1417](tel:215-204-1417)<br/> 
