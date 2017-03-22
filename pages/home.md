@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 layout: home
-feature: false
+feature: true
 feature-title: null
 feature-body: null
 feature-image: media/Anthroplogy_bg.png
