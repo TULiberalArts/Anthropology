@@ -5,7 +5,7 @@ layout: home
 feature: false
 feature-title: null
 feature-body: null
-feature-image: null
+feature-image: media/Anthroplogy_bg.png
 published: true
 ---
 
