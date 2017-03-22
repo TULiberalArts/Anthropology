@@ -5,7 +5,7 @@ layout: home
 feature: true
 feature-title: Peerless Personal Attention
 feature-body: Our students receive personal attention from our high-quality faculty. The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation.
-feature-image: media/Anthroplogy_bg.png
+feature-image: 
 published: true
 ---
 
