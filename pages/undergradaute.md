@@ -15,4 +15,3 @@ Students have the opportunity to collaborate with faculty on field research in l
  - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
  - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
- - We also offer specialized courses and training in [Anthropology of Visual Communication](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text) which draws primarily on linguistic anthropology and sociocultural anthropology).
