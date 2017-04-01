@@ -24,7 +24,7 @@ published: true
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="There's a Lab For That" 
-      content="We're big on hands-on experience. With a number of experiential learning opportunities and facilities, you won't need to leave campus to immerse yourself in anthropology."
+      content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
       image="" 
       button-link="research/#laboratory-and-museum" 
       button-text="Learn More" %}
