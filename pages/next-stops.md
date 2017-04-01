@@ -18,7 +18,7 @@ Majoring in Anthropology trains students to develop marketable skills, including
 
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.  
 
-For a complete list of our academic offerings visit: [liberalarts.temple.edu](http://liberalarts.temple.edu/).
+For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu/).
 
 ## Visit Us
 
@@ -38,7 +38,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-- February 1: Freshman Application Deadline for Fall Semester
-- March 1: FAFSA Financial Aid Application Deadline
-- November 1: Transfer Deadline for Spring Semester
-- June 1: Transfer Deadline for Fall Semester
+- **February 1:** Freshman Application Deadline for Fall Semester
+- **March 1:** FAFSA Financial Aid Application Deadline
+- **November 1:** Transfer Deadline for Spring Semester
+- **June 1:** Transfer Deadline for Fall Semester
