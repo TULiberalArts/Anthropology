@@ -65,7 +65,7 @@ Meetings of the Undergraduate Anthropology Association (UAA) are generally held 
 - [How to apply for admission](http://www.temple.edu/grad/admissions/howtoapply.htm)
 - [College of Liberal Arts resources](http://www.cla.temple.edu/students/graduate/)
 
-For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)
+For (much) more detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)
 
 ## Anthropology Graduate Student Association
 
