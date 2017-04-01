@@ -5,16 +5,16 @@ layout: page
 published: true
 ---
 
-In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research to make a significant contribution to the discipline of anthropology. We offer four sub-disciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector.
+In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector.
 
-## Academic offerings
+## Academic Offerings at a Glance
 
  - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
  - Specialized Courses and Training in the [Anthropology of Visual Communication](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text)
 
 ## Archaeology
 
-Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes, and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns, human interactions with the environment.
+Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes, and environments. Archaeologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns, human interactions with the environment.
 
 **Some areas of focus:**
 
@@ -24,7 +24,7 @@ Archaeologists study people and cultures of the past by analyzing material remai
 
 ## Biological Anthropology
 
-Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes, and culture interact to shape human biology in the past and present.
+Biological anthropologists study the evolutionary origins of all humans and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
 
 **Some areas of focus:**
 
@@ -59,4 +59,3 @@ The Anthropology of Visual Communication track emphasizes a well-rounded liberal
 The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes. 
 
 Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
-
