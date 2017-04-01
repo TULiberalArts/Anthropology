@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Resources are here to help!
+## Contact Us
 
 **Chair:**
 
