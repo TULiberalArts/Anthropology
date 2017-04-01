@@ -3,27 +3,28 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: Peerless Personal Attention
-feature-body: Our students receive personal attention from our high-quality faculty. The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation.
-feature-image: 
+feature-title: Understand the Diverse World We Live In
+feature-body: >-
+  Our students receive personal attention from our high-quality faculty. The
+  small average size of our upper-level classes permits our faculty to work
+  closely with students, meeting their educational needs and preparing them for
+  whatever career path they seek after graduation.
+feature-image: null
 published: true
 ---
-## Understand The Diverse World We Live In
-
-Studying anthropology at Temple helps build the creative thinking and critical analysis needed to solve complex  problems in today’s world. We teach cross cultural  understanding, interdisciplinary connection and  computational and analytical skills.  With our training you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Discover your passion through one of our four subdisciplines" 
-    content="-Archaeology, Biological Anthropology, Linguistic Anthropology, Sociocultural Anthropology" 
+    title="Unrivaled Personal Attention" 
+    content="Our students receive personal attention from our high-quality faculty. The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation."
     image="" 
     button-link="undergraduate/#academic-offerings" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="We Have a Lab For That" 
-      content="We offer a multitude of experiential learning opportunities and facilities right here on campus for you to immerse yourself in anthropology." 
+      title="There's a Lab For That" 
+      content="We're big on hands-on experience. With a number of experiential learning opportunities and facilities, you won't need to leave campus to immerse yourself in anthropology."
       image="" 
       button-link="research/#laboratory-and-museum" 
       button-text="Learn More" %}
