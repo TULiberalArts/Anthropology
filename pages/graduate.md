@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector.
+In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations and the private sector.
 
 ## Academic Offerings at a Glance
 
