@@ -38,9 +38,9 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 
 **Some areas of focus:**
 
-- **Language Socialization:** The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
-- **Language Contact:** The study of the historical, political, and sociocultural dynamics of two or more languages in contact.
-- **Language Ideology:** The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
+- _Language Socialization:_ The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
+- _Language Contact:_ The study of the historical, political, and sociocultural dynamics of two or more languages in contact.
+- _Language Ideology:_ The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
 
 ## Sociocultural Anthropology
 
@@ -48,8 +48,8 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 
 **Some areas of focus:**
 
-- **Political Anthropology:** The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
-- **Media Anthropology:** The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
+- _Political Anthropology:__ The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
+- __Media Anthropology:__ The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
 - Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
 
 ## Anthropology of Visual Communication Track
