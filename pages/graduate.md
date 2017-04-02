@@ -48,8 +48,8 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 
 **Some areas of focus:**
 
-- _Political Anthropology:__ The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
-- __Media Anthropology:__ The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
+- _Political Anthropology:_ The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
+- _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
 - Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
 
 ## Anthropology of Visual Communication Track
