@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: Understand the Diverse World We Live In
+feature-title: Understand Our Diverse World
 feature-body: >-
   Studying anthropology at Temple helps build the creative thinking and critical
   analysis abilities needed to solve complex problems in today’s world. We teach
