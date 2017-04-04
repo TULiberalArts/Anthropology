@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations and the private sector.
+In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
 
 ## Academic Offerings at a Glance
 
@@ -180,4 +180,4 @@ Earning a doctoral degree in anthropology is not for everyone, however. Inevitab
 
 Completing a doctoral degree in anthropology tends to take longer than completing a doctoral degree in most other academic disciplines. Most doctoral students in anthropology do long-term field research; spending a year in the field (which may be a distant locale) is typical. Before doing so, one typically has to obtain external funding in the form of one or more research grants or fellowships; this too can take a year or more.
 
-The ideal scenario is to complete the doctoral degree in seven years. (A student who enters with a previously earned master's degree in anthropology may be able to complete the doctoral degree in six years.) For a variety of reasons, many students end up needing more than seven years; eight to nine years is more typical. 
+The ideal scenario is to complete the doctoral degree in seven years. (A student who enters with a previously earned master's degree in anthropology may be able to complete the doctoral degree in six years.) For a variety of reasons, many students end up needing more than seven years; eight to nine years is more typical.
