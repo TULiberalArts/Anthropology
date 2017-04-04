@@ -24,13 +24,7 @@ Archaeologists study people and cultures of the past by analyzing material remai
 
 ## Biological Anthropology
 
-Biological anthropologists study the evolutionary origins of all humans and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
-
-**Some areas of focus:**
-
-- Faculty and students study the ways in which humans have adapted to extreme environments, such as high altitude.
-- Faculty and students study the genetic basis and evolutionary origins of human diseases.
-- Faculty and students study the role of nutrition in shaping growth and development, and human health over the life course.
+Biological anthropologists study the evolutionary origins of all humans and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present. Areas of focus include the ways humans have adapted to extreme environments, such as high altitude, the genetic basis and evolutionary origins of human diseases, and the role of nutrition in shaping growth, development and health over the life course.
 
 ## Linguistic Anthropology
 
@@ -50,7 +44,6 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 
 - _Political Anthropology:_ The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
 - _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
-- Faculty and students study lucha libre (professional wrestling) and its place in urban popular culture in Mexico City.
 
 ## Anthropology of Visual Communication Track
 
