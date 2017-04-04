@@ -16,7 +16,7 @@ The archaeological holdings include collections derived from sites excavated in 
 
 The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens and artifacts of all kinds.
 
-### Fifty Years of Collecting, Curating, and Saving the Past for the Future
+### Fifty Years of Collecting, Curating and Saving the Past for the Future
 
 Before moving to Gladfelter Hall in 1972, the Anthropology Laboratory was located in College Hall, next to the Baptist Temple, where collections began arriving in 1964.
 
