@@ -14,7 +14,7 @@ In our highly selective PhD program, students develop an original doctoral resea
 
 ## Archaeology
 
-Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes, and environments. Archaeologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns, human interactions with the environment.
+Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archaeologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
 
 **Some areas of focus:**
 
@@ -33,8 +33,8 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 **Some areas of focus:**
 
 - _Language Socialization:_ The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
-- _Language Contact:_ The study of the historical, political, and sociocultural dynamics of two or more languages in contact.
-- _Language Ideology:_ The study of the socially constructed, "commonsense" notions about languages, their speakers, and communicative norms.
+- _Language Contact:_ The study of the historical, political and sociocultural dynamics of two or more languages in contact.
+- _Language Ideology:_ The study of the socially constructed, "common sense" notions about languages, their speakers and communicative norms.
 
 ## Sociocultural Anthropology
 
@@ -42,8 +42,8 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 
 **Some areas of focus:**
 
-- _Political Anthropology:_ The study of patterns of governance, politics, and power. Faculty and students study legal systems and violence in the Caribbean.
-- _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational, and regional discourses in European mass media.
+- _Political Anthropology:_ The study of patterns of governance, politics and power. Faculty and students study legal systems and violence in the Caribbean.
+- _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational and regional discourses in European mass media.
 
 ## Anthropology of Visual Communication Track
 
