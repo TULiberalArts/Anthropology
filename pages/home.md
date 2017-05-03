@@ -17,7 +17,7 @@ published: true
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
-    color=#a41e35
+    color="#a41e35"
     title="Unrivaled Personal Attention" 
     content="The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation."
     button-link="undergraduate" 
