@@ -8,7 +8,7 @@ baseurl: /anthropology
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Anthropology is the study of humanity’s origins, development, activities and experiences — around the world and throughout time.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple, anthropology
 
@@ -18,7 +18,7 @@ address:
   room: 2nd Floor
   street: 1115 West Berks Street
   city: Philadelphia, PA 19122
-  email: anthropology@temple.edu
+  email: <a href="mailto:anthropology@temple.edu">anthropology@temple.edu</a>
   phone: 215-204-7577
 
 # Social Media
