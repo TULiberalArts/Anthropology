@@ -16,26 +16,23 @@ published: true
 ---
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
+  <div class="col m12 l4">{% include cards/card-basic.html
     title="Unrivaled Personal Attention" 
     content="The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation."
-    image="" 
     button-link="undergraduate" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
+    <div class="col m12 l4">{% include cards/card-basic.html 
       title="There's a Lab For That" 
       content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
-      image="" 
       button-link="research/#laboratory-and-museum" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
+      <div class="col m12 l4">{% include cards/card-basic.html
         title="Pursue a Graduate Degree" 
         content="We offer a series of research methods courses, both quantitative and qualitative, that equip students with the hard analytical skills that employers desire." 
-        image="" 
         button-link="graduate/#graduate" 
         button-text="Learn More" %}
       </div>
