@@ -25,7 +25,7 @@ published: true
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-basic.html
-      color=#a41e35"
+      color="#a41e35"
       title="There's a Lab For That" 
       content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
       button-link="research/#laboratory-and-museum" 
@@ -33,7 +33,7 @@ published: true
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-basic.html
-        color=#a41e35"
+        color="#a41e35"
         title="Pursue a Graduate Degree" 
         content="We offer a series of research methods courses, both quantitative and qualitative, that equip students with the hard analytical skills that employers desire." 
         button-link="graduate/#graduate" 
