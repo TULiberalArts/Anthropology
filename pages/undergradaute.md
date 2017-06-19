@@ -16,7 +16,7 @@ sidebar-content: > #
   [(215) 204-1424](tel:2152041424)<br/>
   [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)<br/>
 
- <hr>
+   <hr>
 
   **Undergraduate Chair:** <br/>
   Inmaculada M. García Sánchez<br/>
@@ -34,7 +34,7 @@ sidebar-content: > #
 
   <hr>
 
- **Coordinator:** <br/>
+  **Coordinator:** <br/>
   Yvonne Davis<br/>
   210 Gladfelter Hall<br/>
   [(215) 204-7775](tel:2152047775)<br/>
