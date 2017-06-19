@@ -6,42 +6,7 @@ layout: page
 published: true
 ---
 
-## Contact Us
-
-### Chair:
-
-Paul Farnsworth<br/>
-209 Gladfelter Hall<br/>
-[(215) 204-1424](tel:2152041424)<br/>
-[paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)<br/>
-  
-### Undergraduate Chair:
-
-Inmaculada M. García Sánchez<br/>
-241 Gladfelter Hall<br/>
-[(215) 204-7577](tel:2152047577)<br/>
-[inmaculada.garcia-sanchez@temple.edu](mailto:inmaculada.garcia-sanchez@temple.edu)<br/>
-
-### Graduate Chair:
-
-Paul B. Garrett<br/>
-025-21 Gladfelter Hall<br/>
-[(215) 204-7621](tel:2152047621 )<br/>
-[paul.garrett@temple.edu](mailto:paul.garrett@temple.edu)<br/>
-
-### Administrator:
-
-Jessica Brennan<br/>
-708 Gladfelter Hall<br/>
-[(215) 204-7577](tel:2152047577)<br/>
-[tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-
-### Coordinator:
-
-Yvonne Davis<br/>
-210 Gladfelter Hall<br/>
-[(215) 204-7775](tel:2152047775)<br/>
-[yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)<br/>
+## Resources are here to help! 
 
 ## Undergraduate Resources
 
