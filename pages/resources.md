@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: undergraduate, GSA, resources, anthropology
 permalink: /resources/
 layout: page
 published: true
@@ -22,7 +22,7 @@ Meetings of the Undergraduate Anthropology Association (UAA) are generally held 
 
 ## Graduate Resources
 
-For detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)
+For detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to Temple University's Graduate [website](http://www.temple.edu/grad/policies/gradpolicies.htm).
 
 ### Anthropology Graduate Student Association
 
