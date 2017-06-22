@@ -1,5 +1,6 @@
 ---
 title: Research
+meta-keywords: artifacts, museum, laboratory, 
 permalink: /research/
 layout: page
 published: true
