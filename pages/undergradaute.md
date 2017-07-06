@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Paul Farnsworth  
+   209 Gladfelter Hall  
+   [(215) 204-1424](tel:2152041424)  
+   [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)  
+   
+   ___
+   
+   **Undegraduate Chair:**  
+   Inmaculada M. García Sánchez  
+   241 Gladfelter Hall  
+   [(215) 204-7577](tel:2152047577)  
+   [inmaculada.garcia-sanchez@temple.edu](mailto:inmaculada.garcia-sanchez@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall   
+   [(215) 204-7577](tel:2152047577)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Paul Farnsworth<br/>
-  209 Gladfelter Hall<br/>
-  [(215) 204-1424](tel:2152041424)<br/>
-  [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)<br/>
-
-   <hr>
-
-  **Undergraduate Chair:** <br/>
-  Inmaculada M. García Sánchez<br/>
-  241 Gladfelter Hall<br/>
-  [(215) 204-7577](tel:2152047577)<br/>
-  [inmaculada.garcia-sanchez@temple.edu](mailto:inmaculada.garcia-sanchez@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:** <br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7577](tel:2152047577)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Yvonne Davis<br/>
-  210 Gladfelter Hall<br/>
-  [(215) 204-7775](tel:2152047775)<br/>
-  [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)<br/>
+   **Coordinators:**  
+   Yvonne Davis  
+   210 Gladfelter Hall    
+   [(215) 204-7775](tel:2152047775)   
+   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)   
 ---
 
 Undergraduate majors in anthropology pursue one of three courses of study: **General Anthropology**, the **Human Biology track** or the **Anthropology of Visual Communication track**. Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. A minor is also available in General Anthropology and in Anthropology of Visual Communication.
