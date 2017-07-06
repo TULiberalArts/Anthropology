@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Paul Farnsworth  
+   209 Gladfelter Hall  
+   [(215) 204-1424](tel:2152041424)  
+   [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Paul B. Garrett  
+   025-21 Gladfelter Hall  
+   [(215) 204-7621](tel:2152047621)  
+   [paul.garrett@temple.edu](mailto:paul.garrett@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall   
+   [(215) 204-7577](tel:2152047577)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Paul Farnsworth<br/>
-  209 Gladfelter Hall<br/>
-  [(215) 204-1424](tel:2152041424)<br/>
-  [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)<br/>
-
-  <hr>
-
-  **Graduate Chair:** <br/>
-  Paul B. Garrett<br/>
-  025-21 Gladfelter Hall<br/>
-  [(215) 204-7621](tel:2152047621 )<br/>
-  [paul.garrett@temple.edu](mailto:paul.garrett@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7577](tel:2152047577)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Yvonne Davis<br/>
-  210 Gladfelter Hall<br/>
-  [(215) 204-7775](tel:2152047775)<br/>
-  [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)<br/>
+   **Coordinators:**  
+   Yvonne Davis  
+   210 Gladfelter Hall    
+   [(215) 204-7775](tel:2152047775)   
+   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)   
 ---
 
 In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
