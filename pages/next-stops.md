@@ -1,12 +1,15 @@
 ---
 title: Next Stops
-meta-keywords: transfer, apply, visit, field research, careers
+meta-keywords: 'transfer, apply, visit, field research, careers'
 permalink: /next-stops/
 layout: page
 published: true
 ---
+Our graduates go on to an exciting range of [careers](#careers). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
-Majoring in Anthropology trains students to develop marketable skills, including curating museum exhibitions and collections, conducting field research, creating documentaries and other visual productions, and engaging in laboratory analysis. Recently, our students have landed coveted internships with the following employers:
+## Careers
+
+Majoring in Anthropology trains students to develop marketable skills, including curating museum exhibitions and collections, conducting field research, creating documentaries and other visual productions, and engaging in laboratory analysis. Recently, our students have landed coveted internships and positions with the following employers:
 
 - The Anthropology Laboratory and Museum
 - AECOM, Burlington, NJ
