@@ -41,7 +41,7 @@ In our highly selective PhD program, students develop an original doctoral resea
 
 ## Academic Offerings at a Glance
 
- - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archaeology, Biological Anthropology, Anthropology of Visual Communication)
+ - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: [Archaeology](#archaeology), [Biological Anthropology](#biological-anthropology), [Linguistic Anthropology](#linguistic-anthropology), [Sociocultural Anthropology](#sociocultural-anthropology), [Anthropology of Visual Communication](#anthropology-of-visual-communication)
 
 ## Archaeology
 
