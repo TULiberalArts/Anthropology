@@ -34,7 +34,7 @@ Presently:
 ### Interim Director
 Anthropology Laboratory<br>
 Dr. Christopher Roy<br>
-[215-204-1418](tel:2152041418]<br>
+[215-204-1418](tel:2152041418)<br>
 [anthro@temple.edu](mailto@anthro@temple.edu)
 
 ### Chair
