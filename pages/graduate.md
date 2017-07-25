@@ -1,11 +1,11 @@
 ---
 title: Graduate
-meta-keywords: anthropology, doctoral degree, masters degree, visual communication 
+meta-keywords: 'anthropology, doctoral degree, masters degree, visual communication'
 permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Paul Farnsworth  
    209 Gladfelter Hall  
@@ -34,15 +34,14 @@ sidebar-content: > #
    Yvonne Davis  
    210 Gladfelter Hall    
    [(215) 204-7775](tel:2152047775)   
-   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)   
+   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
 
 In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
 
 ## Academic Offerings at a Glance
 
- - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archeology, Biological Anthropology, Linguistic Anthropology)
- - Specialized Courses and Training in the [Anthropology of Visual Communication](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text)
+ - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: Archaeology, Biological Anthropology, Anthropology of Visual Communication)
 
 ## Archaeology
 
@@ -50,7 +49,7 @@ Archaeologists study people and cultures of the past by analyzing material remai
 
 **Some areas of focus:**
 
-- _Historical archaeology_: the study of historically documented cultures. Faculty and students focus on battlefield and urban archaeology in the northeastern states.
+- _Historical archaeology_: the study of historically documented cultures. Faculty and students focus on historic sites in the Caribbean and northeastern states.
 - _Bioarchaeology_: the study of human remains. Faculty and students study activity patterns, health, growth and development of past populations.
 - _Prehistoric archaeology_: the study of the past before historic records began. Faculty and students study the peopling of the Americas.
 
@@ -77,13 +76,10 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 - _Political Anthropology:_ The study of patterns of governance, politics and power. Faculty and students study legal systems and violence in the Caribbean.
 - _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational and regional discourses in European mass media.
 
-## Anthropology of Visual Communication Track
+## Anthropology of Visual Communication
 
-The Anthropology of Visual Communication track emphasizes a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts.
+The Anthropology of Visual Communication track emphasizes a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication applies the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and, potentially, other areas of study) toward the study and practice of visual communication. The Anthropology of Visual Communication is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to “new media” and their role in “globalization” processes.
 
-The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes. 
-
-Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](http://www.temple.edu/studyabroad/programs/summer/india/index.html), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
 
 ## Frequently Asked Questions
 
