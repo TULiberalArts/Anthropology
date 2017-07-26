@@ -1,12 +1,12 @@
 ---
 title: Resources
-meta-keywords: undergraduate, GSA, resources, anthropology
+meta-keywords: 'undergraduate, GSA, resources, anthropology'
 permalink: /resources/
 layout: page
 published: true
+meta-description: Our undergraduate and graduate resources are here to help.
 ---
-
-## Resources are here to help! 
+Our undergraduate and graduate resources are here to help.
 
 ## Undergraduate Resources
 
