@@ -1,7 +1,9 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: anthropology, Temple, cross-cultural
+meta-description: >-
+  Studying anthropology at Temple helps build the creative thinking and critical
+  analysis abilities needed to solve complex problems in today’s world.
+meta-keywords: 'anthropology, Temple, cross-cultural'
 permalink: /
 layout: home
 feature: true
@@ -12,7 +14,8 @@ feature-body: >-
   cross-cultural understanding, interdisciplinary connection and computational
   and analytical skills. With our training, you’ll be able to connect on a
   deeper level with people from many linguistic and geographical backgrounds,
-  generating key insights into how people make sense and find meaning in their worlds.
+  generating key insights into how people make sense and find meaning in their
+  worlds.
 feature-image: media_Anthropology_bg.png
 published: true
 ---
