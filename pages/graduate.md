@@ -35,9 +35,13 @@ sidebar-content: |
    210 Gladfelter Hall    
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
+meta-description: >-
+  We are committed to producing doctorates in anthropology who are well prepared
+  for  professional careers in academia, government, non-profit organizations
+  and the private  sector.
 ---
 
-In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer four subdisciplines of study: archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
+In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer five subdisciplines of study: archaeology, biological anthropology, linguistic anthropology, sociocultural anthropology and anthropology of visual communication. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
 
 ## Academic Offerings at a Glance
 
