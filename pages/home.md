@@ -17,7 +17,7 @@ feature-body: >-
   generating key insights into how people make sense and find meaning in their
   worlds.
 feature-image: 
-published: false
+published: true
 ---
 
 <div class="row row-wide">
