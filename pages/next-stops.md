@@ -4,6 +4,7 @@ meta-keywords: 'transfer, apply, visit, field research, careers'
 permalink: /next-stops/
 layout: page
 published: true
+meta-description: 'Our graduates go on to an exciting range of careers. '
 ---
 Our graduates go on to an exciting range of [careers](#careers). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
