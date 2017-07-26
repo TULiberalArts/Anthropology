@@ -16,8 +16,8 @@ feature-body: >-
   deeper level with people from many linguistic and geographical backgrounds,
   generating key insights into how people make sense and find meaning in their
   worlds.
-feature-image: media_Anthropology_bg.png
-published: true
+feature-image: 
+published: false
 ---
 
 <div class="row row-wide">
