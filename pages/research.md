@@ -4,6 +4,10 @@ meta-keywords: 'artifacts, museum, laboratory,'
 permalink: /research/
 layout: page
 published: true
+meta-description: >-
+  The Anthropology Laboratory of Research and Exhibitions (LRE) is a dynamic
+  facility  dedicated to research, conservation and dissemination of
+  anthropological knowledge to  the university community and the general public.
 ---
 ## Laboratory of Research and Exhibitions
 
