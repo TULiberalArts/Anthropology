@@ -44,6 +44,8 @@ Undergraduate majors in anthropology pursue one of three courses of study: Gener
 
 You will have the opportunity to collaborate with faculty on field research in locations around the world, from biological research in Oman, to sociocultural research in India, to archeological research right here in the Delaware Valley.
 
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](https://www.temple.edu/admissions/undergraduate).
+
 ## Academic Offerings
 
  - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
