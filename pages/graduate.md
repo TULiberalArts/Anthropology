@@ -40,50 +40,13 @@ meta-description: >-
   for  professional careers in academia, government, non-profit organizations
   and the private  sector.
 ---
+The [graduate program in anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) is a highly selective doctoral program leading to the PhD degree. The first three years are devoted primarily to course work. Beyond that, each doctoral student is expected to develop, in close consultation with his/her faculty advisors, an original, strongly focused doctoral-research project that involves substantial field-based and/or laboratory-based research. The student's doctoral research must build on, and go beyond, existing scholarly work, thereby making a significant contribution to the discipline of anthropology. 
 
-In our highly selective PhD program, students develop an original doctoral research project that involves substantial field-based or laboratory-based research. We offer five subdisciplines of study: archaeology, biological anthropology, linguistic anthropology, sociocultural anthropology and anthropology of visual communication. Doctoral students specialize in one of these areas. We are committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit organizations and the private sector.
+Temple University's Department of Anthropology is committed to producing doctorates in anthropology who are well prepared for professional careers in academia, government, non-profit/non-governmental organizations or the private sector. Our goals are to ensure that our doctorates:
 
-## Academic Offerings at a Glance
-
- - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) (Concentrations: [Archaeology](#archaeology), [Biological Anthropology](#biological-anthropology), [Linguistic Anthropology](#linguistic-anthropology), [Sociocultural Anthropology](#sociocultural-anthropology), [Anthropology of Visual Communication](#anthropology-of-visual-communication)
-
-## Archaeology
-
-Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archaeologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
-
-**Some areas of focus:**
-
-- _Historical archaeology_: the study of historically documented cultures. Faculty and students focus on historic sites in the Caribbean and northeastern states.
-- _Bioarchaeology_: the study of human remains. Faculty and students study activity patterns, health, growth and development of past populations.
-- _Prehistoric archaeology_: the study of the past before historic records began. Faculty and students study the peopling of the Americas.
-
-## Biological Anthropology
-
-Biological anthropologists study the evolutionary origins of all humans and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present. Areas of focus include the ways humans have adapted to extreme environments, such as high altitude, the genetic basis and evolutionary origins of human diseases, and the role of nutrition in shaping growth, development and health over the life course.
-
-## Linguistic Anthropology
-
-Linguistic anthropologists study the dynamic relationships among speakers, language, culture, and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
-
-**Some areas of focus:**
-
-- _Language Socialization:_ The study of how a speaker learns a language while simultaneously learning to become competent members of a cultural community.
-- _Language Contact:_ The study of the historical, political and sociocultural dynamics of two or more languages in contact.
-- _Language Ideology:_ The study of the socially constructed, "common sense" notions about languages, their speakers and communicative norms.
-
-## Sociocultural Anthropology
-
-Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
-
-**Some areas of focus:**
-
-- _Political Anthropology:_ The study of patterns of governance, politics and power. Faculty and students study legal systems and violence in the Caribbean.
-- _Media Anthropology:_ The study of media consumption and production. Faculty and students study national, transnational and regional discourses in European mass media.
-
-## Anthropology of Visual Communication
-
-The Anthropology of Visual Communication track emphasizes a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication applies the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and, potentially, other areas of study) toward the study and practice of visual communication. The Anthropology of Visual Communication is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to “new media” and their role in “globalization” processes.
-
+- have acquired sufficient knowledge of the four traditional subdisciplines of American anthropology (namely, archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology) to be broadly conversant in the key issues of each; to teach a four-field undergraduate survey course (e.g. "Introduction to Anthropology"); and otherwise to function intellectually and professionally as a researcher, teacher, advisor/mentor, and colleague within a four-field department of anthropology 
+- have developed broad-based mastery of one of the four subdisciplines, and are able to demonstrate that mastery through competent participation in all relevant professional activities associated with their chosen field, such as giving professional presentations at regional and national conferences; competing successfully for research funding; carrying out original research; participating in the peer-review process; publishing original work in journals, books, and other scholarly publications; and teaching at the undergraduate and graduate levels 
+- are prepared to make significant original contributions to their areas of research specialization, to their subdisciplines, and to the discipline as a whole through their research, publishing, teaching, and service activities.
 
 ## Frequently Asked Questions
 
