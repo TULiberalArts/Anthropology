@@ -15,10 +15,10 @@ sidebar-content: |
    ___
    
    **Graduate Chair:**  
-   Paul B. Garrett  
+   L. Christine Rockwell  
    025-21 Gladfelter Hall  
    [(215) 204-7621](tel:2152047621)  
-   [paul.garrett@temple.edu](mailto:paul.garrett@temple.edu)  
+   [Christie.Rockwell@temple.edu](mailto:Christie.Rockwell@temple.edu)  
    
    ___
    
@@ -37,8 +37,8 @@ sidebar-content: |
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 meta-description: >-
   We are committed to producing doctorates in anthropology who are well prepared
-  for  professional careers in academia, government, non-profit organizations
-  and the private  sector.
+  for professional careers in academia, government, non-profit organizations and
+  the private  sector.
 ---
 The [graduate program in anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) is a highly selective doctoral program leading to the PhD degree. The first three years are devoted primarily to course work. Beyond that, each doctoral student is expected to develop, in close consultation with his/her faculty advisors, an original, strongly focused doctoral-research project that involves substantial field-based and/or laboratory-based research. The student's doctoral research must build on, and go beyond, existing scholarly work, thereby making a significant contribution to the discipline of anthropology. 
 
