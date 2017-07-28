@@ -40,7 +40,7 @@ meta-description: >-
   anthropology and visual communication, and minors in general anthropology and 
   anthropology of visual communication.
 ---
-Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/), the [Human Biology track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/) or the [Anthropology of Visual Communication track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) and in [Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/).
+Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology](#general-anthropology), the [Human Biology track](#human-biology) or the [Anthropology of Visual Communication track](#anthropology-of-visual-communication). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [General Anthropology](#general-anthropology) and in [Anthropology of Visual Communication](#anthropology-of-visual-communication)
 
 ## What is Anthropology?
 
@@ -54,10 +54,29 @@ You will have the opportunity to collaborate with faculty on field research in l
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/apply).
 
-## Academic Offerings
+## Academic Offerings at a Glance
 
- - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
- - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
+ - [BA in General Anthropology](#general-anthropology)
+ - [BA in Human Biology](#human-biology)
  - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
- - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
+ - [Minor in General Anthropology](#general-anthropology)
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
+
+## General Anthropology
+
+The General Anthropology [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) are intended to give students a strong foundation in all four subdisciplines of anthropology. Each subdiscipline requires the development of broadly applicable skills, including formulating hypotheses, developing research programs and proposals, applying theories to the interpretation of data, and gathering ethnographic information through participant observation. There is sufficient flexibility in the requirements for the General Anthropology major and minor that students can focus their coursework, if they desire, on one of the four subdisciplines in particular.
+
+With their emphasis on understanding human diversity, the General Anthropology major and minor prepare students well for the issues that they are likely to encounter in today's workplaces. At Temple, we offer a variety of courses that prepare students for careers in such fields as teaching, public administration, social work, urban planning, journalism, mass media, business, and law. Our courses in archaeology train students well for careers in cultural resources management and historic preservation. The major or minor in anthropology is excellent preparation for careers and activities that call for cultural sensitivity and understanding of cultural differences, such as the teaching of English to speakers of other languages, work with immigrant communities, and work with international non-profit and non-governmental organizations.
+
+## Human Biology
+
+The [Human Biology track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/) prepares students for careers in medicine, dentistry, physical therapy, optometry, podiatry, and other allied health fields. Students preparing for these fields sometimes find the traditional science majors too restrictive. Human Biology students major in anthropology, but take departmental courses primarily in biological anthropology. The Human Biology track also includes required courses in biology and human anatomy and physiology. The track provides several options for completing other science courses that fulfill admission requirements to professional schools in the health sciences. This program, like those at Stanford, the University of Michigan, and Harvard, also encourages students to take health/biology-related courses in psychology, sociology, history, political science, and the humanities. As a result, our students have the broad liberal arts background that many professional schools in the health sciences find attractive.
+
+## Anthropology of Visual Communciation
+
+The Anthropology of Visual Communication [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/) emphasize a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts. 
+
+The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes.  
+
+Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](https://studyabroad.temple.edu/), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
+
