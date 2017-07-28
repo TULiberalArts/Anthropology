@@ -40,7 +40,7 @@ meta-description: >-
   anthropology and visual communication, and minors in general anthropology and 
   anthropology of visual communication.
 ---
-Undergraduate majors in anthropology pursue one of three courses of study: [General Anthropology](#general-anthropology), the [Human Biology track](#human-biology) or the [Anthropology of Visual Communication track](#anthropology-of-visual-communication). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [General Anthropology](#general-anthropology) and in [Anthropology of Visual Communication](#anthropology-of-visual-communication)
+Undergraduate majors in anthropology pursue one of three courses of study: [general anthropology](#general-anthropology), the [human biology track](#human-biology) or the [anthropology of visual communication track](#anthropology-of-visual-communication). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [general anthropology](#general-anthropology) and in [anthropology of visual communication](#anthropology-of-visual-communication)
 
 ## What is Anthropology?
 
@@ -95,4 +95,3 @@ The Anthropology of Visual Communication [major](http://bulletin.temple.edu/unde
 The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes.  
 
 Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](https://studyabroad.temple.edu/), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
-
