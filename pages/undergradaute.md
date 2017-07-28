@@ -62,7 +62,7 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 
 ### Sociocultural Anthropology
 
-Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern, and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
+Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
 ## Anthropology at Temple
 
