@@ -39,7 +39,7 @@ The College of Liberal Arts offers a great deal of flexibility to help you accom
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/app).
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/apply).
 
 ## Deadlines
 
