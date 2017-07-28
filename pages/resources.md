@@ -4,9 +4,9 @@ meta-keywords: 'undergraduate, GSA, resources, anthropology'
 permalink: /resources/
 layout: page
 published: true
-meta-description: Our undergraduate and graduate resources are here to help.
+meta-description: Undergraduate and graduate resources.
 ---
-Our undergraduate and graduate resources are here to help.
+Undergraduate and graduate resources.
 
 ## Undergraduate Resources
 
@@ -18,7 +18,7 @@ The Undergraduate Anthropology Association is a forum in which anthropology majo
 
 We hold bi-monthly meetings where professors discuss their areas of specialization and we organize trips to museums and events, a graduate student panel, fundraisers, ethnic food nights, and other fun events. It's a great organization to become involved in, especially if you seek guidance in continuing your studies in anthropology at the graduate level.
 
-Meetings of the Undergraduate Anthropology Association (UAA) are generally held every other Wednesday at 5:00 in the Fishbowl (Gladfelter Hall room 212). For further information, contact the association's president, Kelly Steckler, [ksteck44@temple.edu](mailto:ksteck44@temple.edu), or the vice-president, Jordan Galczynski, [jordan.galczynski@temple.edu](mailto:jordan.galczynski@temple.edu); or you can contact us at the association's email address, [templeuaa@gmail.com](mailto:templeuaa@gmail.com). 
+For further information, contact the association's president, Emily Marron, [emily.marron@temple.edu](mailto:emily.marron@temple.edu) or use the association's email address, [templeuaa@gmail.com](mailto:templeuaa@gmail.com). 
 
 ## Graduate Resources
 
