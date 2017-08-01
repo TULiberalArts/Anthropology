@@ -68,7 +68,7 @@ Sociocultural anthropologists study social patterns and practices, paying close 
 
 You will have the opportunity to collaborate with faculty on field research in locations around the world, from biological research in Oman, to sociocultural research in India, to archeological research right here in the Delaware Valley.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings at a Glance
 
