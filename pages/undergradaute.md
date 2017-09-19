@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'anthropology, undergraduate, visual, biology, track'
 permalink: /undergraduate/
 layout: page
+keywords: 'anthropology, undergraduate, visual, biology, track'
+description: >- 
 published: true
 sidebar: true
 sidebar-content: |
