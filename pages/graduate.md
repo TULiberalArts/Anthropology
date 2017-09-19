@@ -1,8 +1,9 @@
 ---
 title: Graduate
-meta-keywords: 'anthropology, doctoral degree, masters degree, visual communication'
 permalink: /graduate/
 layout: page
+keywords: 'anthropology, doctoral degree, masters degree, visual communication'
+description: >- 
 published: true
 sidebar: true
 sidebar-content: |
