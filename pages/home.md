@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /
+permalink: /home/
 layout: home
 description: >-
   Studying anthropology at Temple helps build the creative thinking and critical
