@@ -1,5 +1,5 @@
 ---
-title: LRE
+title: Laboratory of Research and Exhibitions
 permalink: /lre/
 layout: page
 keywords: 'artifacts, museum, laboratory,'
