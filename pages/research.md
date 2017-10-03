@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: /research/
+title: LRE
+permalink: /lre/
 layout: page
 keywords: 'artifacts, museum, laboratory,'
 description: >-
