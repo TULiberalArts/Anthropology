@@ -21,6 +21,8 @@ The physical anthropology collections feature casts of fossil hominid remains, h
 
 The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens of all kinds. For more information about the Anthropology Laboratory and Museum, follow this [link](http://gamma.library.temple.edu/anthropologylab/).
 
+Click [here](https://www.cla.temple.edu/anthropology/labs/) to view full descriptions of our hands on research labs! 
+
 ## Fifty Years of Collecting, Curating and Saving the Past for the Future: A History
 
 Before moving to Gladfelter Hall in 1972, the Anthropology Laboratory of Research and Exhibitions was located in College Hall, next to the Baptist Temple, where collections began arriving in 1964.  
