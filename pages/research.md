@@ -1,6 +1,6 @@
 ---
 title: Laboratory of Research and Exhibitions
-permalink: /lre/
+permalink: /research/
 layout: page
 keywords: 'artifacts, museum, laboratory,'
 description: >-
