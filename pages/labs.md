@@ -6,7 +6,7 @@ description: Laboratories and Research.
 published: true
 ---
 ##  The Department of Anthropology provides a number of hands-on training opportunities in research-active labs.
-
+---
 ## Biological Anthropology Research Lab
 
 _[Dr. Christie Rockwell](mailto:christie.rockwell@temple.edu), Director_
