@@ -1,6 +1,6 @@
 ---
-title: Research Labs
-permalink: /research-labs/
+title: Labs
+permalink: /labs/
 layout: page
 description: Laboratories and Research.
 published: true
