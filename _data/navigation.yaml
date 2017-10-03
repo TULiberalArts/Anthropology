@@ -4,10 +4,10 @@
   url: /graduate/
 - text: Faculty
   url: /faculty/
-- text: Research
-  url: /research/
-- text: Labs
-  url: /labs/
+- text: LRE
+  url: /lre/
+- text: Research Labs
+  url: /research-labs/
 - text: Resources
   url : /resources/
 - text: Next Stops
