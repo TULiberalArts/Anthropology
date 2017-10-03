@@ -19,7 +19,7 @@ The ethnographic collections feature material artifacts from various cultures of
 
 The physical anthropology collections feature casts of fossil hominid remains, human skeletal specimens, and comparative collections of primate and other mammalian skeletal and dental specimens.
 
-The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens of all kinds.
+The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens of all kinds. For more information about the Anthropology Laboratory and Museum, follow this [link](http://gamma.library.temple.edu/anthropologylab/).
 
 ## Fifty Years of Collecting, Curating and Saving the Past for the Future: A History
 
