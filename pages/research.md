@@ -35,14 +35,13 @@ Presently:
 
 ## For further information, please contact:
 
-### Interim Director
+### Director
 Anthropology Laboratory<br>
-Dr. Christopher Roy<br>
+[Dr. Leslie Reeder-Myers](https://liberalarts.temple.edu/academics/faculty/reeder-myers-leslie)<br>
 [215-204-1418](tel:2152041418)<br>
-[anthro@temple.edu](mailto@anthro@temple.edu)
+[leslie.reeder-myers@temple.edu](mailto:leslie.reeder-myers@temple.edu)
 
 ### Chair
 Laboratory and Technology Committee<br>
-Dr. Patricia Hansell<br>
-[215-204-7577](tel:2152047577)<br>
-[phansell@temple.edu](mailto:phansell@temple.edu)
+[Dr. Charles Weitz](https://liberalarts.temple.edu/academics/faculty/weitz-charles)<br>
+[weitz@temple.edu](mailto:weitz@temple.edu)
