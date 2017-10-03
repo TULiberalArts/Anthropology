@@ -1,5 +1,5 @@
 ---
-title: Laboratory of Research and Exhibitions
+title: Research
 permalink: /research/
 layout: page
 keywords: 'artifacts, museum, laboratory,'
