@@ -46,4 +46,5 @@ Anthropology Laboratory<br>
 ### Chair
 Laboratory and Technology Committee<br>
 [Dr. Charles Weitz](https://liberalarts.temple.edu/academics/faculty/weitz-charles)<br>
+214 Gladfelter Hall<br/>
 [weitz@temple.edu](mailto:weitz@temple.edu)
