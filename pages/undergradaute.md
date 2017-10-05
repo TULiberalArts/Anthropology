@@ -3,7 +3,10 @@ title: Undergraduate
 permalink: /undergraduate/
 layout: page
 keywords: 'anthropology, undergraduate, visual, biology, track'
-description: >- 
+description: >-
+  We offer undergraduate majors in general anthropology, human biology and 
+  anthropology and visual communication, and minors in general anthropology and 
+  anthropology of visual communication. 
 published: true
 sidebar: true
 sidebar-content: |
@@ -36,11 +39,8 @@ sidebar-content: |
    210 Gladfelter Hall    
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
-meta-description: >-
-  We offer undergraduate majors in general anthropology, human biology and 
-  anthropology and visual communication, and minors in general anthropology and 
-  anthropology of visual communication.
 ---
+
 Undergraduate majors in anthropology pursue one of three courses of study: [general anthropology](#general-anthropology), the [human biology track](#human-biology) or the [anthropology of visual communication track](#anthropology-of-visual-communication). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [general anthropology](#general-anthropology) and in [anthropology of visual communication](#anthropology-of-visual-communication)
 
 ## What is Anthropology?
