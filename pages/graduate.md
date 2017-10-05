@@ -7,7 +7,7 @@ description: >-
   We are committed to producing doctorates in anthropology who are well prepared
   for professional careers in academia, government, non-profit organizations and
   the private  sector. 
-published: true
+published: true  
 sidebar: true
 sidebar-content: 
   **Chair:**  
