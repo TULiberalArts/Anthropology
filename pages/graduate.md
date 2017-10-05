@@ -6,9 +6,9 @@ keywords: 'anthropology, doctoral degree, masters degree, visual communication'
 description: >-
   We are committed to producing doctorates in anthropology who are well prepared
   for professional careers in academia, government, non-profit organizations and
-  the private  sector. 
+  the private sector. 
 published: true  
-sidebar: true
+sidebar: true   
 sidebar-content: 
   **Chair:**  
    Paul Farnsworth  
@@ -40,6 +40,7 @@ sidebar-content:
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
+
 The [graduate program in anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) is a highly selective doctoral program leading to the PhD degree. The program trains scholars within the frameworks of anthropological and evolutionary theory.  Faculty of the department specialize in the anthropology of visual communication, language socialization, political economy of language, politics of cultural identity and difference, and sociocultural dynamics of globalization; as well as, ecological archaeology, historical archaeology, bio-archaeology, human evolutionary biology, human genetic and physiological variation. 
 
 The Ph.D. is a 7-year program of study. Course work in the program is completed in the first 2-3 years. Beyond that, each doctoral student develops, in close consultation with his/her faculty advisors, an original, strongly focused doctoral-research project that involves substantial field-based and/or laboratory-based research.  Individual programs of study are tailored to students' specific interests and faculty members’ expertise, and may include advanced seminars, independent studies, relevant courses in other departments and colleges, internships, and independent and collaborative research projects. Our students have a strong record of internal and external funding and we actively mentor them in the skills of grantsmanship. For more detailed information about the program please contact the department’s Director of Graduate Studies, Prof. **Christie Rockwell**, [Christie.rockwell@temple.edu](mailto:Christie.rockwell@temple.edu).
