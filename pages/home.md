@@ -31,7 +31,7 @@ published: true
       color="#a41e35"
       title="There's a Lab For That"
       content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
-      button-link="research/#laboratory-and-museum"
+      button-link="researchlabs/#research-lab"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
