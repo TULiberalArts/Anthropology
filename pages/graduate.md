@@ -8,8 +8,8 @@ description: >-
   for professional careers in academia, government, non-profit organizations and
   the private sector. 
 published: true  
-sidebar: true   
-sidebar-content: 
+sidebar: true 
+sidebar-content:  |
   **Chair:**  
    Paul Farnsworth  
    209 Gladfelter Hall  
