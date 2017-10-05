@@ -32,7 +32,7 @@ published: true
       color="#a41e35"
       title="There's a Lab For That"
       content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
-      button-link="researchlabs/#researchlabs"
+      button-link="research-labs"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -40,7 +40,7 @@ published: true
         color="#a41e35"
         title="Pursue a Graduate Degree"
         content="We offer a series of research methods courses, both quantitative and qualitative, that equip students with the hard analytical skills that employers desire."
-        button-link="graduate/#graduate"
+        button-link="graduate"
         button-text="Learn More" %}
       </div>
 </div>

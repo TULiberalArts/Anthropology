@@ -2,7 +2,7 @@
 title: Research Labs
 permalink: /research-labs/
 layout: page
-keywords: 
+keywords: 'Research Lab'
 description: Laboratories and Research.
 published: true
 ---
@@ -27,13 +27,13 @@ _The Impact of Variation in the Progesterone Receptor Gene, Life History, and Li
 
 ## Linguistic Anthropology Laboratory
 
-The Linguistic Anthropology Teaching Laboratory, or "LingAnth Lab," is devoted to the collection and analysis of audio- and video-recorded ethnographic data.  It supports the teaching, training, grant-getting, research, and publishing endeavors of faculty members, doctoral students, and advanced undergraduate students, particularly those whose work involves recording and closely analyzing naturally occurring language use and interactions.  Currently, faculty and students affiliated with the LingAnth Lab have research and writing projects underway based on data collected in the Greater Philadelphia area as well as in Angola, Argentina, Aruba, Colombia, Curaçao, the Dominican Republic, Peru, St. Lucia, Spain, and Vietnam. 
+The Linguistic Anthropology Teaching Laboratory, or "LingAnth Lab," is devoted to the collection and analysis of audio- and video-recorded ethnographic data.  It supports the teaching, training, grant-getting, research, and publishing endeavors of faculty members, doctoral students, and advanced undergraduate students, particularly those whose work involves recording and closely analyzing naturally occurring language use and interactions.  Currently, faculty and students affiliated with the LingAnth Lab have research and writing projects underway based on data collected in the Greater Philadelphia area as well as in Angola, Argentina, Aruba, Colombia, Curaçao, the Dominican Republic, Peru, St. Lucia, Spain, and Vietnam.
 
 In recent years, doctoral students affiliated with the LingAnth Lab have been awarded many of the most prestigious grants and fellowships that are available to support doctoral research in anthropology.  These include the National Science Foundation Graduate Research Fellowship; the Fulbright Fellowship; the Fulbright–Hays Fellowship; the Wenner-Gren Foundation Dissertation Fieldwork Grant; the National Security Education Program Boren Fellowship; and the National Academy of Education Spencer Dissertation Fellowship.
 
 ## Skeletal Biology Laboratory
 
-_[Dr. Kimberly D. Williams](mailto:kimberwilliams@temple.edu), Director_ 
+_[Dr. Kimberly D. Williams](mailto:kimberwilliams@temple.edu), Director_
 
 ## Visual Anthropology Laboratory
 
@@ -53,7 +53,7 @@ The physical anthropology collections feature casts of fossil hominid remains, h
 
 The Laboratory is used to teach and train both undergraduate and graduate students, providing hands-on learning experiences in observing, documenting, and analyzing anthropological specimens of all kinds. For more information about the Anthropology Laboratory and Museum, follow this [link](http://gamma.library.temple.edu/anthropologylab/).
 
-Click [here](https://www.cla.temple.edu/anthropology/labs/) to view full descriptions of our hands on research labs! 
+Click [here](https://www.cla.temple.edu/anthropology/labs/) to view full descriptions of our hands on research labs!
 
 ## Fifty Years of Collecting, Curating and Saving the Past for the Future: A History
 
@@ -62,7 +62,7 @@ Before moving to Gladfelter Hall in 1972, the Anthropology Laboratory of Researc
 Presently:
 - Exhibits may be found at the entrance to the Laboratory (in the Gladfelter Hall lobby, L8), as well as elsewhere on campus, such as the [Center for the Humanities at Temple CHAT](http://www.temple.edu/humanities/activities/exhibits/ExcavatingDesire.htm).
 - An internship in collections management is sponsored through the [Temple University Career Center](http://www.temple.edu/provost/careercenter/).
-- A blog about our collections can be found [here](https://anthropologylabtemple.wordpress.com/). 
+- A blog about our collections can be found [here](https://anthropologylabtemple.wordpress.com/).
 - An article about the Laboratory and Museum appeared in the Summer 2011 issue of the [Temple Review](http://www.temple.edu/templemag/archives/2011_summer/Earthly_Treasures_sum11.html).
 - The Laboratory and Museum are featured in a [short video](http://www.youtube.com/watch?v=4LecSEiUCxQ) from [The Temple News](http://www.temple-news.com/).
 - Undergraduate anthropology major Nicole Welk is featured in a "[Faces of Temple](https://news.temple.edu/news/faces-nicole_welk)" short video for her work with the collections in creating the exhibit “Anthropology Speaks.”
