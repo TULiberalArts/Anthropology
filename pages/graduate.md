@@ -3,10 +3,13 @@ title: Graduate
 permalink: /graduate/
 layout: page
 keywords: 'anthropology, doctoral degree, masters degree, visual communication'
-description: >- 
+description: >-
+  We are committed to producing doctorates in anthropology who are well prepared
+  for professional careers in academia, government, non-profit organizations and
+  the private  sector. 
 published: true
 sidebar: true
-sidebar-content: |
+sidebar-content: 
   **Chair:**  
    Paul Farnsworth  
    209 Gladfelter Hall  
@@ -36,10 +39,6 @@ sidebar-content: |
    210 Gladfelter Hall    
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
-meta-description: >-
-  We are committed to producing doctorates in anthropology who are well prepared
-  for professional careers in academia, government, non-profit organizations and
-  the private  sector.
 ---
 The [graduate program in anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) is a highly selective doctoral program leading to the PhD degree. The program trains scholars within the frameworks of anthropological and evolutionary theory.  Faculty of the department specialize in the anthropology of visual communication, language socialization, political economy of language, politics of cultural identity and difference, and sociocultural dynamics of globalization; as well as, ecological archaeology, historical archaeology, bio-archaeology, human evolutionary biology, human genetic and physiological variation. 
 
