@@ -2,7 +2,7 @@
 title: Research Labs
 permalink: /research-labs/
 layout: page
-keywords: 'Research Lab'
+keywords: Research Lab
 description: Laboratories and Research.
 published: true
 ---
@@ -24,6 +24,8 @@ _Quantification and Phylogenetic Comparative Analysis of Pelage Sexual Dichromat
 _The Impact of Variation in the Progesterone Receptor Gene, Life History, and Lifestyle on Endometrial Function and the Menstrual Cycle.”_
 
 ## Biological Anthropology Teaching Laboratory
+
+The Biological Anthropology Teaching Laboratory is dedicated for use in introductory and upper division courses human osteology, human paleontology, human growth and development, human genetics, human reproduction and health, and primatology. It contains a large study collection of human skeletons and dental casts for use in our anatomy and osteology classes. The Teaching Laboratory also houses an extensive and up-to-date collection of casts of human ancestors and their relatives such as Neanderthals. We maintain a comparative non-human primate skeletal collection, and other select mammalian materials. In addition, we have models of DNA molecules and equipment used for physiological measurements and radiographic assessments. The teaching lab is outfitted with smart-classroom capabilities to support film viewing, lecture and student presentations, and WEB based instruction. Most classes in biological anthropology are held in this facility, which seats 30 students, and make regular use of the collections. Open-lab study hours are made by arrangement with course instructors.
 
 ## Linguistic Anthropology Laboratory
 
