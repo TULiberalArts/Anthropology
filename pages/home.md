@@ -6,40 +6,40 @@ description: >-
   Studying anthropology at Temple helps build the creative thinking and critical analysis abilities needed to solve complex problems in today’s world.
 keywords: 'anthropology, Temple, cross-cultural'
 feature: true
-feature-title: Understand Our Diverse World
+feature-title: Humanity Over Time and Space
 feature-image: null
 feature-body: >-
-  Studying anthropology at Temple helps build the creative thinking and critical
-  analysis abilities needed to solve complex problems in today’s world. We teach
-  cross-cultural understanding, interdisciplinary connection and computational
-  and analytical skills. With our training, you’ll be able to connect on a
-  deeper level with people from many linguistic and geographical backgrounds,
-  generating key insights into how people make sense and find meaning in their
-  worlds.
+  Anthropologists pursue the comprehensive study of humans. Since the evolutionary origin of
+  our species, we have grown to a population over 7 billion that lives in dynamic tension with our
+  social, cultural, and ecological environments. In our programs, students learn about deep time,
+  human pre-history, health and human biology, mobility, global inequities, cultural resilience,
+  modern communication and mediation, multilingualism, cultural politics, and more. They
+  graduate prepared to pursue graduate studies in Anthropology or related studies or to use this
+  perspective to contribute to a large variety of non-academic career paths.
 published: true
 ---
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     color="#a41e35"
-    title="Unrivaled Personal Attention"
-    content="The small average size of our upper-level classes permits our faculty to work closely with students, meeting their educational needs and preparing them for whatever career path they seek after graduation."
+    title="Major and Minors"
+    content="Become an Anthropology major or choose one of our specialty tracks: Human Biology and Anthropology and Visual Communication. Or, chose a minor or certificate program that will help prepare you for further study or engagement with real world issues."
     button-link="undergraduate"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-basic.html
       color="#a41e35"
-      title="There's a Lab For That"
-      content="We're big on hands-on experience. We offer a number of experiential learning opportunities and facilities right here on campus."
+      title="Fieldwork and Research"
+      content="Our faculty engage in active field research both close to home and in distant locales. Come learn about fieldwork opportunities and discover how and where you want to apply your anthropology training."
       button-link="research-labs"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-basic.html
         color="#a41e35"
-        title="Pursue a Graduate Degree"
-        content="We offer a series of research methods courses, both quantitative and qualitative, that equip students with the hard analytical skills that employers desire."
+        title="PhD Program"
+        content="Join our profession through graduate study. Our program is structured along two broad themes: **Evolution and Human Environments and Mobility and Global Inequality.**"
         button-link="graduate"
         button-text="Learn More" %}
       </div>
