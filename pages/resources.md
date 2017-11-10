@@ -24,7 +24,6 @@ For further information, contact the association's president, Emily Marron, [emi
 
 For detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to Temple University's Graduate [website](http://www.temple.edu/grad/policies/gradpolicies.htm).
 
-- [Graduate School Calendar](http://www.temple.edu/grad/calendar/)
 - Graduate Admissions to Temple University- Are you ready to apply? [Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm). 
 
 ### Anthropology Graduate Student Association
