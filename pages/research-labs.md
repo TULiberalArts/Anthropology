@@ -37,7 +37,7 @@ In recent years, doctoral students affiliated with the LingAnth Lab have been aw
 
 _[Dr. Kimberly D. Williams](mailto:kimberwilliams@temple.edu), Director_
 
-## Visual Anthropology Laboratory
+## Media Anthropology Laboratory
 
 Reflecting one focus of faculty and student research, The Department of Anthropology features a Media Anthropology Lab. The lab houses four double-monitor computer stations for video and sound editing, often used during our visual anthropology courses and other courses that offer opportunities for students to work with video. The lab is also home to a number of camera kits and other equipment (tripods, sound equipment, lights), which can be borrowed by undergraduate students majoring in anthropology, and anthropology graduate students, for their own projects.
 
