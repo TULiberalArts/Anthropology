@@ -111,40 +111,39 @@ For further information, contact the AGSA President, Julien Ehrenkonig, [Julien.
 
 **2017**
 
-Susan Bachor
-•	Sean Bratton Memorial Research Fund Grant from the Archaeological Society of New Jersey
-Sonay Ban
-•	Temple University Global Studies Graduate Student Research Grant
-Dr. Christopher Barton (PhD, 2016), Project: “Modernity, Identity, and Memory: The Heritage and Archaeology of Great Blasket Island, County Kerry, Ireland,”
-•	Fulbright U.S. Scholar Fellowship
-Nathan Jessee 
-•	National Academy of Sciences Gulf Research Program Science Policy Fellowship
-Dave Paulson, Project: “Writing in the Margins: Indigenous Literacy, Childhood Socialization, and Rapid Modernization in a Vietnamese Village.”
-•	National Academy of Education Spencer Fellowship
-Nicole Nathan, Project: “Religious Conversion and the Politics of Identity among Haitian-Dominican Christians.”
-•	Fulbright Fellowship
-Kristina Nazimova, Project: “Coming of Age in a Post-War City: Language, Displacement, and Youth in Angola.”
-•	Boren Fellowship
+- Susan Bachor: Sean Bratton Memorial Research Fund Grant from the Archaeological Society of New Jersey
+- Sonay Ban: Temple University Global Studies Graduate Student Research Grant
+- Dr. Christopher Barton (PhD, 2016), Project: “Modernity, Identity, and Memory: The Heritage and Archaeology of Great Blasket Island, County Kerry, Ireland,”: Fulbright U.S. Scholar Fellowship
+- Nathan Jessee: National Academy of Sciences Gulf Research Program Science Policy Fellowship
+- Dave Paulson, Project: “Writing in the Margins: Indigenous Literacy, Childhood Socialization, and Rapid Modernization in a Vietnamese Village.”: National Academy of Education Spencer Fellowship
+- Nicole Nathan, Project: “Religious Conversion and the Politics of Identity among Haitian-Dominican Christians.”: Fulbright Fellowship
+- Kristina Nazimova, Project: “Coming of Age in a Post-War City: Language, Displacement, and Youth in Angola.”: Boren Fellowship
 
 **2016**
 
 Eryn Snyder Berger Project: “Afrodescendant Youth, Cultural Citizenship, and the Promise of Media Democracy in Argentina.”
-•	Temple University Global Studies Graduate Student Research Grant
-•	Fulbright Fellowship
-•	Wenner-Gren Foundation Dissertation Fieldwork Grant.
+- Temple University Global Studies Graduate Student Research Grant
+- Fulbright Fellowship
+- Wenner-Gren Foundation Dissertation Fieldwork Grant.
+
 Nathan Jessee, Project: “Inhabiting Disaster Media   Worlds: Visual Media, Indigenous Activism, and Adaptation to Coastal Hazards in Louisiana.”
 •	Wenner-Gren Foundation Dissertation Fieldwork Grant.
 •	National Academy of Sciences Gulf Research Program Science Policy Fellowship
+
 Kristina Nazimova
 •	Temple University Global Studies Graduate Student Research Grant
 •	Kathryn Wasserman Davis Fellow for Peace
+
 Melissa Krug,  Project: “Fair Trade and the Prospects for Quechua Language and Culture in Peru.”
 •	Center for International Business Education and Research (CIBER)  International Business Research Award
 •	Fulbright–Hays Doctoral Dissertation Research Abroad Fellowship.
+
 Dana Muñíz Pacheco
 •	Temple University Global Studies Graduate Student Research Grant
+
 Dave Paulson, Project: “Language Endangerment and Childhood Education among the Cham of Vietnam.”
 •	Fulbright Fellowship
+
 Nydia Pontón
 •	Center for the Humanities at Temple (CHAT) Advanced Graduate Scholar Fellowship
 Sam Spies, Project: “Reporting Truth: Online Journalism, Censorship, and the Creation of Knowledge in Jordan.”
