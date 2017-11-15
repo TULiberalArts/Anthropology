@@ -213,36 +213,36 @@ Christopher Barton
 
 **2017**
 
-Doctoral student Brittany Webb has been selected from an international pool of applicants to participate in the Doctoral School in Urban Anthropology, to be held in July and August 2017 in Cape Town, South Africa.
+- Doctoral student Brittany Webb has been selected from an international pool of applicants to participate in the Doctoral School in Urban Anthropology, to be held in July and August 2017 in Cape Town, South Africa.
+- Doctoral student Sonay Ban has been selected as one of ten doctoral students, from an international pool of applicants, to participate in the inaugural University of Michigan/Social Science Research Council Doctoral Institute on Global Media and Communication.
+- Doctoral student Gina Tibbott and colleague Caroline Cheung (University of California at Berkeley) have won the Best Poster Award for their presentation “The Dolia of Regio I, Insula 22: Evidence for the Production and Repair of Dolia” at the joint annual conference of the Archaeological Institute of America and the Society for Classical Studies.
 
-Doctoral student Sonay Ban has been selected as one of ten doctoral students, from an international pool of applicants, to participate in the inaugural University of Michigan/Social Science Research Council Doctoral Institute on Global Media and Communication.
-
-Doctoral student Gina Tibbott and colleague Caroline Cheung (University of California at Berkeley) have won the Best Poster Award for their presentation “The Dolia of Regio I, Insula 22: Evidence for the Production and Repair of Dolia” at the joint annual conference of the Archaeological Institute of America and the Society for Classical Studies.
 
 **2016**
 
-Graduate Students of Language at Temple (GSOLT), of which doctoral student Grace Cooper is the co-chair and in which other doctoral students are active participants, has received the “Best Graduate Student Organization” award from Temple University Student Activities.
+- Graduate Students of Language at Temple (GSOLT), of which doctoral student Grace Cooper is the co-chair and in which other doctoral students are active participants, has received the “Best Graduate Student Organization” award from Temple University Student Activities.
+- Eryn Snyder Berger, 2016 College of Liberal Arts Graduate Student Instructor of Record Teaching Award.
+- Dana Muñíz Pacheco, Honorable Mention, National Science Foundation Graduate Research Fellowship Program.
 
-Eryn Snyder Berger, 2016 College of Liberal Arts Graduate Student Instructor of Record Teaching Award.
+**2015**
 
-Dana Muñíz Pacheco, Honorable Mention, National Science Foundation Graduate Research Fellowship Program.
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the America Abroad Media “Power of Film” Award for their film Difret.
+- Kristin Almskaar, 2015 Temple University College of Liberal Arts Graduate Student Teaching Assistant Award.
+- Kristina Nazimova, Honorable Mention, Ford Foundation Predoctoral Fellowship competition.
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Pan African Film.
+- Festival’s Best Feature Narrative award for their film Difret.
 
-2015
 
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the America Abroad Media “Power of Film” Award for their film Difret.
+**2014**
 
-Kristin Almskaar, 2015 Temple University College of Liberal Arts Graduate Student Teaching Assistant Award.
-Kristina Nazimova, Honorable Mention, Ford Foundation Predoctoral Fellowship competition.
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Pan African Film.
-Festival’s Best Feature Narrative award for their film Difret.
-
-2014
 Kristin Almskaar, Honorable Mention, National Science Foundation Graduate Research Fellowship Program
 Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Berlinale International Film Festival’s Panorama Audience Award (“Best Fiction Film” category) for their film Difret.
 Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Sundance Film Festival’s Audience Award (“World Cinema Dramatic” category) for their film Difret.
 Doctoral student Megan Luthern‘s osteological analyses of materials excavated at Satu Qala, a site in Iraqi Kurdistan, are featured in the website of the International Association for Assyriology.
 Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have been joined by Angelina Jolie as Executive Producer of their film Difret.
+
 2013
+
 Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have received official word that their film Difret has been selected for the Sundance Film Festival. She is the film’s producer and he is the director. A total of 12,218 films were submitted to Sundance. Of those, only 118 (fewer than one percent) were selected for the festival. And of those, only twelve films, from around the world, were chosen for the category in which Difret appears: “World Cinema Dramatic Competition.” In Sundance’s thirty-year history, this is the first time that a feature film from Ethiopia has been chosen for this competition category.
 Doctoral student Deirdre Kelleher has been chosen by the Society for Historical Archaeology to receive the John L. Cotter Award, which recognizes “outstanding achievement by an individual at the start of his/her career in historical archaeology.”
 The Visual Anthropology Society at Temple (VAST) has received the “Program of the Year” award from Temple University Student Activities and the Office of Leadership Development for its 2013 “Futures of Visual Anthropology” conference.
@@ -302,4 +302,3 @@ Doctoral student Kevin Donaghy and his historical-archaeological work on the Bat
 Work of numerous students and alumni from the Department is represented in the exhibit Digging the City: Archaeological Discoveries from the Philadelphia Waterfront at the Independence Seaport Museum. A total of 43 Temple archaeologists have been involved; those who have had leadership roles include alumnus Steve Tull, doctoral students Jen Rankin and Blair Fink, and undergraduate students George Cress, Paul Elwork, Eileen Krall-Hood, Matt Olson, Christy Wallover, and Rebecca White.
 Alumna Dr. Kimmika Williams-Witherspoon is featured in the Temple University “Faculty Focus” profile series.
 Alumnus Dr. Arthur Washburn is featured in the Winter 2012 issue of Temple Review for his work in the field of forensic podiatry.
-
