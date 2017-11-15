@@ -7,7 +7,7 @@ description: >-
 keywords: 'anthropology, Temple, cross-cultural'
 feature: true
 feature-title: Humanity Over Time and Space
-feature-image: null
+feature-image: media/Linguistic Anthropology 3.JPG
 feature-body: >-
   Anthropologists pursue the comprehensive study of humans. Since the evolutionary origin of
   our species, we have grown to a population over 7 billion that lives in dynamic tension with our
