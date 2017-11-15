@@ -235,70 +235,94 @@ Christopher Barton
 
 **2014**
 
-Kristin Almskaar, Honorable Mention, National Science Foundation Graduate Research Fellowship Program
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Berlinale International Film Festival’s Panorama Audience Award (“Best Fiction Film” category) for their film Difret.
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Sundance Film Festival’s Audience Award (“World Cinema Dramatic” category) for their film Difret.
-Doctoral student Megan Luthern‘s osteological analyses of materials excavated at Satu Qala, a site in Iraqi Kurdistan, are featured in the website of the International Association for Assyriology.
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have been joined by Angelina Jolie as Executive Producer of their film Difret.
+- Kristin Almskaar, Honorable Mention, National Science Foundation Graduate Research Fellowship Program
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Berlinale International Film Festival’s Panorama Audience Award (“Best Fiction Film” category) for their film Difret.
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have won the Sundance Film Festival’s Audience Award (“World Cinema Dramatic” category) for their film Difret.
+- Doctoral student Megan Luthern‘s osteological analyses of materials excavated at Satu Qala, a site in Iraqi Kurdistan, are featured in the website of the International Association for Assyriology.
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have been joined by Angelina Jolie as Executive Producer of their film Difret.
 
-2013
+**2013**
 
-Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have received official word that their film Difret has been selected for the Sundance Film Festival. She is the film’s producer and he is the director. A total of 12,218 films were submitted to Sundance. Of those, only 118 (fewer than one percent) were selected for the festival. And of those, only twelve films, from around the world, were chosen for the category in which Difret appears: “World Cinema Dramatic Competition.” In Sundance’s thirty-year history, this is the first time that a feature film from Ethiopia has been chosen for this competition category.
-Doctoral student Deirdre Kelleher has been chosen by the Society for Historical Archaeology to receive the John L. Cotter Award, which recognizes “outstanding achievement by an individual at the start of his/her career in historical archaeology.”
-The Visual Anthropology Society at Temple (VAST) has received the “Program of the Year” award from Temple University Student Activities and the Office of Leadership Development for its 2013 “Futures of Visual Anthropology” conference.
-Doctoral student Nathan Jessee has been chosen to participate in the National Science Foundation’s Ethnographic Field School.
-Doctoral student Brittany Webb has been selected, through an international essay competition, to participate in the 17th Berlin Roundtables on Transnationality, sponsored by the Irmgard Coninx Foundation: “Travel and Museums: Rethinking the Modern Experience.”
-2012
+- Doctoral student Mehret Mandefro and her husband, Zeresenay Berhane Mehari, have received official word that their film Difret has been selected for the Sundance Film Festival. She is the film’s producer and he is the director. A total of 12,218 films were submitted to Sundance. Of those, only 118 (fewer than one percent) were selected for the festival. And of those, only twelve films, from around the world, were chosen for the category in which Difret appears: “World Cinema Dramatic Competition.” In Sundance’s thirty-year history, this is the first time that a feature film from Ethiopia has been chosen for this competition category.
+- Doctoral student Deirdre Kelleher has been chosen by the Society for Historical Archaeology to receive the John L. Cotter Award, which recognizes “outstanding achievement by an individual at the start of his/her career in historical archaeology.”
+- The Visual Anthropology Society at Temple (VAST) has received the “Program of the Year” award from Temple University Student Activities and the Office of Leadership Development for its 2013 “Futures of Visual Anthropology” conference.
+- Doctoral student Nathan Jessee has been chosen to participate in the National Science Foundation’s Ethnographic Field School.
+- Doctoral student Brittany Webb has been selected,
+ through an international essay competition, to participate in the 17th Berlin Roundtables on Transnationality, sponsored by the Irmgard Coninx Foundation: “Travel and Museums: Rethinking the Modern Experience.”
+
+**2012**
+
 Alumnus Daniel Crozier has been chosen to receive the Philadelphia Archaeological Forum Award of Merit for his many years of service to historical archaeology in Philadelphia.
 Alumnus Dr. Sam Pack has completed two ethnographic films: Celebrating Semana Santa: Change, Conflict, and Continuity in Rural Honduras and Water Puppetry in Vietnam: An Ancient Tradition in a Modern World. Both films have been accepted as featured selections at international documentary and ethnographic film festivals and are in distribution by Berkeley Media.
 Doctoral student Eryn Snyder has been awarded First Place in the Social Science Research Council’s Rachel Tanur Memorial Prize for Visual Sociology competition.
-PUBLICATIONS
-2017
-Doctoral student Nydia Pontón Nigaglioni has published the chapter “Cerámica Histórica” in the edited volume Guía de Identificación: Arqueología, Explorando la Vida del Río de Manatí (Para la Naturaleza, 2017).
-Doctoral student Kristina Nazimova, with faculty member Dr. Inmaculada García Sánchez, has published the chapter “Language Socialization and Immigration in Europe” in the Encyclopedia of Language and Education (3rd edition, Springer, 2017).
- 2016
-Doctoral student Chelsea Voytek and co-authors have published the article “Association Between Depression and Condom Use Differs by Sexual Behavior Group in Patients with HIV” in the journal AIDS and Behavior.
-Doctoral student Nathan Jessee has published “Hope for ‘Just Resilience’ on Earth Day” in EnviroSociety.
-Christopher Barton (PhD, 2016) and co-author Kyle Somerville have published the book Historical Racialized Toys in the United States (Routledge, 2016).
-2015
-Sonay Ban, Nathan Jessee, Dana Muñíz Pacheco, Hilary Symes, Eva Weiss, and Ben Wilson, with Arjun Shankar (University of Pennsylvania), have published “Considering the Future of Visual Anthropology: An Interview with the Visual Anthropology Society at Temple University (VAST)” in the journal American Anthropologist.
-Matthew Kalos has published the chapter “Methodology for Surveying an Ephemeral Military Encampment and Battlefield: Paoli Battlefield, a Case Study” in the edited volume The Archaeology of Engagement: Conflict and Revolution in the United States (Texas A&M University Press, 2015).
-Doctoral student Nathan Jessee and co-authors have published the article “Community-Based Participatory Research: Challenging ‘Lone Ethnographer’ Anthropology in the Community and the Classroom” in the journal Practicing Anthropology.
-Doctoral student Tatiana Zelenetskaya Young has published the chapter “Maya Political Organization during the Terminal Classic Period in the Cochuah Region, Quintana Roo, Mexico” in the edited volume The Maya of the Cochuah Region: Archaeological and Ethnographic Perspectives on the Northern Lowlands (University of New Mexico Press, 2015).
-Doctoral student Chelsea Voytek and co-authors have published the article “Individual and Community Factors Associated with Geographic Clusters of Poor HIV Care Retention and Poor Viral Suppression” in the Journal of Acquired Immune Deficiency Syndrome.
-Doctoral student Nicolás Loaiza-Díaz and co-authors, as guest editors of a special issue of the journal Quaternary International, have published the following three articles: “Multidisciplinary Studies on the Human–Environment Interaction during the Initial Peopling of the Americas”; “The Role of Plants in the Early Human Settlement of Northwest South America”; and “Radiocarbon Chronology of Terminal Pleistocene to Middle Holocene Human Occupation in the Middle Cauca Valley, Colombia.”
-2014
-Doctoral student Andrew Van Horn (with co-authors alumna Elizabeth Rowe and faculty member Dr. Christie Rockwell) has published the article “CYP17 Genotype Modifies the Impact of Anthropometric Variation on Salivary Estradiol in Healthy Women” in the American Journal of Physical Anthropology.
-Dr. Sigurjón Hafsteinsson (PhD, XXXX) has published the book Phallological Museum (Lit Verlag, 2014).
-Doctoral student Nicolás Loaiza-Díaz (with co-author Francisco J. Aceituno) has published the article “Early and Middle Holocene Evidence for Plant Use and Cultivation in the Middle Cauca River Basin, Cordillera Central (Colombia)” in Quaternary Science Reviews.
-2013
-Doctoral student Chelsea Voytek and co-authors have published the following three articles in 2013: “The Development of a Culturally Relevant, Theoretically Driven HPV Prevention Intervention for Urban Adolescent Females and their Parents/Guardians” in the journal Health Promotion Practice; “Travel Distance to HIV Medical Care: A Geographic Analysis of Weighted Survey Data from the Medical Monitoring Project in Philadelphia, PA” in the journal AIDS and Behavior; and “Behind the Cascade: Analyzing Spatial Patterns along the HIV Care Continuum” in the Journal of Acquired Immune Deficiency Syndrome.
-Alumnus Dr. Sigurjón Hafsteinsson has published the book Unmasking Deep Democracy: An Anthropology of Indigenous Media in Canada (Intervention Press, 2013).
-Doctoral student Christopher Barton (with co-author Kyle Somerville) has published the article “‘A Steppingstone of Civilization’: The Hojack Swing Bridge and the Negotiation of Social Power in Monroe County, Western New York State” in the journal Industrial Archaeology Review.
-Doctoral student Margaux Keller, in collaboration with alumnus Dr. Michael Nalls and co-authors, has published the article “Using Genome-Wide Complex Trait Analysis to Quantify ‘Missing Heritability’ in Parkinson’s Disease” in the journal Human Molecular Genetics.
-2012
-Doctoral student Jeremy Koch, with alumnus Dr. Bill Schindler, has published the article “Flakes Giving You Lip? Let Them Speak: An Examination of the Relationship Between Percussor Type and Lipped Platforms” in the journal Archaeology of Eastern North America.
-Alumna Dr. Carolyn Merritt has published the book Tango Nuevo (University Press of Florida, 2012).
-Doctoral student Christopher Barton has published the article “Tacking Between Black and White: Race Relations in Gilded Age Philadelphia” in the International Journal of Historical Archaeology.
-Doctoral student Elizabeth McGinsky and co-authors have published the chapter “Video Game Addiction: User Perspectives” in Critical Perspectives on Addiction, an edited volume in the series Advances in Medical Sociology (Emerald Group Publishing).
-Doctoral student Andrew Van Horn and co-authors (including faculty members Dr. Charles Weitz and Dr. Jonathan Friedlaender) have published the article “Modernization and the Onset of Overweight and Obesity in Bougainville and Solomon Islands Children: Cross-Sectional and Longitudinal Comparisons Between 1966 and 1986” in the American Journal of Physical Anthropology.
-Doctoral student Christopher Barton and undergraduate alumna Patricia Markert have published the peer-reviewed article “Collaborative Archaeology, Oral History, and Social Memory at Timbuctoo, New Jersey” in the inaugural issue of the Journal of African Diaspora Archaeology and Heritage.
-Doctoral student Qingyan Ma has published the chapter “‘New Countryside, New Family’: The Discourses of Reproductive Risk in Post-socialist Rural China” in the edited volume Risk, Reproduction and Narratives of Experience (Vanderbilt University Press).
-Doctoral student Christopher Barton (with co-author Kyle Somerville) has published the article “Play Things: Children’s Racialized Mechanical Banks and Toys, 1880-1930” in the International Journal of Historical Archaeology.
-Doctoral student Nikky Greer and co-authors have published the article “Acrylic Rx: A Program Evaluation of a Professionally Taught Painting Class among Older Americans” in the journalArts & Health: An International Journal for Research, Policy and Practice.
-Doctoral student Nicolás Loaiza-Díaz and co-authors have published the article “The Initial Human Settlement of Northwest South America during the Pleistocene/Holocene Transition: Synthesis and Perspectives” in the journal Quaternary International.
-Doctoral student Elizabeth McGinsky and co-authors have published the article “The Contribution of Game Genre and Other Use Patterns to Problem Video Game Play among Adult Video Gamers” in the International Journal of Mental Health and Addiction.
-Alumna Dr. Kristi Brian has published the book Reframing Transracial Adoption: Adopted Koreans, White Parents, and the Politics of Kinship (Temple University Press, 2012).
-MEDIA COVERAGE
-2016
-Doctoral student Matthew Kalos, whose historical-archaeology dissertation research focuses on the Paoli Battlefield, is featured in “Battle of Paoli,” part of Pennsylvania Cable Network’s weekly television series Battlefield Pennsylvania. The episode will be broadcast on Sunday 4 September 2016 at 6:00 p.m.
-2013
-Doctoral student Deirdre Kelleher‘s historical-archaeological work at Elfreth’s Alley is featured in an Associated Press article that appeared in newspapers and news websites nationwide.
-Doctoral student Deirdre Kelleher‘s historical-archaeological work at Elfreth’s Alley is featured in an article and short video produced by Temple’s Office of University Communications. Deirdre’s blog “Archaeology on the Alley” provides regularly updated information about the project.
-Doctoral student Deirdre Kelleher was interviewed about her historical-archaeological work at Elfreth’s Alley for two radio broadcasts as well as for written articles that appear in the stations’ websites: WHYYand WKYW. Yet another article was published in the Philadelphia Inquirer and appears in the philly.comnews website.
-Doctoral student Christopher Barton and colleagues continue to attract attention from the press for their archaeological work at Timbuctoo, a nineteenth-century African-American community in Westampton, New Jersey. Most recently, the project has been covered by the Burlington County Times and SJ Magazine.
-Doctoral student Kevin Donaghy and his historical-archaeological work on the Battle of Brandywine are featured in Chadds Ford Live.
-2012
-Work of numerous students and alumni from the Department is represented in the exhibit Digging the City: Archaeological Discoveries from the Philadelphia Waterfront at the Independence Seaport Museum. A total of 43 Temple archaeologists have been involved; those who have had leadership roles include alumnus Steve Tull, doctoral students Jen Rankin and Blair Fink, and undergraduate students George Cress, Paul Elwork, Eileen Krall-Hood, Matt Olson, Christy Wallover, and Rebecca White.
-Alumna Dr. Kimmika Williams-Witherspoon is featured in the Temple University “Faculty Focus” profile series.
-Alumnus Dr. Arthur Washburn is featured in the Winter 2012 issue of Temple Review for his work in the field of forensic podiatry.
+
+### Publications
+
+**2017**
+
+- Doctoral student Nydia Pontón Nigaglioni has published the chapter “Cerámica Histórica” in the edited volume Guía de Identificación: Arqueología, Explorando la Vida del Río de Manatí (Para la Naturaleza, 2017).
+- Doctoral student Kristina Nazimova, with faculty member Dr. Inmaculada García Sánchez, has published the chapter “Language Socialization and Immigration in Europe” in the Encyclopedia of Language and Education (3rd edition, Springer, 2017).
+
+**2016**
+
+- Doctoral student Chelsea Voytek and co-authors have published the article “Association Between Depression and Condom Use Differs by Sexual Behavior Group in Patients with HIV” in the journal AIDS and Behavior.
+- Doctoral student Nathan Jessee has published “Hope for ‘Just Resilience’ on Earth Day” in EnviroSociety.
+- Christopher Barton (PhD, 2016) and co-author Kyle Somerville have published the book Historical Racialized Toys in the United States (Routledge, 2016).
+
+
+**2015**
+
+- Sonay Ban, Nathan Jessee, Dana Muñíz Pacheco, Hilary Symes, Eva Weiss, and Ben Wilson, with Arjun Shankar (University of Pennsylvania), have published “Considering the Future of Visual Anthropology: An Interview with the Visual Anthropology Society at Temple University (VAST)” in the journal American Anthropologist.
+- Matthew Kalos has published the chapter “Methodology for Surveying an Ephemeral Military Encampment and Battlefield: Paoli Battlefield, a Case Study” in the edited volume The Archaeology of Engagement: Conflict and Revolution in the United States (Texas A&M University Press, 2015).
+- Doctoral student Nathan Jessee and co-authors have published the article “Community-Based Participatory Research: Challenging ‘Lone Ethnographer’ Anthropology in the Community and the Classroom” in the journal Practicing Anthropology.
+- Doctoral student Tatiana Zelenetskaya Young has published the chapter “Maya Political Organization during the Terminal Classic Period in the Cochuah Region, Quintana Roo, Mexico” in the edited volume The Maya of the Cochuah Region: Archaeological and Ethnographic Perspectives on the Northern Lowlands (University of New Mexico Press, 2015).
+- Doctoral student Chelsea Voytek and co-authors have published the article “Individual and Community Factors Associated with Geographic Clusters of Poor HIV Care Retention and Poor Viral Suppression” in the Journal of Acquired Immune Deficiency Syndrome.
+- Doctoral student Nicolás Loaiza-Díaz and co-authors, as guest editors of a special issue of the journal Quaternary International, have published the following three articles: “Multidisciplinary Studies on the Human–Environment Interaction during the Initial Peopling of the Americas”; “The Role of Plants in the Early Human Settlement of Northwest South America”; and “Radiocarbon Chronology of Terminal Pleistocene to Middle Holocene Human Occupation in the Middle Cauca Valley, Colombia.”
+
+**2014**
+
+- Doctoral student Andrew Van Horn (with co-authors alumna Elizabeth Rowe and faculty member Dr. Christie Rockwell) has published the article “CYP17 Genotype Modifies the Impact of Anthropometric Variation on Salivary Estradiol in Healthy Women” in the American Journal of Physical Anthropology.
+- Dr. Sigurjón Hafsteinsson (PhD, XXXX) has published the book Phallological Museum (Lit Verlag, 2014).
+- Doctoral student Nicolás Loaiza-Díaz (with co-author Francisco J. Aceituno) has published the article “Early and Middle Holocene Evidence for Plant Use and Cultivation in the Middle Cauca River Basin, Cordillera Central (Colombia)” in Quaternary Science Reviews.
+
+**2013**
+
+- Doctoral student Chelsea Voytek and co-authors have published the following three articles in 2013: “The Development of a Culturally Relevant, Theoretically Driven HPV Prevention Intervention for Urban Adolescent Females and their Parents/Guardians” in the journal Health Promotion Practice; “Travel Distance to HIV Medical Care: A Geographic Analysis of Weighted Survey Data from the Medical Monitoring Project in Philadelphia, PA” in the journal AIDS and Behavior; and “Behind the Cascade: Analyzing Spatial Patterns along the HIV Care Continuum” in the Journal of Acquired Immune Deficiency Syndrome.
+- Alumnus Dr. Sigurjón Hafsteinsson has published the book Unmasking Deep Democracy: An Anthropology of Indigenous Media in Canada (Intervention Press, 2013).
+- Doctoral student Christopher Barton (with co-author Kyle Somerville) has published the article “‘A Steppingstone of Civilization’: The Hojack Swing Bridge and the Negotiation of Social Power in Monroe County, Western New York State” in the journal Industrial Archaeology Review.
+- Doctoral student Margaux Keller, in collaboration with alumnus Dr. Michael Nalls and co-authors, has published the article “Using Genome-Wide Complex Trait Analysis to Quantify ‘Missing Heritability’ in Parkinson’s Disease” in the journal Human Molecular Genetics.
+
+**2012**
+
+- Doctoral student Jeremy Koch, with alumnus Dr. Bill Schindler, has published the article “Flakes Giving You Lip? Let Them Speak: An Examination of the Relationship Between Percussor Type and Lipped Platforms” in the journal Archaeology of Eastern North America.
+- Alumna Dr. Carolyn Merritt has published the book Tango Nuevo (University Press of Florida, 2012).
+- Doctoral student Christopher Barton has published the article “Tacking Between Black and White: Race Relations in Gilded Age Philadelphia” in the International Journal of Historical Archaeology.
+- Doctoral student Elizabeth McGinsky and co-authors have published the chapter “Video Game Addiction: User Perspectives” in Critical Perspectives on Addiction, an edited volume in the series Advances in Medical Sociology (Emerald Group Publishing).
+- Doctoral student Andrew Van Horn and co-authors (including faculty members Dr. Charles Weitz and Dr. Jonathan Friedlaender) have published the article “Modernization and the Onset of Overweight and Obesity in Bougainville and Solomon Islands Children: Cross-Sectional and Longitudinal Comparisons Between 1966 and 1986” in the American Journal of Physical Anthropology.
+- Doctoral student Christopher Barton and undergraduate alumna Patricia Markert have published the peer-reviewed article “Collaborative Archaeology, Oral History, and Social Memory at Timbuctoo, New Jersey” in the inaugural issue of the Journal of African Diaspora Archaeology and Heritage.
+- Doctoral student Qingyan Ma has published the chapter “‘New Countryside, New Family’: The Discourses of Reproductive Risk in Post-socialist Rural China” in the edited volume Risk, Reproduction and Narratives of Experience (Vanderbilt University Press).
+- Doctoral student Christopher Barton (with co-author Kyle Somerville) has published the article “Play Things: Children’s Racialized Mechanical Banks and Toys, 1880-1930” in the International Journal of Historical Archaeology.
+- Doctoral student Nikky Greer and co-authors have published the article “Acrylic Rx: A Program Evaluation of a Professionally Taught Painting Class among Older Americans” in the journalArts & Health: An International Journal for Research, Policy and Practice.
+- Doctoral student Nicolás Loaiza-Díaz and co-authors have published the article “The Initial Human Settlement of Northwest South America during the Pleistocene/Holocene Transition: Synthesis and Perspectives” in the journal Quaternary International.
+- Doctoral student Elizabeth McGinsky and co-authors have published the article “The Contribution of Game Genre and Other Use Patterns to Problem Video Game Play among Adult Video Gamers” in the International Journal of Mental Health and Addiction.
+- Alumna Dr. Kristi Brian has published the book Reframing Transracial Adoption: Adopted Koreans, White Parents, and the Politics of Kinship (Temple University Press, 2012).
+
+### Media Coverage
+
+**2016**
+
+-Doctoral student Matthew Kalos, whose historical-archaeology dissertation research focuses on the Paoli Battlefield, is featured in “Battle of Paoli,” part of Pennsylvania Cable Network’s weekly television series Battlefield Pennsylvania. The episode will be broadcast on Sunday 4 September 2016 at 6:00 p.m.
+
+**2013**
+
+- Doctoral student Deirdre Kelleher‘s historical-archaeological work at Elfreth’s Alley is featured in an Associated Press article that appeared in newspapers and news websites nationwide.
+- Doctoral student Deirdre Kelleher‘s historical-archaeological work at Elfreth’s Alley is featured in an article and short video produced by Temple’s Office of University Communications. Deirdre’s blog “Archaeology on the Alley” provides regularly updated information about the project.
+- Doctoral student Deirdre Kelleher was interviewed about her historical-archaeological work at Elfreth’s Alley for two radio broadcasts as well as for written articles that appear in the stations’ websites: WHYYand WKYW. Yet another article was published in the Philadelphia Inquirer and appears in the philly.comnews website.
+- Doctoral student Christopher Barton and colleagues continue to attract attention from the press for their archaeological work at Timbuctoo, a nineteenth-century African-American community in Westampton, New Jersey. Most recently, the project has been covered by the Burlington County Times and SJ Magazine.
+- Doctoral student Kevin Donaghy and his historical-archaeological work on the Battle of Brandywine are featured in Chadds Ford Live.
+
+**2012**
+
+- Work of numerous students and alumni from the Department is represented in the exhibit Digging the City: Archaeological Discoveries from the Philadelphia Waterfront at the Independence Seaport Museum. A total of 43 Temple archaeologists have been involved; those who have had leadership roles include alumnus Steve Tull, doctoral students Jen Rankin and Blair Fink, and undergraduate students George Cress, Paul Elwork, Eileen Krall-Hood, Matt Olson, Christy Wallover, and Rebecca White.
+- Alumna Dr. Kimmika Williams-Witherspoon is featured in the Temple University “Faculty Focus” profile series.
+- Alumnus Dr. Arthur Washburn is featured in the Winter 2012 issue of Temple Review for his work in the field of forensic podiatry.
