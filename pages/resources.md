@@ -72,15 +72,15 @@ For detailed information about the Temple University Graduate School's requireme
 
 ### Other useful resources concerning grants and funding: 
 
-- ["Grant Preparation Information and Tools"](http://www.case.edu/artsci/anth/grantlibrary.html) (a Case Western Reserve University site)
+- ["Grant Preparation Information and Tools"](BROKEN LINK)(a Case Western Reserve University site)
 - ["Sample Grant Proposals"](http://www.indiana.edu/~gradgrnt/prposal-writing-and-research-resources/sample-grant-proposals/) (an Indiana University site)
 - ["Sample Research Proposals"](http://gravlee.org/ang5091/proposals.htm) (a University of Florida site) 
 - ["QualQuant"](http://qualquant.net/) (devoted to social-science research methods; note the institutes, courses, and field schools)
 
 ### Guides for preparing grant applications: 
 
-["On the Art of Writing Proposals"](http://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/)
-["Writing Grant Proposals for Anthropological Research"](http://www.wennergren.org/news/advice-how-write-a-grant-proposal)
+- ["On the Art of Writing Proposals"](http://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/)
+- ["Writing Grant Proposals for Anthropological Research"](http://www.wennergren.org/news/advice-how-write-a-grant-proposal)
 
 ### Anthropology Graduate Student Association
 
