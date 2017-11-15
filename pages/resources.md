@@ -22,6 +22,23 @@ For further information, contact the association's president, Emily Marron, [emi
 
 ## Graduate Resources
 
+**Information for prospective graduate students/applicants:**
+
+- [General information and resources](http://www.cla.temple.edu/students/prospective-graduate-students/)
+- [Information about the graduate program in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text)
+- [Graduate-level courses offered by the Department of Anthropology](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg )
+- [How to apply for admission](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+**Information for incoming and current graduate students:**
+
+- [College of Liberal Arts resources](http://www.cla.temple.edu/students/graduate/)
+- [Graduate School policies and procedures](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [Graduate School calendar](http://www.temple.edu/grad/calendar/)
+- [To obtain a listing of all graduate-level courses offered by the Department of Anthropology](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
+- [To obtain a listing of graduate-level courses being offered by the Department in a given semester](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
+
+For (much) more detailed information about the Temple University Graduate School’s requirements and procedures, which apply to all doctoral students in all departments, refer to http://www.temple.edu/grad/policies/gradpolicies.htm
+
 For detailed information about the Temple University Graduate School's requirements and procedures, which apply to all doctoral students in all departments, refer to Temple University's Graduate [website](http://www.temple.edu/grad/policies/gradpolicies.htm).
 
 - Graduate Admissions to Temple University- Are you ready to apply? [Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm). 
