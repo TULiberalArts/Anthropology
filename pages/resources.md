@@ -65,10 +65,10 @@ For detailed information about the Temple University Graduate School's requireme
 - [Marcus Garvey Foundation](http://www.garveyfoundation.com/)
 - [U.S. Environmental Protection Agency](http://epa.gov/ncer/rfa/2015/2015_star_gradfellow.html)
 - [Ruth Landes Memorial Research Fund](http://www.thereedfoundation.org/landes/grants.html)
-- Explorers Club
-- Getty Foundation
-- Inter-American Foundation
-- United States Institute of Peace
+- [Explorers Club](https://explorers.org/expeditions/funding/expedition_grants)
+- [Getty Foundation](http://www.getty.edu/foundation/apply/)
+- [Inter-American Foundation](http://www.iie.org/Programs/IAF-Grassroots-Development-Fellowship-Program/About)
+- [United States Institute of Peace](http://www.usip.org/grants-fellowships/fellowship-opportunities/jennings-randolph-peace-scholarship-dissertation-program)
 
 ### Other useful resources concerning grants and funding: 
 
