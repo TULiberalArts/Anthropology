@@ -39,32 +39,32 @@ For detailed information about the Temple University Graduate School's requireme
 - [Fulbright–National Geographic Digital Storytelling Fellowship](http://us.fulbrightonline.org/fulbright-nat-geo-fellowship)
 - [Woodrow Wilson National Fellowship Foundation](http://www.woodrow.org/)
 - [Spencer Foundation](http://www.spencer.org/)
-- Boren Awards for International Study
-- Ford Foundation
-- National Science Foundation
-- National Institutes of Health
-- Social Science Research Council
-- Jacob K. Javits Fellowship Program
-- American Council of Learned Societies
-- American Philosophical Society
-- American Association of University Women
-- Smithsonian Institution
-- Leakey Foundation
-- National Park Service, National Center for Preservation Technology and Training
-- National Park Service, American Battlefield Protection Program
-- Archaeological Institute of America 
-- U.S. Department of Housing and Urban Development 
-- American Institute of Indian Studies
-- SRI Foundation
-- National Geographic
-- School for Advanced Research
-- Council for European Studies
-- William T. Grant Foundation
-- Council of American Overseas Research Centers
-- Association for the Study of the Middle East and Africa
-- Marcus Garvey Foundation
-- U.S. Environmental Protection Agency
-- Ruth Landes Memorial Research Fund
+- [Boren Awards for International Study](http://www.borenawards.org/)
+- [Ford Foundation](http://www.fordfoundation.org/)
+- [National Science Foundation](http://www.nsf.gov/funding/education.jsp?fund_type=2)
+- [National Institutes of Health](http://www.nih.gov/)
+- [Social Science Research Council](http://www.ssrc.org/)
+- [Jacob K. Javits Fellowship Program](http://www2.ed.gov/programs/jacobjavits/index.html)
+- [American Council of Learned Societies](http://www.acls.org/programs/comps/)
+- [American Philosophical Society](http://www.amphilsoc.org/grants/)
+- [American Association of University Women](http://www.aauw.org/)
+- [Smithsonian Institution](http://www.smithsonianofi.com/)
+- [Leakey Foundation](http://www.leakeyfoundation.org/grants/overview)
+- [National Park Service, National Center for Preservation Technology and Training](http://ncptt.nps.gov/grants/)
+- [National Park Service, American Battlefield Protection Program](http://www.nps.gov/history/hps/abpp/)
+- [Archaeological Institute of America](http://www.archaeological.org/grants) 
+- [U.S. Department of Housing and Urban Development](http://portal.hud.gov/hudportal/HUD?src=/programdescription/ddrg) 
+- [American Institute of Indian Studies](http://www.indiastudies.org/)
+- [SRI Foundation](http://www.srifoundation.org/ed_opp.html)
+- [National Geographic](http://www.nationalgeographic.com/explorers/grants-programs/)
+- [School for Advanced Research](http://sarweb.org/index.php?resident_scholars)
+- [Council for European Studies](http://councilforeuropeanstudies.org/grants-and-awards/grants-and-awards-faq)
+- [William T. Grant Foundation](http://www.wtgrantfoundation.org/funding_opportunities/research_grants)
+- [Council of American Overseas Research Centers](http://www.caorc.org/)
+- [Association for the Study of the Middle East and Africa](http://www.asmeascholars.org/resource/awards-research-travel-grants/)
+- [Marcus Garvey Foundation](http://www.garveyfoundation.com/)
+- [U.S. Environmental Protection Agency](http://epa.gov/ncer/rfa/2015/2015_star_gradfellow.html)
+- [Ruth Landes Memorial Research Fund](http://www.thereedfoundation.org/landes/grants.html)
 - Explorers Club
 - Getty Foundation
 - Inter-American Foundation
