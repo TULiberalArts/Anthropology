@@ -50,21 +50,25 @@ Anthropology is the study, from multiple perspectives, of humanity's origins, de
 Anthropology comprises four subdisciplines, all of which are well represented at Temple: archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology. We also offer specialized courses and training in anthropology of visual communication (which draws primarily on linguistic anthropology and sociocultural anthropology). 
 
 ### Archaeology
-![Archaeology]({{site.baseurl}}/media/Archeology 3.jpg){:.img-right}
+
+![Archaeology]({{site.baseurl}}/media/Archeology3.jpg){:.img-right}
 
 Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
 
 ### Biological Anthropology
+
 ![Biological Anthropology]({{site.baseurl}}/media/Biological.jpg){:.img-right}
 
 Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
 
 ### Linguistic Anthropology
-![Linguistic Anthropology]({{site.baseurl}}/media/Linguistic Anthropology 2.jpg){:.img-right}
+
+![Linguistic Anthropology]({{site.baseurl}}/media/Linguistic Anthropology2.jpg){:.img-right}
 
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds. 
 
 ### Sociocultural Anthropology
+
 ![Sociocultural Anthropology]({{site.baseurl}}/media/Sociocultural.jpg){:.img-right}
 
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
@@ -95,7 +99,8 @@ With their emphasis on understanding human diversity, the General Anthropology m
 The [Human Biology track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/) prepares students for careers in medicine, dentistry, physical therapy, optometry, podiatry, and other allied health fields. Students preparing for these fields sometimes find the traditional science majors too restrictive. Human Biology students major in anthropology, but take departmental courses primarily in biological anthropology. The Human Biology track also includes required courses in biology and human anatomy and physiology. The track provides several options for completing other science courses that fulfill admission requirements to professional schools in the health sciences. This program, like those at Stanford, the University of Michigan, and Harvard, also encourages students to take health/biology-related courses in psychology, sociology, history, political science, and the humanities. As a result, our students have the broad liberal arts background that many professional schools in the health sciences find attractive.
 
 ## Anthropology of Visual Communication
-![Visual Communication]({{site.baseurl}}/media/visual communication.jpg){:.img-right}
+
+![Visual Communication]({{site.baseurl}}/media/visualcommunication.jpg){:.img-right}
 
 The Anthropology of Visual Communication [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/) emphasize a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts. 
 
