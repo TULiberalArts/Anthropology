@@ -33,7 +33,7 @@ For further information, contact the association's president, Emily Marron, [emi
 
 - [College of Liberal Arts resources](http://www.cla.temple.edu/students/graduate/)
 - [Graduate School policies and procedures](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School calendar](http://www.temple.edu/grad/calendar/)
+- [Graduate School calendar](BROKEN LINK IS IN ISSUES)
 - [To obtain a listing of all graduate-level courses offered by the Department of Anthropology](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
 - [To obtain a listing of graduate-level courses being offered by the Department in a given semester](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
 
