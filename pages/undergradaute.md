@@ -51,8 +51,6 @@ Anthropology comprises four subdisciplines, all of which are well represented at
 
 ### Archaeology
 
-![Archaeology]({{site.baseurl}}/media/Archeology3.jpg){:.img-left}
-
 Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
 
 ### Biological Anthropology
@@ -62,8 +60,6 @@ Archaeologists study people and cultures of the past by analyzing material remai
 Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
 
 ### Linguistic Anthropology
-
-![Linguistic Anthropology]({{site.baseurl}}/media/Linguistic Anthropology2.jpg){:.img-left}
 
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds. 
 
@@ -100,7 +96,7 @@ The [Human Biology track](http://bulletin.temple.edu/undergraduate/liberal-arts/
 
 ## Anthropology of Visual Communication
 
-![]({{site.baseurl}}/media/visualcommunication.jpg){:.img-right}
+![Visual Communication]({{site.baseurl}}/media/visual communication.jpg){:.img-right}
 
 The Anthropology of Visual Communication [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/) emphasize a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts. 
 
