@@ -40,71 +40,24 @@ sidebar-content: |
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
+## Major in Anthropology at Temple
+If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Antropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline. These sub-fields are archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. As an anthropology major, you will develop the ability to apply theories to the interpretation of artifacts and other data, develop research programs and proposals, formulate hypotheses and gather ethnographic information through participant-observation. We offer the flexibility to pursue your interest in specific sub-fields, or if you'd rather, pursue a more general undergraduate program. Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems. We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds. 
 
-Undergraduate majors in anthropology pursue one of three courses of study: [general anthropology](#general-anthropology), the [human biology track](#human-biology) or the [anthropology of visual communication track](#anthropology-of-visual-communication). Laboratory facilities, internships, fieldwork and experiential learning courses provide students with practical experience in all of anthropology’s subdisciplines. Minors are also available in [general anthropology](#general-anthropology) and in [anthropology of visual communication](#anthropology-of-visual-communication)
+[Learn More about Majoring in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
 
-## What is Anthropology?
+## BA in Antrhopology: Human Biology Concentration
+The Human Biology concentration in Anthropology prepares students for careers in medicine, dentistry, physical therapy, optometry, podiatry, and other allied health fields. Human Biology students major in Anthropology but take departmental courses primarily in biological anthropology. These courses deal in human genetics, human paleontology, human physiology, and human reproductive biology and behavior. They stress an evolutionary perspective on humans and integrate molecular, whole-organism, population, and species-level data on humans. The Human Biology concentration also includes required courses in biology, and elective options in human anatomy, physiology, and public health. This program also encourages students to take courses in other disciplines to fulfill admission requirements to professional schools in the health sciences. As a result, our students have the broad, liberal arts background that many professional schools find attractive.
 
-Anthropology is the study, from multiple perspectives, of humanity's origins, development, activities and experiences, throughout time and throughout the world. Drawing on a wide range of theoretical and methodological approaches, anthropologists seek answers to such questions as: What does it mean to be human? How have humans developed over the course of time? What human universals can be identified, and what is the range of human diversity, both physical and cultural? How do people interact with their physical and social environments? How and to what extent does being a speaker of a particular language or languages affect the ways in which one perceives and experiences the world? How do historical, social, cultural, politico-economic and ecological factors shape the lives of particular groups of people, and of particular individuals within those groups? 
+## Minor in Anthropology
+The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, a teacher or a doctor, our Minor in Philosophy program makes the development of strong communication and reasoning skills a priority. A Philosophy Minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
 
-Anthropology comprises four subdisciplines, all of which are well represented at Temple: archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology. We also offer specialized courses and training in anthropology of visual communication (which draws primarily on linguistic anthropology and sociocultural anthropology). 
 
-### Archaeology
 
-Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
-
-### Biological Anthropology
-
-![Biological Anthropology]({{site.baseurl}}/media/Biological.jpg){:.img-right}
-
-Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
-
-### Linguistic Anthropology
-
-Linguistic anthropologists study the dynamic relationships among speakers, language, culture and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds. 
-
-### Sociocultural Anthropology
-
-![Sociocultural Anthropology]({{site.baseurl}}/media/Sociocultural.jpg){:.img-right}
-
-Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
-
-## Anthropology at Temple
-
-You will have the opportunity to collaborate with faculty on field research in locations around the world, from archeological research in Oman, to sociocultural research in India, to research right here in the Delaware Valley.
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings at a Glance
-
  - [BA in General Anthropology](#general-anthropology)
  - [BA in Human Biology](#human-biology)
  - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
  - [Minor in General Anthropology](#general-anthropology)
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#requirementstext)
-
-## General Anthropology
-
-The General Anthropology [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) are intended to give students a strong foundation in all four subdisciplines of anthropology. Each subdiscipline requires the development of broadly applicable skills, including formulating hypotheses, developing research programs and proposals, applying theories to the interpretation of data, and gathering ethnographic information through participant observation. There is sufficient flexibility in the requirements for the General Anthropology major and minor that students can focus their coursework, if they desire, on one of the four subdisciplines in particular.
-
-With their emphasis on understanding human diversity, the General Anthropology major and minor prepare students well for the issues that they are likely to encounter in today's workplaces. At Temple, we offer a variety of courses that prepare students for careers in such fields as teaching, public administration, social work, urban planning, journalism, mass media, business, and law. Our courses in archaeology train students well for careers in cultural resources management and historic preservation. The major or minor in anthropology is excellent preparation for careers and activities that call for cultural sensitivity and understanding of cultural differences, such as the teaching of English to speakers of other languages, work with immigrant communities, and work with international non-profit and non-governmental organizations.
-
-## Human Biology
-
-The [Human Biology track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/) prepares students for careers in medicine, dentistry, physical therapy, optometry, podiatry, and other allied health fields. Students preparing for these fields sometimes find the traditional science majors too restrictive. Human Biology students major in anthropology, but take departmental courses primarily in biological anthropology. The Human Biology track also includes required courses in biology and human anatomy and physiology. The track provides several options for completing other science courses that fulfill admission requirements to professional schools in the health sciences. This program, like those at Stanford, the University of Michigan, and Harvard, also encourages students to take health/biology-related courses in psychology, sociology, history, political science, and the humanities. As a result, our students have the broad liberal arts background that many professional schools in the health sciences find attractive.
-
-## Anthropology of Visual Communication
-
-![Visual Communication]({{site.baseurl}}/media/visual communication.jpg){:.img-right}
-
-The Anthropology of Visual Communication [major](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/) and [minor](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/) emphasize a well-rounded liberal arts background and a comprehensive understanding of the world’s varied systems of visual representation and communication. The Anthropology of Visual Communication curriculum allows students to apply the approaches and perspectives of linguistic anthropology and sociocultural anthropology (and potentially, other areas of study) toward the study and practice of visual communication. The courses in this track draw on the social sciences, the humanities, and the media arts. 
-
-The Anthropology of Visual Communication track is well suited to those with interests in popular culture, the fine arts, documentary and ethnographic film, feature film, all forms of artistic performance, televisual communication (including both broadcast and narrowcast forms), home media, and alternative media. Increasing attention is now being given to "new media" and their role in "globalization" processes.  
-
-Students may do original research that involves still photography and/or video production, making use of ethnographic field methods to achieve understanding of both the processes and the products of visual communication. Laboratories are available for both still photography and video production. Each year, some students participate in the [Temple University Summer Program in India](https://studyabroad.temple.edu/), led by Professor Jhala, which investigates Indian civilization through anthropological and historical approaches to its religious and artistic traditions, both ancient and contemporary.
-
-## Undergraduate Certificate in Language and Cross-Cultural Communication
-
-In the Department of Anthropology is designed to provide students with the anthropological and linguistic tools to understand and study the sociocultural foundations of language use and communication, including forms of everyday and institutional communication. It emphasizes the sociolinguistic and cultural knowledge that students will need to solve language-related problems in the real world. Therefore, it is particularly valuable for students who intend to seek careers in the government, in education, in non-governmental agencies, or in the private sector (such as law, medicine, or businesses with an international scope) where language-related expertise, particularly cross-linguistic and cross-cultural knowledge, is a highly desirable skill. To view the program requirements and courses for the certificate please visit the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#requirementstext). 
-- _Contact: Prof. [Inmaculada García Sánchez]_
