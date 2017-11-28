@@ -3,8 +3,6 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  Studying anthropology at Temple helps build the creative thinking and critical
-  analysis abilities needed to solve complex problems in today’s world.
 keywords: ''
 feature: true
 feature-title: 
