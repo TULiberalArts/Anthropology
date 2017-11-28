@@ -41,7 +41,7 @@ sidebar-content: |
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
 ## Major in Anthropology at Temple
-If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. 
+If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s subdisciplines.
 
 We offer the flexibility to pursue your interest in specific sub-fields, or if you'd rather, pursue a more general undergraduate program. Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems. We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds. 
 
@@ -58,7 +58,10 @@ The Anthropology of Visual Communication track is well suited to students with i
 [Learn More about the Visual Anthropology Track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
 
 ## Minor in Anthropology
-The Minor in Philosophy is an excellent way to extend the breadth of your education and understanding of the world. Whether you plan to become a lawyer, a teacher or a doctor, our Minor in Philosophy program makes the development of strong communication and reasoning skills a priority. A Philosophy Minor helps you stand out when you apply for jobs or graduate school, because it shows that you have a well-rounded education.
+The [Minor in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major. The minor is an excellent way to extend the breadth of your education and understanding of the world. If you are considering a career in a health profession, the [Minor in Anthropology: Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is an excellent way to improve your application for medical school or other graduate programs. If your interests lie in media and art, we offer a [Minor in Visual Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/). Whatever your plans are after graduation, minoring in anthropology helps you stand out when you apply for jobs or graduate school, becauser it shows that you have a well-rounded education. 
+
+##
+
 
 ## Academic Offerings at a Glance
  - [BA in General Anthropology](#general-anthropology)
