@@ -5,20 +5,11 @@ layout: home
 description: >-
   Studying anthropology at Temple helps build the creative thinking and critical
   analysis abilities needed to solve complex problems in today’s world.
-keywords: 'anthropology, Temple, cross-cultural'
+keywords: ''
 feature: true
-feature-title: Humanity Over Time and Space
+feature-title: 
 feature-image: media/Linguistic Anthropology 3.JPG
 feature-body: >-
-  Anthropologists pursue the comprehensive study of humans. Since the
-  evolutionary origin of our species, we have grown to a population over 7
-  billion that lives in dynamic tension with our social, cultural, and
-  ecological environments. In our programs, students learn about deep time,
-  human pre-history, health and human biology, mobility, global inequalities,
-  cultural resilience, modern communication and mediation, multilingualism,
-  cultural politics, and more. They graduate prepared to pursue graduate studies
-  in Anthropology or related studies or to use this perspective to contribute to
-  a large variety of non-academic career paths.
 published: true
 ---
 
