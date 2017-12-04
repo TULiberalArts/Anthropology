@@ -45,20 +45,27 @@ Reflecting one focus of faculty and student research, The Department of Anthropo
 
 ## Laboratory of Research and Exhibitions
 
-The Laboratory of Research and Exhibitions houses ethnographic, archaeological, historical, and biological collections from all over the world. Since its inception in 1964, the LRE has focused on providing a hands-on learning for Temple University students, who help design exhibits, manage collections, and perform original research. Faculty and students also use the laboratory for their own research projects, including the wet lab, microscopes, and analytical space. Forthcoming equipment for isotope sample preparation, a zooarchaeological laboratory, and a digitization studio will expand the laboratory’s research capability.
+The Laboratory of Research and Exhibitions houses ethnological, archaeological, historical, and biological collections from all over the world. Since its inception in 1964, the LRE has focused on providing a hands-on learning for Temple University students, who help design exhibits, manage collections, and perform original research. Faculty and students also use the laboratory for their own research projects, including the wet lab, microscopes, reference collections, and analytical space. Forthcoming equipment for isotope sample preparation, a zooarchaeological laboratory, and a digitization studio will expand the laboratory’s research capability.
 
-If you would like to visit the museum, access the collections, or use the laboratory facilities, please contact the director at anthlab@temple.edu. For more information, visit the [Anthroplogy Laboratory of Research and Exhibitions website](http://gamma.library.temple.edu/anthropologylab/).
+Many Temple undergraduate students come through the museum doors, often as part of courses in Anthropology or Latin American Studies. Many others participate in collections-based research projects with Anthropology faculty. If you are interested in working in the museum, please contact the director for information about taking the Practicum in Curation and Collections Management. Students in this 1-credit hour course choose from projects digitizing collections, creating exhibits, or performing research on museum materials.
 
-## For further information, please contact:
+Our collections include:
+
+- Ethnological material from the Solomon Islands and other parts of the South Pacific.
+- Ethnological material from the Amazon basin.
+- Archaeological collections from sites in Pennsylvania, Delaware, and New Jersey.
+- Collections transferred from the Philadelphia Commercial Museum.
+
+If you would like to visit the museum, access the collections, or use the laboratory facilities, please contact the director at [anthlab@temple.edu](mailto:anthlab@temple.edu). For more information, visit the [Anthropology Lab website](http://gamma.library.temple.edu/anthropologylab/). 
 
 ### Director
-Anthropology Laboratory<br>
+Anthropology Laboratory of Research and Exhibits<br>
 [Dr. Leslie Reeder-Myers](https://liberalarts.temple.edu/academics/faculty/reeder-myers-leslie)<br>
 [215-204-1418](tel:2152041418)<br>
 [leslie.reeder-myers@temple.edu](mailto:leslie.reeder-myers@temple.edu)
 
 ### Chair
-Laboratory and Technology Committee<br>
+Laboratory of Research and Exhibits Committee<br>
 [Dr. Charles Weitz](https://liberalarts.temple.edu/academics/faculty/weitz-charles)<br>
 214 Gladfelter Hall<br>
 [weitz@temple.edu](mailto:weitz@temple.edu)
