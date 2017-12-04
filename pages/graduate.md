@@ -49,7 +49,7 @@ Approximately 45% of doctoral graduates hold full-time faculty positions in coll
 ## Admission Requirements
 Before you apply to our PhD in Anthropology program, establish personal contact with at least one faculty member at the Department of Anthropology whose research interests overlap with yours who might serve as a potential academic advisor. As an applicant to our graduate Anthropology program, you should have a bachelor's degree, but it does not need to be in Anthropology. You are not required to have a master's degree. Our acceptance rate is approximately 10%. The number of applicants accepted each year varies, depending on such factors as the Department's ability to offer financial support and the availability of particular faculty members to serve as advisors to new students. In recent years, our newly incoming cohorts have generally had four to six students. 
 
-Learn More about our Admissions Procedures
+Please visit the [Anthropology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/anthropology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Temple Graduate School Funding
 Outstanding applicants are nominated for Temple University's Presidential, University, and Future Faculty Fellowships, which provide four years of tuition remission, a living stipend, and other benefits. Limited numbers of Teaching and Research Assistantships are also available for well-qualified applicants. Students are strongly encouraged to apply for external grants and fellowships. For more information about funding review our application instructions. 
