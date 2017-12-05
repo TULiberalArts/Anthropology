@@ -27,4 +27,6 @@ VAST, the Visual Anthropology Society at Temple, is graduate student organizatio
 - [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
+- [Graduate School calendar](http://www.temple.edu/registrar/documents/calendars/17-18.asp)
+- [Graduate Level Course Offerings](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
 - [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
