@@ -1,9 +1,9 @@
 ---
 title: Home
 permalink: /
-layout: home3
 description: >-
 keywords: ''
+layout: home3
 feature: true
 feature-title: 
 feature-image: 
