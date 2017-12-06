@@ -57,9 +57,6 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-program_news: https://liberalarts.temple.edu/news/anthropology
-program_events: https://events.temple.edu/department/anthropology 
-
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
