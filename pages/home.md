@@ -3,7 +3,7 @@ title: Home
 permalink: /
 description: >-
 keywords: ''
-layout: home
+layout: home3
 feature: true
 feature-title: 
 feature-image: 
