@@ -62,3 +62,13 @@ For more than 130 years, we have focused on providing a world-class education at
 ## Application Deadline
 - Fall Semester: **January 5**
 - International Applicants: **December 10**
+
+## Graduate Resources
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Philosophy%20Graduate%20Handbook%202017-18.pdf)
+- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
+- [Graduate School calendar](http://www.temple.edu/registrar/documents/calendars/17-18.asp)
+- [Graduate Level Course Offerings](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
+- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
+- [Funding Sources](https://liberalarts.temple.edu/sites/liberalarts/files/Potential%20sources%20of%20funding%20for%20pre.pdf) (pdf.)
