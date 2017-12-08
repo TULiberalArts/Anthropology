@@ -15,6 +15,9 @@ The Anthropology Graduate Student Association meets monthly to discuss ongoing d
 ## Visual Anthropology Society at Temple (VAST)
 VAST, the Visual Anthropology Society at Temple, is graduate student organization for undergraduate and graduate students interested in visual anthropology, ethnographic film, and the ethnography of media. It meets regularly to watch films and organize events, including a semi-annual academic conference and film screening, called Futures of Visual Anthropology FoVA. The annual FoVA conference was long a fixture of Temple's anthropology department before being revived in 2012, and showcases the ethnographic film and research of Temple students and faculty, as well as the work of national and international scholars. VAST meets and is housed in the department s media anthropology lab, which offers several digital editing workstations as well as cutting edge filmmaking equipment that Temple students are able to borrow for their own projects. Visit our [Facebook page](https://www.facebook.com/VASTvisions/) to learn more about us! For more information contact [Damien Stankiewicz](mailto:damien@temple.edu).  
 
+## Student Accomplishments and Accolades
+Our Antropology undergraduate and graduate students, alumnus and faculty have have been awarded several prestegious grants, fellowships and awards throughout the years. Some of our students have also been featured in various media outlets as well as selected publications. You can view the full list of [Student Awards and Accolades](https://liberalarts.temple.edu/sites/liberalarts/files/Anthropology%20Student%20Accomplishments.pdf).
+
 ## Undergraduate Resources
 - [Online Application](http://admissions.temple.edu/apply)
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
