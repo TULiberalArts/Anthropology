@@ -94,7 +94,7 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#requirementstext)
  
- ### Temple Admissions Deadlines
+### Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **Nov. 1**: Transfer Deadline for Spring Semester
@@ -107,5 +107,3 @@ Ready to apply? [Submit your application online](http://admissions.temple.edu/ap
 - [Graduation application process](http://www.temple.edu/registrar/students/graduation)
 - [Undergraduate funding](http://sfs.temple.edu/)
 - [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-
