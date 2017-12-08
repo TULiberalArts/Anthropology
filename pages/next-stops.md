@@ -22,10 +22,10 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 
 [Explore the Complete List of Academic Offerings at CLA](liberalarts.temple.edu)
 
-## Study Abroad Programs
-Temple students can study abroad in almost any country through our exchanges, partnerships and programs with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
+## Study Abroad- Dhrangadhra, India
+The Temple University in India summer program, based in the medieval desert town of Dhrangadhra, Gujarat, is intended to investigate Indian civilization through an anthropological study of its religious and artistic traditions, both ancient and contemporary. Upper-level undergraduate students and graduate students may apply. The program director, Dr. Jayasinhji Jhala, associate professor of anthropology and director of the Anthropology Media Lab at Temple University, was born in Dhrangadhra. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
 
-[Learn More about Studying Abroad](https://studyabroad.temple.edu/)
+[Learn More about Studying Abroad in India](https://studyabroad.temple.edu/sites/temple-summer-in-india)
 
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
