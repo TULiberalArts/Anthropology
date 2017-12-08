@@ -19,7 +19,7 @@ sidebar-content: |
    ___
    
    **Graduate Chair:**  
-   L. Christine Rockwell  
+   L. Christie Rockwell  
    025-21 Gladfelter Hall  
    [(215) 204-7775](tel:2152047775)  
    [Christie.Rockwell@temple.edu](mailto:Christie.Rockwell@temple.edu)  
