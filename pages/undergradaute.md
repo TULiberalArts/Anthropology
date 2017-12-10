@@ -41,7 +41,22 @@ sidebar-content: |
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
 ## Major in Anthropology at Temple
-If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s subdisciplines.
+If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s four subdisciplines. 
+
+All four subdiciplines are well represented at Temple: archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology. We also offer specialized courses and training in anthropology of visual communication (which draws primarily on linguistic anthropology and sociocultural anthropology).
+
+### Archaeology
+Archaeologists study people and cultures of the past by analyzing material remains such as artifacts, human remains, architecture, landscapes and environments. Archeaologists use this evidence to study such topics as the formation of social groups, ideologies, subsistence patterns and human interactions with the environment.
+
+### Biological Anthropology
+Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
+
+### Linguistic Anthropology
+![Linguistic Anthropology]({{site.baseurl}}/media/Linguistic Anthropology2.jpg){:.img-left}
+Linguistic anthropologists study the dynamic relationships among speakers, language, culture and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
+
+### Sociocultural Anthropology
+Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
 We offer the flexibility to pursue your interest in specific sub-fields, or if you'd rather, pursue a more general undergraduate program. Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems. We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, and generate key insights into how people make sense and meaning in their worlds. 
 
