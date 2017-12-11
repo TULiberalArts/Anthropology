@@ -6,7 +6,7 @@ keywords: ''
 layout: home3
 feature: true
 feature-title: 
-feature-image: 
+feature-image: media/Anthro Hero_Oman.JPG
 feature-body: >-
 published: true
 ---
