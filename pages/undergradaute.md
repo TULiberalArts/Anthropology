@@ -67,6 +67,7 @@ The Human Biology Concentration in Anthropology prepares you for careers in heal
 [Learn More about the Human Biology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
 
 ## Visual Anthropology 
+![Visual Communication]({{site.baseurl}}/media/resized visual communication.jpg){:.img-right}
 The Anthropology of Visual Communication track is well suited to students with interests in all forms of alternative media, artistic performance, documentary and ethnographic film, feature film, home media, televisual communication (including both broadcast and narrowcast forms). In addition, new media's role in globalization plays an increasing role in the discipline of visual anthropology. Research topics include cave paintings, hieroglyphics, jewelry, paintings, photographs, paintings, reliefs, sculptures and tattoos. If you're interested in learning more, contact the Visual Anthropology Advisor, Jayasinhji Jhala, at 215-204-7727 or [jjhala@temple.edu](mailto:jjhala@temple.edu). 
 
 [Learn More about the Visual Anthropology Track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
