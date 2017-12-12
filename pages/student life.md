@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Student Life
+permalink: /student-life/
 layout: page
 keywords: 'undergraduate, GSA, resources, anthropology'
 description: Undergraduate and graduate resources.
