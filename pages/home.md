@@ -4,7 +4,7 @@ permalink: /
 description: >-
 keywords: ''
 layout: home3
-feature: null
+feature: true
 feature-title: 
 feature-image: media/Anthro Hero_Oman.JPG
 feature-body: >-
