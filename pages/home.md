@@ -6,7 +6,7 @@ keywords: ''
 layout: home3
 feature: true
 feature-title: 
-feature-image: media/Anthro Hero_Oman.JPG
+feature-image: media/resized anthropology hero.png
 feature-body: >-
   Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems. 
   We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our 
