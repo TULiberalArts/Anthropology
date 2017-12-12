@@ -53,7 +53,6 @@ Archaeologists study people and cultures of the past by analyzing material remai
 Biological anthropologists study the evolutionary origins of all humans, and the variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture interact to shape human biology in the past and present.
 
 ### Linguistic Anthropology
-![Linguistic Anthropology]({{site.baseurl}}/media/Linguistic Anthropology2.jpg){:.img-left}
 Linguistic anthropologists study the dynamic relationships among speakers, language, culture and society. This subfield explores the many ways in which communicative practices shape patterns of social interaction, categories of identity and group membership, cultural beliefs and ideologies, and the cultural resources to engage natural and social worlds.
 
 ### Sociocultural Anthropology
@@ -76,6 +75,7 @@ The Anthropology of Visual Communication track is well suited to students with i
 The [Minor in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major.  If you are considering a career in a health profession, the [Minor in Anthropology: Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is an excellent way to improve your application for medical school or other graduate programs. If your interests lie in media and art, we offer a [Minor in Visual Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/). Whatever your plans are after graduation, minoring in anthropology helps you stand out when you apply for jobs or graduate school, becauser it shows that you have a well-rounded education. 
 
 ## Certificate in Language and Cross-Cultural Communication
+![Linguistic Anthropology]({{site.baseurl}}media/resized Linguistic Anthropology 3.jpg){:.img-left}
 The Certificate in Language and Cross-Cultural Communication provides you with the sociolinguistic and cultural knowledge you need to solve language-related  in both everyday and institutional communication.. The program lines up well with the current institutitional mission of Temple University - we prepare students to work and thrive in an increasingly globalized world where language-related expertise, particularly cross-linguistic and cross-cultural knowledge, is a highly desireably skill. The curriculum for the certificate consists of linguistic anthropology courses that cover language and how language is used to understand culture, how languages are distributed across the world and their contemporary and historical relationships. 
 
 [Learn More about the Certificate on the Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#text)
