@@ -41,6 +41,7 @@ sidebar-content: |
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
 ## Major in Anthropology at Temple
+![Dr. Weitz and children]({{site.baseurl}}/media/resized Dr. Weitz and children.jpg){:.img-left}
 If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s four subdisciplines. 
 
 All four subdiciplines are well represented at Temple: archaeology, biological anthropology, linguistic anthropology, and sociocultural anthropology. We also offer specialized courses and training in anthropology of visual communication (which draws primarily on linguistic anthropology and sociocultural anthropology). We offer the flexibility to pursue your interest in specific sub-fields, or if you'd rather, pursue a more general undergraduate program. 
