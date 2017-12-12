@@ -51,7 +51,6 @@ Approximately 45% of doctoral graduates hold full-time faculty positions in coll
 Before you apply to our PhD in Anthropology program, establish personal contact with at least one faculty member at the Department of Anthropology whose research interests overlap with yours and who might serve as an academic advisor. As an applicant to our graduate program, you should have a bachelor’s degree, but it does not need to be in anthropology. You are not required to have a master’s degree. 
 
 The number of applicants accepted each year varies, depending on such factors as the our ability to offer financial support and the availability of faculty members to serve as advisors to new students. In recent years, our newly incoming cohorts have generally had four to six students. The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 or the functional equivalent for students who attended universities outside the United States.  
-
 Please visit the [Anthropology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/anthropology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Temple Graduate School Funding
