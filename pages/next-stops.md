@@ -22,9 +22,8 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 
 [Explore the Complete List of Academic Offerings at CLA](liberalarts.temple.edu)
 
-![India]({{site.baseurl}}/media/resized India Study Abroad.jpg){:.img-right}
-
 ## Study Abroad- Dhrangadhra, India
+![India]({{site.baseurl}}/media/resized India Study Abroad.jpg){:.img-right}
 The Temple University in India summer program, based in the medieval desert town of Dhrangadhra, Gujarat, is intended to investigate Indian civilization through an anthropological study of its religious and artistic traditions, both ancient and contemporary. Upper-level undergraduate students and graduate students may apply. The program director, Dr. Jayasinhji Jhala, associate professor of anthropology and director of the Anthropology Media Lab at Temple University, was born in Dhrangadhra. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
 
 [Learn More about Studying Abroad in India](https://studyabroad.temple.edu/sites/temple-summer-in-india)
