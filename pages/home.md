@@ -5,13 +5,13 @@ description: >-
 keywords: ''
 layout: home3
 feature: true
-feature-title: 
+feature-title:
 feature-image: media/resized anthropology hero.png
 feature-body: >-
-  Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems. 
-  We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our 
-  training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds, 
-  and generate key insights into how people make sense and meaning in their worlds. 
+  Studying anthropology helps build the creative thinking and critical analysis needed to solve complex problems.
+  We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our
+  training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds,
+  and generate key insights into how people make sense and meaning in their worlds.
 published: true
 ---
 
@@ -35,7 +35,7 @@ published: true
       <div class="col m12 l4">{% include cards/card2-basic.html
         color="#a41e35"
         title="Explore our PhD Program"
-        content="Join our profession through graduate study. Our program is structured along two broad themes: **Evolution and Human Environments and Mobility and Global Inequality.**"
+        content="Join our profession through graduate study. Our program is structured along two broad themes: Evolution and Human Environments and Mobility and Global Inequality."
         button-link="graduate"
         button-text="Learn More" %}
       </div>
