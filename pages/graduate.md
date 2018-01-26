@@ -44,7 +44,7 @@ sidebar-content: |
 ![Children in Village]({{site.baseurl}}/media/resized DSCF0432.jpg){:.img-left}
 The graduate program in anthropology is a highly selective doctoral program leading to a PhD degree in Anthropology. Anthropology comprises four subdisciplines, all of which are well represented at Temple: Archaeology, Biological Anthropology, Linguistic Anthropology, and Sociocultural Anthropology. The Department also offers specialized courses and training in the Anthropology of Visual Communication, which draws primarily on Linguistic Anthropology and Sociocultural Anthropology. Doctoral students typically specialize in one of these areas, but interdisciplinary study and research are encouraged. Well over 100 doctoral degrees have been conferred by the Department of Anthropology since 1976. 
 
-Please visit the [Anthropology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/anthropology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Anthropology Graduate Admissions](https://liberalarts.temple.edu/admissions/graduate/anthropology) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Anthropology PhD Job Placement
 Approximately 45% of doctoral graduates hold full-time faculty positions in colleges or universities, while another 20% hold full-time research positions in academic or non-academic settings. Another 20% hold degree-related policy and administrative positions and 10% are engaged in other professional activities. 
