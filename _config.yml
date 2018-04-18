@@ -3,6 +3,7 @@
 title: Anthropology
 # Subdirectory (with / at only at beginning)
 baseurl: /anthropology
+url:https://www.cla.temple.edu/anthropology
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
