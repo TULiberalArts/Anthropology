@@ -100,14 +100,6 @@ At Temple, we believe that students from all walks of life should have access to
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
-## Academic Offerings at a Glance
- - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
- - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
- - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
- - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
- - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
- - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#requirementstext)
  
 ### Temple Admissions Deadlines
 - **Feb. 1**: Freshman Application Deadline for Fall Semester
