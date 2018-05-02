@@ -40,6 +40,8 @@ sidebar-content: |
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
+Temple University’s Anthropology [PhD degree](#earn-a-phd-in-anthropology-from-temple-university) is a program for those who are seriously passionate about working hard towards furthering their anthropology education. If you’re accepted into the program, you’ll conduct exciting fieldwork and learn the skills you need to join the ranks of Temple grads performing ground-breaking anthropology work in academic and professional settings. Learn more about how to be [admitted](#admission-requirements) into the Anthropology PhD program and [fund](#temple-graduate-school-funding) your education. 
+
 ## Earn a PhD in Anthropology from Temple University
 ![Children in Village]({{site.baseurl}}/media/resized DSCF0432.jpg){:.img-left}
 The graduate program in anthropology is a highly selective doctoral program leading to a PhD degree in Anthropology. Anthropology comprises four subdisciplines, all of which are well represented at Temple: Archaeology, Biological Anthropology, Linguistic Anthropology, and Sociocultural Anthropology. The Department also offers specialized courses and training in the Anthropology of Visual Communication, which draws primarily on Linguistic Anthropology and Sociocultural Anthropology. Doctoral students typically specialize in one of these areas, but interdisciplinary study and research are encouraged. Well over 100 doctoral degrees have been conferred by the Department of Anthropology since 1976. 
