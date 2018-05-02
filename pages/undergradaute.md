@@ -40,6 +40,8 @@ sidebar-content: |
    [(215) 204-7775](tel:2152047775)   
    [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
 ---
+If you’re fascinated by how societies and cultures develop, then a Temple University Anthropology [degree](#major-in-anthropology-at-temple) is your path for turning that passion into a career. Undergraduate Anthropology majors learn the discipline’s four subfields and conduct field research around the globe. Want to study Anthropology without majoring in it? Our [minor](#minor-in-anthropology) or [certificate](#certificate-in-language-and-cross-cultural-communication) program might be right for you. [Apply](#undergraduate-admissions) today and let our [advising team](#academic-advising-and-professional-development) help you craft the curricular plan that’s right for your needs.
+
 ## Major in Anthropology at Temple
 ![Dr. Weitz and children]({{site.baseurl}}/media/resized 2 Dr. Weitz and children.jpg){:.img-left}
 If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s four subdisciplines. 
