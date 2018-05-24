@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
 keywords: 'study abroad, visit, apply, transfer, careers'
 description: >-
 published: true

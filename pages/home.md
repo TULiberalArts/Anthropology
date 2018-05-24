@@ -3,7 +3,7 @@ title: Home
 permalink: /
 description: >-
 keywords: ''
-layout: home3
+layout: tla_home
 feature: true
 feature-title:
 feature-image: media/resized anthropology hero.png
@@ -15,7 +15,7 @@ feature-body: >-
 published: true
 ---
 
-## Academic Offerings 
+## Academic Offerings
  - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
  - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
  - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)

@@ -1,9 +1,9 @@
 ---
 title: Research Labs
 permalink: /research-labs/
-layout: page
+layout: tla_page
 keywords: 'anthropology, labs, teaching, visual, biology, linguistics, media, skeletal'
-description: >- 
+description: >-
 published: true
 ---
 The Department of Anthropology provides a number of hands-on training opportunities in research-active labs. Classroom lectures are great tools for providing foundational knowledge, but one of the best ways to study anthropology is by doing anthropological work. At Temple University, students in our Anthropology program get the opportunity for hands-on learning in our [biology](#biological-anthropology-research-lab), [linguistic](#linguistic-anthropology-laboratory) and [media](#media-anthropology-laboratory) labs.
@@ -50,7 +50,7 @@ Our collections include:
 - Archaeological collections from sites in Pennsylvania, Delaware, and New Jersey.
 - Collections transferred from the Philadelphia Commercial Museum.
 
-If you would like to visit the museum, access the collections, or use the laboratory facilities, please contact the director at [anthlab@temple.edu](mailto:anthlab@temple.edu). For more information, visit the [Anthropology Lab website](http://gamma.library.temple.edu/anthropologylab/). 
+If you would like to visit the museum, access the collections, or use the laboratory facilities, please contact the director at [anthlab@temple.edu](mailto:anthlab@temple.edu). For more information, visit the [Anthropology Lab website](http://gamma.library.temple.edu/anthropologylab/).
 
 ### Director
 Anthropology Laboratory of Research and Exhibits<br>
