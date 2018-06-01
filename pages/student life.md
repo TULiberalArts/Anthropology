@@ -1,10 +1,14 @@
 ---
-title: Student Life
-permalink: /student-life/
+# global predefined variables
 layout: tla_page
-keywords: 'undergraduate, GSA, resources, anthropology'
-description: Undergraduate and graduate resources.
+permalink: /student-life/
 published: true
+# meta-data variables
+title: Student Life
+description: Undergraduate and graduate resources.
+keywords: 'undergraduate, GSA, resources, anthropology'
+# custom variables
+sidebar: false
 ---
 Temple University Anthropology students get a fantastic education, but there’s more to college than what happens in the classroom. Anthropology students can join one of our three [student organizations](#undergraduate-anthropology-association-uaa) designed specifically for them. Students are also encouraged to seek grants, publishing deals, media coverage and various other [awards](#student-accomplishments-and-accolades) available to them.
 
