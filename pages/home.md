@@ -1,9 +1,14 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: ''
-layout: tla_home
+# custom variables
+sidebar: false
 feature: true
 feature-title:
 feature-image: media/resized anthropology hero.png
@@ -12,7 +17,6 @@ feature-body: >-
   We teach cross-cultural understanding, interdisciplinary connection, computational and analytical skills. With our
   training, you’ll be able to connect on a deeper level with people from many linguistic and geographical backgrounds,
   and generate key insights into how people make sense and meaning in their worlds.
-published: true
 ---
 
 ## Academic Offerings
