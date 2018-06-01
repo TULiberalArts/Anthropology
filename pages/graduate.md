@@ -1,44 +1,18 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
-layout: page
-keywords: 'anthropology, doctoral degree, masters degree, visual communication'
+published: true
+# meta-data variables
+title: Graduate
 description: >-
   We are committed to producing doctorates in anthropology who are well prepared
   for professional careers in academia, government, non-profit organizations and
   the private sector. 
-published: true
+  keywords: 'anthropology, doctoral degree, masters degree, visual communication'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Paul Farnsworth  
-   209 Gladfelter Hall  
-   [(215) 204-1424](tel:2152041424)  
-   [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)  
-   
-   ___
-   
-   **Graduate Chair:**  
-   L. Christie Rockwell  
-   025-21 Gladfelter Hall  
-   [(215) 204-7775](tel:2152047775)  
-   [Christie.Rockwell@temple.edu](mailto:Christie.Rockwell@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Yvonne Davis  
-   210 Gladfelter Hall    
-   [(215) 204-7775](tel:2152047775)   
-   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 Temple University’s Anthropology [PhD degree](#earn-a-phd-in-anthropology-from-temple-university) is a program for those who are seriously passionate about working hard towards furthering their anthropology education. If you’re accepted into the program, you’ll conduct exciting fieldwork and learn the skills you need to join the ranks of Temple grads performing ground-breaking anthropology work in academic and professional settings. Learn more about how to be [admitted](#admission-requirements) into the Anthropology PhD program and [fund](#temple-graduate-school-funding) your education. 
 
