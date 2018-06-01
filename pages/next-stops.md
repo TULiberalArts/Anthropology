@@ -1,10 +1,14 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-keywords: 'study abroad, visit, apply, transfer, careers'
-description: >-
+permalink: /next-stops/
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+keywords: 'study abroad, visit, apply, transfer, careers'
+# custom variables
+sidebar: false
 ---
 Your Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study- abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
 
