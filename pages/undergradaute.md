@@ -1,44 +1,18 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
-keywords: 'anthropology, undergraduate, visual, biology, track'
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   We offer undergraduate majors in general anthropology, human biology and 
   anthropology and visual communication, and minors in general anthropology and 
   anthropology of visual communication. 
-published: true
+keywords: 'anthropology, undergraduate, visual, biology, track'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Paul Farnsworth  
-   209 Gladfelter Hall  
-   [(215) 204-1424](tel:2152041424)  
-   [paul.farnsworth@temple.edu](mailto:paul.farnsworth@temple.edu)  
-   
-   ___
-   
-   **Undegraduate Chair:**  
-   Inmaculada M. García Sánchez  
-   241 Gladfelter Hall  
-   [(215) 204-7577](tel:2152047577)  
-   [igarcias@temple.edu](mailto:igarcias@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Yvonne Davis  
-   210 Gladfelter Hall    
-   [(215) 204-7775](tel:2152047775)   
-   [yvonne.davis@temple.edu](mailto:yvonne.davis@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 If you’re fascinated by how societies and cultures develop, then a Temple University Anthropology [degree](#major-in-anthropology-at-temple) is your path for turning that passion into a career. Undergraduate Anthropology majors learn the discipline’s four subfields and conduct field research around the globe. Want to study Anthropology without majoring in it? Our [minor](#minor-in-anthropology) or [certificate](#certificate-in-language-and-cross-cultural-communication) program might be right for you. [Apply](#undergraduate-admissions) today and let our [advising team](#academic-advising-and-professional-development) help you craft the curricular plan that’s right for your needs.
 
