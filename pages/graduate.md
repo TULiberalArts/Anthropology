@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  We are committed to producing doctorates in anthropology who are well prepared
-  for professional careers in academia, government, non-profit organizations and
-  the private sector. 
+  Graduate with a PhD or MA in Anthropology from Temple University’s College 
+  of Liberal Arts. Learn about admission and how to fund your education. 
   keywords: 'anthropology, doctoral degree, masters degree, visual communication'
 # custom variables
 sidebar: true
