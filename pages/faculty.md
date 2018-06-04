@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Our faculty members are nationally recognized in their fields and continue to
-  research and publish while teaching both introductory and advanced courses.
+  Our faculty specialize in areas including anthropology of visual communication, archaeology, and so much more.
+  Find out what our Anthropology department faculty has to offer at Temple University’s College of Liberal Arts.
 keywords: ''  
 # custom variables
 sidebar: false
