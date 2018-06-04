@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  See where a degree in Anthropology from Temple University can take you. Discover your career opportunities, consider 
+  studying abroad in India, visit us, know your transfer options, and apply to the College of Liberal Arts’ anthropology program!
 keywords: 'study abroad, visit, apply, transfer, careers'
 # custom variables
 sidebar: false
