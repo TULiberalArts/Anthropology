@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Better connect with individuals from many linguistic and geographical 
+  backgrounds: study Anthropology at Temple University’s College of Liberal Arts.
 keywords: ''
 # custom variables
 sidebar: false
