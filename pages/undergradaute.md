@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  We offer undergraduate majors in general anthropology, human biology and 
-  anthropology and visual communication, and minors in general anthropology and 
-  anthropology of visual communication. 
+  Earn a degree, minor, or certificate in Anthropology from the College of Liberal Arts. Apply to
+  Temple University and work with our advising team to craft the right curricular plan and track for you. 
 keywords: 'anthropology, undergraduate, visual, biology, track'
 # custom variables
 sidebar: true
