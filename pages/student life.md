@@ -5,7 +5,9 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-description: Undergraduate and graduate resources.
+description: >-
+  Learn more about student organizations and discover awards and resources available to you 
+  as an Anthropology student in Temple University’s College of Liberal Arts.
 keywords: 'undergraduate, GSA, resources, anthropology'
 # custom variables
 sidebar: false
