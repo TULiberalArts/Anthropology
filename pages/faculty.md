@@ -10,6 +10,7 @@ description: >-
   Find out what our Anthropology department faculty has to offer at Temple University’s College of Liberal Arts.
 keywords: ''  
 # custom variables
+sidebar: false
 emeritus: true
 emeritus_content: profiles/emeritus.html
 ---
