@@ -1,13 +1,12 @@
 ---
 # Program/Department Title
 title: Anthropology
-# Subdirectory (with / at only at beginning)
-baseurl: /anthropology
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# Subdirectory (with / at only at beginning)
+baseurl: /anthropology
 # url spits sitemap
 url: https://www.cla.temple.edu/anthropology
-
 
 # Program Information
 # Short tagline for tweets (<100 characters)
