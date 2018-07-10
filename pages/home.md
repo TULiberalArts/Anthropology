@@ -29,6 +29,8 @@ feature-body: >-
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/language-cross-cultural-communication-certificate/#requirementstext)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     color="#a41e35"
