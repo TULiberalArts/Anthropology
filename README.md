@@ -7,7 +7,7 @@ Anthropology is statically generated with [Jekyll](https://jekyllrb.com) and hos
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/anthropology/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/anthropology/ |
 
 ## Content Structure
 
