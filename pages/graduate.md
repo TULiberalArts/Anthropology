@@ -29,7 +29,7 @@ Before you apply to our PhD in Anthropology program, establish personal contact 
 
 The number of applicants accepted each year varies, depending on such factors as the our ability to offer financial support and the availability of faculty members to serve as advisors to new students. In recent years, our newly incoming cohorts have generally had four to six students. The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 or the functional equivalent for students who attended universities outside the United States.  
 
-Please visit the [Anthropology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/anthropology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Anthropology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Temple Graduate School Funding
 Outstanding applicants are nominated for Temple University's Presidential, University, and Future Faculty Fellowships, which provide four years of tuition remission, a living stipend, and other benefits. Limited numbers of Teaching and Research Assistantships are also available for well-qualified applicants. Students are strongly encouraged to apply for external grants and fellowships. For more information about funding review our application instructions. 
