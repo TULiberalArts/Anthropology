@@ -28,7 +28,7 @@ feature-body: >-
  - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
-- [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text) 
+ - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text) 
  
 ___
 
