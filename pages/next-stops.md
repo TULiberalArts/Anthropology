@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  See where a degree in Anthropology from Temple University can take you. Discover your career opportunities, consider 
+  See where a degree in Anthropology from Temple University can take you. Discover your career opportunities, consider
   studying abroad in India, visit us, know your transfer options, and apply to the College of Liberal Arts’ anthropology program!
 keywords: 'study abroad, visit, apply, transfer, careers'
 # custom variables
@@ -38,15 +38,15 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
-[Arrange a Visit Today](http://admissions.temple.edu/visit)
+[Arrange a Visit Today](https://admissions.temple.edu/visit)
 
 ## Thinking Of Transferring?
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](https://admissions.temple.edu/visit/transfer-tuesday) general information session.
 
-[Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
+[Learn More about Transferring to Temple](https://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](https://admissions.temple.edu/apply).
 
 ## Deadlines
 - **February 1:** Freshman Application Deadline for Fall Semester
