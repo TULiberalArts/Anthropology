@@ -12,7 +12,7 @@ keywords: 'study abroad, visit, apply, transfer, careers'
 # custom variables
 sidebar: false
 ---
-Your Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study- abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
+Your Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study-abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
 
 ## What Can I Do With a Degree in Anthropology?
 Majoring in anthropology trains students to develop marketable skills, including curating museum exhibitions and collections, conducting field research, creating documentaries and other visual productions, and engaging in laboratory analysis. Recently, our students have landed coveted internships and positions with the following employers:
@@ -28,7 +28,7 @@ Majoring in anthropology trains students to develop marketable skills, including
 ![India]({{site.baseurl}}/media/resized India Study Abroad.jpg){:.responsive-img .img-right}
 The Temple University in India summer program, based in the medieval desert town of Dhrangadhra, Gujarat, is intended to investigate Indian civilization through an anthropological study of its religious and artistic traditions, both ancient and contemporary. Upper-level undergraduate students and graduate students may apply. The program director, Dr. Jayasinhji Jhala, associate professor of anthropology and director of the Anthropology Media Lab at Temple University, was born in Dhrangadhra. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
 
-[Learn More about Studying Abroad in India](https://studyabroad.temple.edu/sites/temple-summer-in-india)
+
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
