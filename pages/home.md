@@ -11,7 +11,7 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title:
 feature-image: media/resized anthropology hero.png
