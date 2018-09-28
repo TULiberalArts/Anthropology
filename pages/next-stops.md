@@ -10,7 +10,6 @@ description: >-
   studying abroad in India, visit us, know your transfer options, and apply to the College of Liberal Arts’ anthropology program!
 keywords: 'study abroad, visit, apply, transfer, careers'
 # custom variables
-sidebar: false
 ---
 Your Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study-abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
 

@@ -6,11 +6,10 @@ published: true
 # meta-data variables
 title: Research Labs
 description: >-
- Experience Anthropology with hands-on training opportunities in biology, linguistic, 
+ Experience Anthropology with hands-on training opportunities in biology, linguistic,
  skeletal, and media labs at Temple University’s College of Liberal Arts.
 keywords: 'anthropology, labs, teaching, visual, biology, linguistics, media, skeletal'
 # custom variables
-sidebar: false
 ---
 The Department of Anthropology provides a number of hands-on training opportunities in research-active labs. Classroom lectures are great tools for providing foundational knowledge, but one of the best ways to study anthropology is by doing anthropological work. At Temple University, students in our Anthropology program get the opportunity for hands-on learning in our [biology](#biological-anthropology-research-lab), [linguistic](#linguistic-anthropology-laboratory) and [media](#media-anthropology-laboratory) labs.
 
