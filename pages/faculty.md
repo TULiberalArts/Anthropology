@@ -8,7 +8,6 @@ title: Faculty
 description: >-
   Our faculty specialize in areas including anthropology of visual communication, archaeology, and so much more.
   Find out what our Anthropology department faculty has to offer at Temple University’s College of Liberal Arts.
-keywords: ''  
 # custom variables
 faculty: profiles/faculty.html
 emeritus: profiles/emeritus.html
