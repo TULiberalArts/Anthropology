@@ -11,7 +11,7 @@ description: >-
 keywords: 'study abroad, visit, apply, transfer, careers'
 # custom variables
 ---
-Yours Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study-abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
+Your Temple University Anthropology degree isn’t just a piece of paper. It’s a collection of experiences, lessons and research that prepares you for your next stops in life. For some graduates, it’s even a reminder of their time [studying abroad in India](#study-abroad-dhrangadhra-india)! [Visit us](#visit-us)! today and learn why you should [apply](#apply) to Temple’s anthropology program.
 
 ## What Can I Do With a Degree in Anthropology?
 Majoring in anthropology trains students to develop marketable skills, including curating museum exhibitions and collections, conducting field research, creating documentaries and other visual productions, and engaging in laboratory analysis. Recently, our students have landed coveted internships and positions with the following employers:
