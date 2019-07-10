@@ -26,6 +26,7 @@ feature-body: >-
  - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
  - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
  - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
+ - [Minor in Anthropology: Human Biology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/anthropology-human-biology-minor/)
  - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
  - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
