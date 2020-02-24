@@ -32,18 +32,18 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 ### Sociocultural Anthropology
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
-[Learn More about Majoring in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
+Learn More about [Majoring in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
 
 ## BA in Human Biology
 The Human Biology Concentration in Anthropology prepares you for careers in healthcare that include dentistry, medicine, optometry, physical therapy and podiatry. Human Biology students take courses that emphasize an evolutionary perspective on humans and cover human genetics, human paleontology, human physiology and human reproductive biology and behavior. Our curriculum also includes biology courses amd elective options in human anatomy, physiology and public health. Graduates who earn a BA in Anthropology with a Human Biology Concentration gain the broad, liberal arts background that many professional schools find attractive. If you're interested in this concentration, contact the Human Biology Concentration advisor, Dr. Charles Weitz, at 215-204-7330 or [weitz@temple.edu](mailto:weitz@temple.edu).
 
-[Learn More about the Human Biology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
+Learn More about [Human Biology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
 
 ## Visual Anthropology
 ![Visual Communication]({{site.baseurl}}/media/resized visual communication.jpg){:.responsive-img .img-right}
 The Anthropology of Visual Communication track is well suited to students with interests in all forms of alternative media, artistic performance, documentary and ethnographic film, feature film, home media, televisual communication (including both broadcast and narrowcast forms). In addition, new media's role in globalization plays an increasing role in the discipline of visual anthropology. Research topics include cave paintings, hieroglyphics, jewelry, paintings, photographs, paintings, reliefs, sculptures and tattoos. If you're interested in learning more, contact the Visual Anthropology Advisor, Jayasinhji Jhala, at 215-204-7727 or [jjhala@temple.edu](mailto:jjhala@temple.edu).
 
-[Learn More about the Visual Anthropology Track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
+Learn More about the [Visual Anthropology Track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
 
 ## Minor in Anthropology
 The [Minor in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major.  If you are considering a career in a health profession, the [Minor in Anthropology: Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is an excellent way to improve your application for medical school or other graduate programs. If your interests lie in media and art, we offer a [Minor in Visual Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/). Whatever your plans are after graduation, minoring in anthropology helps you stand out when you apply for jobs or graduate school, becauser it shows that you have a well-rounded education.
@@ -56,12 +56,12 @@ Learn More about the [Certificate in Language and Cross-Cultural Communication](
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
 
-[Learn More about Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
+Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
-[Learn How to Fly in Four](http://fly.temple.edu/)
+Learn More about [How to Fly in Four](http://fly.temple.edu/)
 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
