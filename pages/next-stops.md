@@ -27,24 +27,23 @@ Majoring in anthropology trains students to develop marketable skills, including
 ![India]({{site.baseurl}}/media/resized India Study Abroad.jpg){:.responsive-img .img-right}
 The Temple University in India summer program, based in the medieval desert town of Dhrangadhra, Gujarat, is intended to investigate Indian civilization through an anthropological study of its religious and artistic traditions, both ancient and contemporary. Upper-level undergraduate students and graduate students may apply. The program director, Dr. Jayasinhji Jhala, associate professor of anthropology and director of the Anthropology Media Lab at Temple University, was born in Dhrangadhra. This is your opportunity to intern, live and study in another country for college credit. Where will Temple take you?
 
-
-[Learn More about Studying Abroad in India](https://studyabroad.temple.edu/programs)
+Learn More about [Studying Abroad in India](https://studyabroad.temple.edu/programs)
 
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
-[Explore the Complete List of Academic Offerings at CLA](liberalarts.temple.edu)
+Explore the Complete List of [Academic Offerings at CLA](https://liberalarts.temple.edu/academics)
 
 ## Visit Us!
 To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
-[Arrange a Visit Today](https://admissions.temple.edu/visit)
+Arrange a [Visit Today](https://liberalarts.temple.edu/admissions/visit)
 
 ## Thinking Of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student. If you’re thinking about transferring, consider attending a [Transfer Tuesday](https://admissions.temple.edu/visit/transfer-tuesday) general information session.
 
-[Learn More about Transferring to Temple](https://admissions.temple.edu/apply/transfer-applicant)
+Learn More about [Transferring to Temple](https://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
 Ready to apply? [Submit your application online](https://admissions.temple.edu/apply).
