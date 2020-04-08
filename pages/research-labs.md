@@ -13,20 +13,6 @@ keywords: 'anthropology, labs, teaching, visual, biology, linguistics, media, sk
 ---
 The Department of Anthropology provides a number of hands-on training opportunities in research-active labs. Classroom lectures are great tools for providing foundational knowledge, but one of the best ways to study anthropology is by doing anthropological work. At Temple University, students in our Anthropology program get the opportunity for hands-on learning in our [biology](#biological-anthropology-research-lab), [linguistic](#linguistic-anthropology-laboratory) and [media](#media-anthropology-laboratory) labs.
 
-## Biological Anthropology Research Lab
-_[Dr. Christie Rockwell](mailto:christie.rockwell@temple.edu), Director_
-
-The Biological Anthropology Research Lab is a 450 sq. ft. wet-lab within the Anthropology Department. It contains a Biosafety Cabinet, Plate Reader, Freezers and Refrigerator, Centrifuges, as well as Inverted and Trifocal Light Microscopes with high magnification optics. The lab is suitable for immunocyto- and immunohistochemistry. There is a computer workstation configured with Linux OS enabling researchers to connect to Temple University’s High Performance Computing Environment where bioinformatics and other Big Data analysis can be done. The facility is available for graduate student research (with permission). Recent student dissertation projects include the following:
- 
-**Kristin Almskaar, MA, ABD**
-_The Role of the Placental Microbiome in Reproductive - Immune Trade-offs Associated with Pre-term Birth: A Life History Perspective._
- 
-**Andrew Van Horn, MA, ABD**
-_Quantification and Phylogenetic Comparative Analysis of Pelage Sexual Dichromatism in Primates._
- 
-**Elizabeth Rowe, PhD**
-_The Impact of Variation in the Progesterone Receptor Gene, Life History, and Lifestyle on Endometrial Function and the Menstrual Cycle.”_
-
 ## Biological Anthropology Teaching Laboratory
 The Biological Anthropology Teaching Laboratory is dedicated for use in introductory and upper division courses human osteology, human paleontology, human growth and development, human genetics, human reproduction and health, and primatology. It contains a large study collection of human skeletons and dental casts for use in our anatomy and osteology classes. The Teaching Laboratory also houses an extensive and up-to-date collection of casts of human ancestors and their relatives such as Neanderthals. We maintain a comparative non-human primate skeletal collection, and other select mammalian materials. In addition, we have models of DNA molecules and equipment used for physiological measurements and radiographic assessments. The teaching lab is outfitted with smart-classroom capabilities to support film viewing, lecture and student presentations, and WEB based instruction. Most classes in biological anthropology are held in this facility, which seats 30 students, and make regular use of the collections. Open-lab study hours are made by arrangement with course instructors.
 
