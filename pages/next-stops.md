@@ -48,6 +48,6 @@ Ready to apply? [Submit your application online](https://admissions.temple.edu/a
 
 ## Deadlines
 - **February 1:** Freshman Application Deadline for Fall Semester
-- **March 1:** FAFSA Financial Aid Application Deadline
+- **February 1:** FAFSA Financial Aid Application Deadline
 - **November 1:** Transfer Deadline for Spring Semester
 - **June 1:** Transfer Deadline for Fall Semester
