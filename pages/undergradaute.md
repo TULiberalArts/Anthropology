@@ -37,13 +37,13 @@ Learn More about [Majoring in Anthropology](http://bulletin.temple.edu/undergrad
 ## BA in Human Biology
 The Human Biology Concentration in Anthropology prepares you for careers in healthcare that include dentistry, medicine, optometry, physical therapy and podiatry. Human Biology students take courses that emphasize an evolutionary perspective on humans and cover human genetics, human paleontology, human physiology and human reproductive biology and behavior. Our curriculum also includes biology courses amd elective options in human anatomy, physiology and public health. Graduates who earn a BA in Anthropology with a Human Biology Concentration gain the broad, liberal arts background that many professional schools find attractive. If you're interested in this concentration, contact the Human Biology Concentration advisor, Dr. Charles Weitz, at 215-204-7330 or [weitz@temple.edu](mailto:weitz@temple.edu).
 
-Learn More about [Human Biology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
+Learn More about [Human Biology Concentration](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
 
 ## Visual Anthropology
 ![Visual Communication]({{site.baseurl}}/media/resized visual communication.jpg){:.responsive-img .img-right}
 The Anthropology of Visual Communication track is well suited to students with interests in all forms of alternative media, artistic performance, documentary and ethnographic film, feature film, home media, televisual communication (including both broadcast and narrowcast forms). In addition, new media's role in globalization plays an increasing role in the discipline of visual anthropology. Research topics include cave paintings, hieroglyphics, jewelry, paintings, photographs, paintings, reliefs, sculptures and tattoos. If you're interested in learning more, contact the Visual Anthropology Advisor, Jayasinhji Jhala, at 215-204-7727 or [jjhala@temple.edu](mailto:jjhala@temple.edu).
 
-Learn More about the [Visual Anthropology Track](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
+Learn More about the [Visual Anthropology Track](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
 
 ## Minor in Anthropology
 The [Minor in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major.  If you are considering a career in a health profession, the [Minor in Anthropology: Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/) is an excellent way to improve your application for medical school or other graduate programs. If your interests lie in media and art, we offer a [Minor in Visual Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/). Whatever your plans are after graduation, minoring in anthropology helps you stand out when you apply for jobs or graduate school, becauser it shows that you have a well-rounded education.
@@ -51,7 +51,7 @@ The [Minor in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-art
 ## Certificate in Language and Cross-Cultural Communication
 The Certificate in Language and Cross-Cultural Communication provides you with the sociolinguistic and cultural knowledge you need to solve language-related  in both everyday and institutional communication.. The program lines up well with the current institutitional mission of Temple University - we prepare students to work and thrive in an increasingly globalized world where language-related expertise, particularly cross-linguistic and cross-cultural knowledge, is a highly desireably skill. The curriculum for the certificate consists of linguistic anthropology courses that cover language and how language is used to understand culture, how languages are distributed across the world and their contemporary and historical relationships.
 
-Learn More about the [Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
+Learn More about the [Certificate in Language and Cross-Cultural Communication](https://www.temple.edu/academics/degree-programs/language-and-cross-culture-communication-certificate-undergraduate-la-lccc-cert)
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
@@ -69,21 +69,9 @@ For more than 130 years, we have focused on providing a world-class education at
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
-[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+Learn More about [Financial Aid and Scholarships](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba/anthropology-ba-scholarships-and-financial-aid)
 
-## Undergraduate Admissions
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
- 
-### Temple Admissions Deadlines
-- **February 1**: Freshman Application Deadline for Fall Semester
-- **February 1**: FAFSA Financial Aid Application Deadline
-- **November 1**: Transfer Deadline for Spring Semester
-- **June 1**: Transfer Deadline for Fall Semester
-
-## Undergraduate Resources
-- [Online Application](http://admissions.temple.edu/apply)
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate funding](http://sfs.temple.edu/)
-- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+## Additional Resources
+- [Changing your Major](https://www.cla.temple.edu/academic-advising/policies-and-procedures/)
+- [Graduation Application Process](https://www.cla.temple.edu/academic-advising/graduation/)
+- [Undergraduate policies and procedures](https://bulletin.temple.edu/undergraduate/academic-policies/)
