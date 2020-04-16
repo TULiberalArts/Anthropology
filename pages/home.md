@@ -11,7 +11,6 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-
 feature: true
 feature-title:
 feature-image: media/resized anthropology hero.png
@@ -23,14 +22,14 @@ feature-body: >-
 ---
 
 ## Academic Offerings
- - [BA in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
- - [BA in Human Biology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/human-biology-concentration/)
- - [BA in Anthropology and Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-concentration/)
- - [Minor in Anthropology: Human Biology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/anthropology-human-biology-minor/)
- - [Minor in General Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
- - [Minor in Anthropology of Visual Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
- - [Undergraduate Certificate in Language and Cross-Cultural Communication](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
- - [PhD in Anthropology](http://bulletin.temple.edu/graduate/scd/cla/anthropology-phd/#text)
+ - [BA in General Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [BA in Human Biology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [BA in Anthropology and Visual Communication](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [Minor in Anthropology: Human Biology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [Minor in General Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [Minor in Anthropology of Visual Communication](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+ - [Undergraduate Certificate in Language and Cross-Cultural Communication](https://www.temple.edu/academics/degree-programs/language-and-cross-culture-communication-certificate-undergraduate-la-lccc-cert)
+ - [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
 
 ___
 
