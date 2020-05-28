@@ -32,7 +32,7 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 ### Sociocultural Anthropology
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
-Learn More about the [BA in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
+Learn More about the [BA in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
 
 ## BA in Human Biology
 The Human Biology Concentration in Anthropology prepares you for careers in healthcare that include dentistry, medicine, optometry, physical therapy and podiatry. Human Biology students take courses that emphasize an evolutionary perspective on humans and cover human genetics, human paleontology, human physiology and human reproductive biology and behavior. Our curriculum also includes biology courses amd elective options in human anatomy, physiology and public health. Graduates who earn a BA in Anthropology with a Human Biology Concentration gain the broad, liberal arts background that many professional schools find attractive. If you're interested in this concentration, contact the Human Biology Concentration advisor, Dr. Charles Weitz, at 215-204-7330 or [weitz@temple.edu](mailto:weitz@temple.edu).
