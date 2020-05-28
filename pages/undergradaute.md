@@ -12,9 +12,9 @@ keywords: 'anthropology, undergraduate, visual, biology, track'
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-If you’re fascinated by how societies and cultures develop, then a Temple University Anthropology [degree](#major-in-anthropology-at-temple) is your path for turning that passion into a career. Undergraduate Anthropology majors learn the discipline’s four subfields and conduct field research around the globe. Want to study Anthropology without majoring in it? Our [minor](#minor-in-anthropology) or [certificate](#certificate-in-language-and-cross-cultural-communication) program might be right for you. [Apply](#undergraduate-admissions) today and let our [advising team](#academic-advising-and-professional-development) help you craft the curricular plan that’s right for your needs.
+If you’re fascinated by how societies and cultures develop, then a Temple University Anthropology [degree](#bachelor-of-arts-in-anthropology) is your path for turning that passion into a career. Undergraduate Anthropology majors learn the discipline’s four subfields and conduct field research around the globe. Want to study Anthropology without majoring in it? Our [minor](#minor-in-anthropology) or [certificate](#certificate-in-language-and-cross-cultural-communication) program might be right for you. [Apply](#undergraduate-admissions) today and let our [advising team](#academic-advising-and-professional-development) help you craft the curricular plan that’s right for your needs.
 
-## Major in Anthropology at Temple
+## Bachelor of Arts in Anthropology
 ![Dr. Weitz and children]({{site.baseurl}}/media/resized 2 Dr. Weitz and children.jpg){:.responsive-img .img-left}
 If you join the Department of Anthropology, you will collaborate with faculty on field research in locations around the world, from biological research in Oman, to socio-cultural research in India, to archeological research right here in the Delaware Valley. Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all of anthropology’s four subdisciplines.
 
@@ -32,12 +32,12 @@ Linguistic anthropologists study the dynamic relationships among speakers, langu
 ### Sociocultural Anthropology
 Sociocultural anthropologists study social patterns and practices, paying close attention to how people around the world live, organize, govern and create meaning about themselves and others. To gain a firsthand sense of a community, sociocultural anthropologists spend time living in a community to do fieldwork which emphasizes the methodology of participant observation.
 
-Learn More about [Majoring in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
+Learn More about the [BA in Anthropology](http://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
 
 ## BA in Human Biology
 The Human Biology Concentration in Anthropology prepares you for careers in healthcare that include dentistry, medicine, optometry, physical therapy and podiatry. Human Biology students take courses that emphasize an evolutionary perspective on humans and cover human genetics, human paleontology, human physiology and human reproductive biology and behavior. Our curriculum also includes biology courses amd elective options in human anatomy, physiology and public health. Graduates who earn a BA in Anthropology with a Human Biology Concentration gain the broad, liberal arts background that many professional schools find attractive. If you're interested in this concentration, contact the Human Biology Concentration advisor, Dr. Charles Weitz, at 215-204-7330 or [weitz@temple.edu](mailto:weitz@temple.edu).
 
-Learn More about [Human Biology Concentration](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
+Learn More about the [Human Biology Concentration](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
 
 ## Visual Anthropology
 ![Visual Communication]({{site.baseurl}}/media/resized visual communication.jpg){:.responsive-img .img-right}
@@ -58,10 +58,10 @@ Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.
 
 Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
-## Fly in Four
+## Fly in 4
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
-Learn More about [How to Fly in Four](http://fly.temple.edu/)
+Learn More about [How to Fly in 4](http://fly.temple.edu/)
 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
