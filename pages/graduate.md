@@ -11,6 +11,7 @@ description: >-
   keywords: 'anthropology, doctoral degree, masters degree, visual communication'
 # custom variables
 sidebar: sidebars/graduate.html
+graduate_students: profiles/graduate_students_2.html
 ---
 Temple University’s Anthropology [Masters](#masters-of-arts-in-anthropology) and [PhD](#phd-in-anthropology) degree programs are designed for those who are seriously passionate about working hard towards furthering their anthropology education. If you’re accepted into the program, you’ll conduct exciting fieldwork and learn the skills you need to join the ranks of Temple grads performing ground-breaking anthropology work in academic and professional settings. Learn more about [admissions](#admission-requirements) into our graduate programs and [funding](#temple-graduate-school-funding) your education.
 
@@ -54,3 +55,21 @@ For more than 130 years, we have focused on providing a world-class education at
 - [Graduate School Calendar](http://www.temple.edu/registrar/documents/calendars/19-20.asp)
 - [Graduate Level Course Offerings](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg)
 - [Additional External Funding Sources](https://liberalarts.temple.edu/sites/liberalarts/files/Potential%20sources%20of%20funding%20for%20pre.pdf) (pdf.)
+
+___
+
+## Graduate Faculty
+Our faculty are committed to helping students develop professional competence in oral and written communication and gain the analytical thinking and logic skills necessary to succeed out in the field, the classroom and beyond. 
+
+- [Paul Farnsworth](https://liberalarts.temple.edu/academics/faculty/farnsworth-paul)
+- [Paul Garrett](https://liberalarts.temple.edu/academics/faculty/garrett-paul-b)
+- [Leonard Greenfield](https://liberalarts.temple.edu/academics/faculty/greenfield-leonard-o)
+- [Jayasinhji Jhala](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)
+- [Jess Newman](https://liberalarts.temple.edu/academics/faculty/newman-jess-marie)
+- [Leslie Reeder-Myers](https://liberalarts.temple.edu/academics/faculty/reeder-myers-leslie)
+- [Christie Rockwell](https://liberalarts.temple.edu/academics/faculty/rockwell-l-christie)
+- [Damien Stankiewicz](https://liberalarts.temple.edu/academics/faculty/stankiewicz-damien)
+- [Charles Weitz](https://liberalarts.temple.edu/academics/faculty/weitz-charles)
+- [Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d)
+
+{% include {{ page.graduate_students }} %}
