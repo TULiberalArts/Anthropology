@@ -54,7 +54,7 @@ ___
         color="#a41e35"
         title="New MA Program for Fall 2020!"
         content="Our new MA in Anthropology is built around two broad themes: Evolution and Human Environments, and Mobility and Global Inequality. Transferable skills and knowledge are gained through various courses. "
-        button-link="graduate"
+        button-link="/graduate#master-of-arts-in-anthropology/"
         button-text="Learn More" %}
       </div>
 </div>
