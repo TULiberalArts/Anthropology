@@ -46,8 +46,6 @@ Learn More about [Graduate School Funding](https://www.temple.edu/academics/scho
 ## Temple Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-- [Apply to Temple University](https://grad.temple.edu/admissions/how-apply)
-
 ## Application Deadline
 - Fall Semester: **January 5**
 - International Applicants: **December 10**
