@@ -25,7 +25,6 @@ Our new, 2-year, MA Program is intended for students who seek advanced training 
 - Please email the [Director of Graduate Studies](Christie.Rockwell@temple.edu) to inquire about applications and for further details.
 
 ## PhD in Anthropology 
-![Children in Village]({{site.baseurl}}/media/resized DSCF0432.jpg){:.responsive-img .img-left}
 Anthropology comprises four subdisciplines, all of which are represented at Temple: Archaeology, Biological Anthropology, Linguistic Anthropology, and Sociocultural Anthropology. In addition the Department also offers specialized courses and training in the Anthropology of Visual Communication. Doctoral students typically specialize in one of these areas, but interdisciplinary study and research are encouraged. Students complete two years of course work prior to beginning their Dissertation research. Well over 100 doctoral degrees have been conferred by the Department of Anthropology since 1976.
 
 Learn More about the [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
