@@ -22,13 +22,11 @@ feature-body: >-
 ---
 
 ## Academic Offerings
- - [BA in General Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [BA in Human Biology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [BA in Anthropology and Visual Communication](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [Minor in Anthropology: Human Biology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [Minor in General Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [Minor in Anthropology of Visual Communication](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
- - [Undergraduate Certificate in Language and Cross-Cultural Communication](https://www.temple.edu/academics/degree-programs/language-and-cross-culture-communication-certificate-undergraduate-la-lccc-cert)
+ - [BA in General Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
+ - [Minor in Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
+ - [Minor in Biomedical Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/biomedical-anthropology-minor/)
+ - [Undergraduate Certificate in Language and Cross-Cultural Communication](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
+ - [MA in Anthropology](https://bulletin.temple.edu/graduate/scd/cla/anthropology-ma/)
  - [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
 
 ___
