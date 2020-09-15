@@ -21,16 +21,16 @@ Anthropology majors at Temple gain a foundation in all of the four sub-fields as
 ### The Four Sub-Fields of Anthropology
 The word “anthropology” comes from the Greek “Anthropos” (meaning “human”) and logia (meaning “study”).  Anthropology is the only discipline that claims to study humans in all their dimensions, from the beginning of human existence to the present day
 
-**Archaeology**
+**Archaeology**<br>
 Archaeologists study the remains left by people and cultures who lived in the past by analyzing material remains such as artifacts, human remains, architecture, and modified landscapes and environments. Archeaologists use this evidence to study such topics as how social groups were formed, how systems such as religion and government emerged, how/why humans develop agriculture and other subsistence patterns and how/why human societies thrive or decline.
 
-**Biological Anthropology**
+**Biological Anthropology**<br>
 Biological anthropologists study human evolutionary origins and the evolution of the unique biological features that characterize all humans. They also study the biological variation that exists among contemporary populations, as well as how biological variation existed in past populations. They consider how the environment, genes and culture have interacted to shape human biology in the past and present. Finally, they study the characteristics and behaviors of living and extinct non-human primates.
 
-**Linguistic Anthropology**
+**Linguistic Anthropology**<br>
 Linguistic anthropologists study the unique human capacity for complex communication and how human language works. This subfield explores how linguistic and communicative practices shape the ways humans speak to each other, patterns of social interaction, categories of identity and group membership.
 
-**Sociocultural Anthropology**
+**Sociocultural Anthropology**<br>
 Sociocultural anthropologists study contemporary human groups across the world to understand and compare how they create meaning about themselves and others. Sociocultural anthropologists attempt to identify social patterns and practices, as well as how human communities change and adapt as they encounter shifting access to resources, changing political regimes, and climate change. To gain an “insider” understanding of how a particular community understands itself, sociocultural (and linguistic) anthropologists spend months or years living in the community conducting fieldwork. 
 
 - Learn More about the [BA in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
