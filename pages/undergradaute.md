@@ -35,6 +35,15 @@ Sociocultural anthropologists study contemporary human groups across the world t
 
 - Learn More about the [BA in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba)
 
+### Choose Between Two Themes 
+In order to encourage students to think across the sub-fields of anthropology, anthropology majors at Temple focus on one of two themes: **Mobility and Global Inequality**, which draws mainly on cultural and linguistic subfields, or **Evolution and Human Environments**, which emphasizes biological and archaeological approaches. However, each theme seeks to incorporate material from across all four subfields.
+
+**Mobility and Global Inequality (MGI)**<br>
+The MGI theme begins with the Mobility and Global Inequality introductory course and ends with the MGI capstone course. This theme emphasizes how humans have moved and changed over time, and continue to migrate across the world, as they seek to escape poverty, political oppression, or other contexts of insecurity and marginalization. Though it focuses on the contemporary world and how such processes as globalization and climate change continue to remake human life and organization of human societies, it seeks to embed this examination in broader historical processes such as; the emergence of nationalism, colonialism, the slave trade and rapid technological change, especially with regard to manufacturing, banking, transportation and mass media.
+
+**Evolution and Human Environments (EHE)**<br>
+The EHE theme begins with the Evolution and Human Environments introductory course and ends with the EHE capstone course. This theme uses the evolutionary and ecological sciences to understand the human condition. It brings together courses that emphasize dynamic systems in human biology and the human-environment interface. Students learn how evolutionary and ecological processes influence the development and sustainability of ancient and modern populations. Courses related to this theme emphasize understanding the socio-environmental factors that contribute to human migration, to the emergence of complex societies and to the ways that human cultures adapt to their environment. We also explore how human societies past and present influence, alter and rebuild their environments, as well as the effect that human-caused environmental change has on human health and disease.  
+
 ## Minor in Anthropology
 The Minor in Anthropology is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major. Whatever your plans are after graduation, minoring in anthropology will help you stand out; employers will appreciate your writing and research skills, well-rounded education, as well as your capacity to speak about human communities and social change in complex and informed ways.
 
