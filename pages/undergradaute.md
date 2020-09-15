@@ -15,7 +15,7 @@ sidebar: sidebars/undergraduate.html
 If you’re fascinated by how human societies and cultures develop, then a Temple University Anthropology [degree](#bachelor-of-arts-in-anthropology) is your path for turning that passion into a career. Undergraduate Anthropology majors learn the discipline’s four subfields and conduct field research around the globe. Want to study Anthropology without majoring in it? Our minor or [certificate](#certificate-in-language-and-cross-cultural-communication) program might be right for you. [Apply](#undergraduate-admissions) today and let our [advising team](#academic-advising-and-professional-development) help you craft an academic the curricular plan that’s right for that matches your interests and needs.
 
 ## Bachelor of Arts in Anthropology
-![Dr. Weitz and children]({{site.baseurl}}/media/resized 2 Dr. Weitz and children.jpg){:.responsive-img .img-left}
+![Dr. Weitz and children]({{site.baseurl}}/media/resized 2 Dr. Weitz and children.jpg){:.responsive-img .img-right}
 Anthropology majors at Temple gain a foundation in all of the four sub-fields associated with the discipline’s comprehensive study of humans and human cultures - archaeology, biological anthropology, linguistic anthropology and sociocultural anthropology. Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences in all areas of anthropology.
 
 ### The Four Sub-Fields of Anthropology
