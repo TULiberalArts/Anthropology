@@ -47,7 +47,7 @@ If you would like to visit the museum, access the collections, or use the labora
 Anthropology Laboratory of Research and Exhibits<br>
 [Dr. Leslie Reeder-Myers](https://liberalarts.temple.edu/academics/faculty/reeder-myers-leslie)<br>
 [215-204-1418](tel:2152041418)<br>
-[leslie.reeder-myers@temple.edu](mailto:leslie.reeder-myers@temple.edu)
+[leslie.reeder-myers@temple.edu](mailto:leslie.reeder-myers@temple.edu)<br>
 [Temple University Laboratory and Museum](https://www.tuanthmuseum.com/)
 
 ### Chair
