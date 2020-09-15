@@ -53,17 +53,17 @@ The Visual Anthropology Minor is well suited to students with interests in all f
 ## Certificate in Language and Cross-Cultural Communication
 The Certificate in Language and Cross-Cultural Communication provides you with the sociolinguistic and cultural knowledge you need to solve language-related in both everyday and institutional communication. The program lines up well with the current institutional mission of Temple University - we prepare students to work and thrive in an increasingly globalized world where language-related expertise, particularly cross-linguistic and cross-cultural knowledge, is a highly desirable skill. The curriculum for the certificate consists of linguistic anthropology courses that cover language and how language is used to understand culture, how languages are distributed across the world and their contemporary and historical relationships.
 
-Learn More about the [Certificate in Language and Cross-Cultural Communication](https://www.temple.edu/academics/degree-programs/language-and-cross-culture-communication-certificate-undergraduate-la-lccc-cert)
+- Learn More about the [Certificate in Language and Cross-Cultural Communication](https://www.temple.edu/academics/degree-programs/language-and-cross-culture-communication-certificate-undergraduate-la-lccc-cert)
 
 ## Academic Advising and Professional Development
 Take full advantage of the [College of Liberal Arts](https://liberalarts.temple.edu/)’ flexible curriculum with the help of our award-winning advisors. We help you select a major or a minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with internships, study abroad programs and other experiential learning opportunities.
 
-Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
+- Learn More about [Temple’s Award-Winning Advisors](https://liberalarts.temple.edu/advising)
 
 ## Fly in 4
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
-Learn More about [How to Fly in 4](http://fly.temple.edu/)
+- Learn More about [How to Fly in 4](http://fly.temple.edu/)
 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
@@ -71,7 +71,7 @@ For more than 130 years, we have focused on providing a world-class education at
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, state, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
-Learn More about [Financial Aid and Scholarships](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba/anthropology-ba-scholarships-and-financial-aid)
+- Learn More about [Financial Aid and Scholarships](https://www.temple.edu/academics/degree-programs/anthropology-major-la-anth-ba/anthropology-ba-scholarships-and-financial-aid)
 
 ## Additional Resources
 - [Changing your Major](https://www.cla.temple.edu/academic-advising/policies-and-procedures/)
