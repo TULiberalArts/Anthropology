@@ -28,23 +28,23 @@ Our new, 2-year, MA Program is intended for students who seek advanced training 
 ## PhD in Anthropology 
 Anthropology comprises four subdisciplines, all of which are represented at Temple: Archaeology, Biological Anthropology, Linguistic Anthropology, and Sociocultural Anthropology. In addition the Department also offers specialized courses and training in the Anthropology of Visual Communication. Doctoral students typically specialize in one of these areas, but interdisciplinary study and research are encouraged. Students complete two years of course work prior to beginning their Dissertation research. Well over 100 doctoral degrees have been conferred by the Department of Anthropology since 1976.
 
-Learn More about the [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
+- Learn More about the [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
 
 ## Admission Requirements
 ### MA Admissions 
 Before you apply to our MA in Anthropology program, it is recommended that you contact the [Director of Graduate Studies](Christie.Rockwell@temple.edu) to discuss your interest in the program. A BA or BS degree is required. Two letters of recommendation and a statement of interest are required. GRE scores are not required. Financial support is not available for MA students. 
 
-Learn More about the [MA Admissions Requirements](https://bulletin.temple.edu/graduate/scd/cla/anthropology-ma/#admissiontext)
+- Learn More about the [MA Admissions Requirements](https://bulletin.temple.edu/graduate/scd/cla/anthropology-ma/#admissiontext)
 
 ### PhD Admissions
 Before you apply to our PhD in Anthropology program, establish personal contact with at least one faculty member at the Department of Anthropology whose research interests overlap with yours and who might serve as an academic advisor. It is also recommended that you contact the Director of Graduate Studies to discuss your interest in the program. As an applicant to our PhD program, you should have a bachelor’s degree, but it does not need to be in anthropology. You are not required to have a master’s degree. The minimum admission standard for all graduate students is an undergraduate grade point average of B, or 3.0 or the functional equivalent for students who attended universities outside the United States. GRE scores and a written statement of interest are required. TOFEL scores are required for international students. Three letters of recommendation from individuals familiar with your academic work are also required. The number of applicants accepted each year varies depending on such factors as our ability to offer financial support and the availability of faculty members to serve as advisors to new students. In recent years, our newly incoming cohorts have generally had four to six students.
 
-Learn More about the [PhD Admissions Requirements](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd/cla-anthropology-phd-admissions)
+- Learn More about the [PhD Admissions Requirements](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd/cla-anthropology-phd-admissions)
 
 ## Temple Graduate School Funding
 Outstanding PhD applicants are nominated for Temple University’s Presidential, University, and Future Faculty Fellowships, which provide four years of tuition remission, a living stipend, and other benefits. Limited numbers of Teaching and Research Assistantships, which provide up to 5 years of funding, are also available for well-qualified applicants. Students are strongly encouraged to apply for external grants and fellowships. For more information about funding please contact the [Director of Graduate Studies](Christie.Rockwell@temple.edu). **Temple University Fellowships and Assistantships are not available for MA students**. Visit the [Student Financial Services website](https://sfs.temple.edu/) for additional finacial aid information.
 
-Learn More about [Graduate School Funding](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-sociology-scholarships?p=1633)
+- Learn More about [Graduate School Funding](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-sociology-scholarships?p=1633)
 
 ## Temple Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
