@@ -47,7 +47,7 @@ The EHE theme begins with the Evolution and Human Environments introductory cour
 ## Minor in Anthropology
 The Minor in Anthropology is designed for any undergraduate at Temple who wants to learn about general anthropology, but cannot commit to a full academic major. Whatever your plans are after graduation, minoring in anthropology will help you stand out; employers will appreciate your writing and research skills, well-rounded education, as well as your capacity to speak about human communities and social change in complex and informed ways.
 
-Learn More about the [Minor in Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
+- Learn More about the [Minor in Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
 
 ## Minor in Biomedical Anthropology
 The Biomedical Anthropology Minor in the Department of Anthropology integrates knowledge of modern human biological variation and sensitivity to the complex of social factors that contribute to health, well-being and to understanding and treating disease conditions. Therefore, it is particularly valuable for students who intend to seek careers in health care fields serving modern multi-cultural populations. The Human Biology approach in Anthropology develops Core Competencies essential for admission into post-graduate health professional programs, including cultural competence, understanding of human behavior, analytical thought and problem-solving skills directed towards biological systems and written and verbal communication. If you’re interested in this concentration, contact Dr. Charles Weitz, at [215-204-7330](tel:2152047330) or [weitz@temple.edu](mailto:weitz@temple.edu).
