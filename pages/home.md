@@ -25,6 +25,7 @@ Anthropology is the study of human origins, development, and diversity. Anthropo
  - [BA in General Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
  - [Minor in Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
  - [Minor in Biomedical Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/biomedical-anthropology-minor/)
+ - [Minor in Visual Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/visual-anthropology-minor/)
  - [Undergraduate Certificate in Language and Cross-Cultural Communication](https://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-language-cross-cultural-communication/)
  - [MA in Anthropology](https://bulletin.temple.edu/graduate/scd/cla/anthropology-ma/)
  - [PhD in Anthropology](https://www.temple.edu/academics/degree-programs/anthropology-phd-la-anth-phd)
