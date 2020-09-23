@@ -21,6 +21,7 @@ Anthropology majors at Temple gain a foundation in all of the four sub-fields as
 ### The Four Sub-Fields of Anthropology
 The word “anthropology” comes from the Greek “Anthropos” (meaning “human”) and logia (meaning “study”).  Anthropology is the only discipline that claims to study humans in all their dimensions, from the beginning of human existence to the present day.
 
+
 **Archaeology**<br>
 Archaeologists study the remains left by people and cultures who lived in the past by analyzing material remains such as artifacts, human remains, architecture, and modified landscapes and environments. Archeaologists use this evidence to study such topics as how social groups were formed, how systems such as religion and government emerged, how/why humans develop agriculture and other subsistence patterns and how/why human societies thrive or decline.
 
