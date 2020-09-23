@@ -43,8 +43,8 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
       color="#a41e35"
-      title="Fieldwork and Research"
-      content="Our faculty engage in active field research both close to home and in distant locales. Come learn about fieldwork opportunities and discover how and where you want to apply your anthropology training."
+      title="Explore Our Museum"
+      content="The Anthropology Museum, located near the entrance of Gladfelter Hall, provides hands-on learning through its extensive artifact collections, exhibition and displays (which students often design and assemble during coursework), as well as space for meetings and events."
       button-link="research-labs"
       button-text="Learn More" %}
     </div>
