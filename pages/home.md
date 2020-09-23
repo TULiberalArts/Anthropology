@@ -36,7 +36,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-fixed.html
     color="#a41e35"
     title="Major and Minors"
-    content="Become an Anthropology major or choose a minor in Anthropology, or a minor in Biomedical Anthropology or a minor in Visual Anthropology, or certificate program that will help prepare you for further study or engagement with real world issues."
+    content="Become an Anthropology major or choose a minor in Anthropology, a minor in Biomedical Anthropology, a minor in Visual Anthropology or a certificate program that will help prepare you for further study or engagement with real-world issues."
     button-link="undergraduate"
     button-text="Learn More" %}
   </div>
