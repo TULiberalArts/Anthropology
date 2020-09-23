@@ -29,8 +29,10 @@ Reflecting one focus of faculty and student research, The Department of Anthropo
 
 ---
 
-## Laboratory of Research and Exhibitions
-The Laboratory of Research and Exhibitions houses ethnological, archaeological, historical, and biological collections from all over the world. Since its inception in 1964, the LRE has focused on providing a hands-on learning for Temple University students, who help design exhibits, manage collections, and perform original research. Faculty and students also use the laboratory for their own research projects, including the wet lab, microscopes, reference collections, and analytical space. Forthcoming equipment for isotope sample preparation, a zooarchaeological laboratory, and a digitization studio will expand the laboratory’s research capability.
+## Anthropology Museum
+The Temple Anthropology Laboratory Museum is home to anthropological collections from all over the world. House posts and funerary canoes from the Solomon Islands sit alongside pottery from Metepec, Mexico, feather headdresses from the Cashinahua people of Peru, and 10,000 year old spear points from right here in Pennsylvania. Temple students create exhibits on the indigenous past of Pennsylvania, textile production in Argentina, and music in Papua New Guinea. They help catalog and care for the objects in the museum, take photographs for 3D modeling, and create virtual exhibits. They also museum analyze archaeological collections—sometimes after doing the excavations themselves.
+
+For more information, visit the museum’s [website](https://www.tuanthmuseum.com/). This website has been created entirely by Temple students, including all of the photography. Or come visit us in Gladfelter Hall--see the website for updated hours.
 
 Many Temple undergraduate students come through the museum doors, often as part of courses in Anthropology or Latin American Studies. Many others participate in collections-based research projects with Anthropology faculty. If you are interested in working in the museum, please contact the director for information about taking the Practicum in Curation and Collections Management. Students in this 1-credit hour course choose from projects digitizing collections, creating exhibits, or performing research on museum materials.
 
