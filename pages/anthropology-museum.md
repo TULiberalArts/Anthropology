@@ -52,6 +52,8 @@ Periodically, the department offers a summer Archaeological Field School in whic
 [Dr. Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) is an archaeologist whose current research is focused on mortuary and landscape archaeology in Southeastern Arabia. Students have assisted Dr. Williams in her excavations of Early Bronze Age burial sites in Oman. This research contributes to our understanding of prehistoric mortuary ritual, funerary landscape formation and use, interred material culture, and archaeological human skeletal remains all recovered through survey and excavation.
 
 _Other faculty members also may involve students in their research. Interested students should consult our faculty's profile pages to find out more about their research activities._
+
+___
  
 ## Research Labs
 ### Biological Anthropology Teaching Laboratory
