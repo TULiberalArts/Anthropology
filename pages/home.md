@@ -45,7 +45,7 @@ ___
       color="#a41e35"
       title="Explore Our Museum"
       content="The Anthropology Museum, located near the entrance of Gladfelter Hall, provides hands-on learning through its extensive artifact collections, exhibition and displays (which students often design and assemble during coursework), as well as space for meetings and events."
-      button-link="research-labs"
+      button-link="anthropology-museum"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
