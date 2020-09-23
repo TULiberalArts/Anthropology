@@ -1,10 +1,10 @@
 ---
 # global predefined variables
-permalink: /research-labs/
+permalink: /anthropology-museum/
 layout: tla_page
 published: true
 # meta-data variables
-title: Research Labs
+title: Anthropology Museum
 description: >-
  Experience Anthropology with hands-on training opportunities in biology, linguistic,
  skeletal, and media labs at Temple University’s College of Liberal Arts.
