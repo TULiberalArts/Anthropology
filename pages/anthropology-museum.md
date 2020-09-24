@@ -40,6 +40,8 @@ Anthropology Laboratory and Museum
 ### Resources and Opportunities
 Laboratory facilities, internships, fieldwork and experiential learning courses provide our students with practical experiences across all anthropology’s subdisciplines. 
 
+In our course on museum curation, _Practicum In Curation_, students can learn practical skills in curation and collections management. Students participate in a variety of projects (i.e. cataloging archaeological collections, developing digital collections, artifact photography and documentation, developing new exhibits) related to the long-term care and preservation of ethnographic and archaeological collections housed in the Anthropology Laboratory.
+
 Our [Internship in Anthropology course](https://bulletin.temple.edu/search/?search=ANTH+4185) offers students a chance to receive credit for internships related to their study of anthropology. Students coordinate their internship activities with a faculty member as well as their internship supervisor. They keep a journal of their activities and write a concluding paper that summarizes their work and its relationship to the way they will use the experience after they graduate.
 
 Periodically, the department offers a summer Archaeological Field School in which students participate in an archaeological excavation at a site in eastern Pennsylvania or in southern New Jersey. In addition to these opportunities several faculty members involve students in their personal research projects.
