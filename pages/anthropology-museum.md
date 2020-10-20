@@ -56,6 +56,8 @@ Periodically, the department offers a summer Archaeological Field School in whic
 
 _Other faculty members also may involve students in their research. Interested students should consult our faculty's profile pages to find out more about their research activities._
 
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://sway.office.com/s/WN1AccWbPsH4WKuS/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe></div>
+
 ___
  
 ## Research Labs
