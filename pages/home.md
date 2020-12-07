@@ -21,6 +21,11 @@ Studying anthropology helps build the creative thinking and critical analysis ne
 
 Anthropology is the study of human origins, development, and diversity. Anthropologists explore the ways in which people understand and adapt to living in a variety of settings, ranging from urban environments to rural villages, all over the world and across time. Anthropologists are interested in investigating such questions as: What does it mean to be human? What are the historical, social, political, economic, and environmental pressures that have helped shape the experiences of particular groups of people? How do human beings interact with the physical environment? Does the language that one speaks affect the ways in which one thinks and experiences the world? Anthropology at Temple is organized according to two thematic areas of anthropology: **Evolution and Human Environments and Mobility and Global Inequality**. These two areas of concentration allow us to offer students the tools they will need to work and thrive in an increasingly multicultural and multilingual globalized world.
 
+**Department of Anthropology Statement on Anti-Racism**<br>
+- **_Read Temple University's [Department of Anthropology Statement Statement on Anti-Racism](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Anthropology%20Statement%20on%20Anti-Racism.pdf)_**
+
+___
+
 ## Academic Offerings
  - [BA in General Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general-anthropology-major/)
  - [Minor in Anthropology](https://bulletin.temple.edu/undergraduate/liberal-arts/anthropology/general_anthropology-minor/)
