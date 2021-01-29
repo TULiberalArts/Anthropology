@@ -56,7 +56,7 @@ ___
       <div class="col m12 l4">{% include cards/card2-fixed.html
         color="#a41e35"
         title="New MA Program for Fall 2020!"
-        content="Our new MA in Anthropology is built around two broad themes: Evolution and Human Environments, and Mobility and Global Inequality. Transferable skills and knowledge are gained through various courses. "
+        content="Our new MA in Anthropology is built around two broad themes: Evolution and Human Environments, and Mobility and Global Inequality. Transferable skills and knowledge are gained through various courses."
         button-link="https://www.cla.temple.edu/anthropology/graduate#master-of-arts-in-anthropology/"
         button-text="Learn More" %}
       </div>
